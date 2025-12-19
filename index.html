@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Talmify - Your Ultimate Student Companion</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        brand: {
+                            dark: '#0f172a',
+                            primary: '#6366f1',
+                            secondary: '#8b5cf6',
+                            accent: '#ec4899',
+                            logoBlue: '#007AFF',
+                            // New Pro Colors
+                            proWidget: '#60CCAF',
+                            proCalendar: '#E76971',
+                            proIcloud: '#52B0F0',
+                            proChart: '#ECA85D',
+                            proSparkles: '#F1C045',
+                            proInfinity: '#E790D1'
+                        }
+                    },
+                    animation: {
+                        'float': 'float 6s ease-in-out infinite',
+                        'scroll': 'scroll 40s linear infinite',
+                        'scroll-reverse': 'scrollReverse 45s linear infinite',
+                    },
+                    keyframes: {
+                        float: {
+                            '0%, 100%': { transform: 'translateY(0)' },
+                            '50%': { transform: 'translateY(-20px)' },
+                        },
+                        scroll: {
+                            '0%': { transform: 'translateX(0)' },
+                            '100%': { transform: 'translateX(-50%)' },
+                        },
+                        scrollReverse: {
+                            '0%': { transform: 'translateX(-50%)' },
+                            '100%': { transform: 'translateX(0)' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        /* Base Scroll Settings */
+        html {
+            scroll-behavior: smooth;
+            overflow-x: hidden;
+        }
+        
+        body {
+            overflow-x: hidden;
+            width: 100%;
+            position: relative;
+        }
+
+        /* Custom Utilities */
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.6);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
+            transition: height 0.3s ease-in-out, min-height 0.3s ease-in-out;
+        }
+
+        /* Chat Animations */
+        .typing-dot {
+            animation: typing 1.4s infinite ease-in-out both;
+        }
+        .typing-dot:nth-child(1) { animation-delay: -0.32s; }
+        .typing-dot:nth-child(2) { animation-delay: -0.16s; }
+        
+        @keyframes typing {
+            0%, 80%, 100% { transform: scale(0); }
+            40% { transform: scale(1); }
+        }
+
+        .message-appear {
+            animation: popIn 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+            opacity: 0;
+            transform: translateY(10px) scale(0.95);
+            transform-origin: bottom left;
+        }
+        
+        .message-appear.user {
+            transform-origin: bottom right;
+        }
+
+        @keyframes popIn {
+            to {
+                opacity: 1;
+                transform: translateY(0) scale(1);
+            }
+        }
+
+        /* Hide scrollbar within elements */
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
+        .gradient-text {
+            background: linear-gradient(to right, #6366f1, #ec4899);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        /* New Pro Gradient Text */
+        .sparkle-text {
+            color: #F1C045;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 selection:bg-brand-primary selection:text-white">
+
+    <!-- Navbar -->
+    <nav class="fixed w-full z-50 transition-all duration-300" id="navbar">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20">
+                <div class="flex items-center space-x-3 cursor-pointer" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+                    <!-- Logo SVG -->
+                    <div class="w-10 h-10 shadow-lg rounded-xl overflow-hidden transition-transform hover:scale-105 bg-white p-1">
+                        <svg viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-full h-full">
+                            <path d="M671.5 157.5C671.5 136.789 688.289 120 709 120C729.711 120 746.5 136.789 746.5 157.5V247.5C746.5 268.211 729.711 285 709 285C688.289 285 671.5 268.211 671.5 247.5V157.5Z" fill="#007AFF"/>
+                            <path d="M261 249C261 276.614 283.386 299 311 299H319C346.614 299 369 276.614 369 249V150H655V249C655 276.614 677.386 299 705 299H713C740.614 299 763 276.614 763 249V150H804C842.66 150 874 181.34 874 220V804C874 842.66 842.66 874 804 874H220C181.34 874 150 842.66 150 804V220C150 181.34 181.34 150 220 150H261V249ZM362.868 708.155C352.738 711.457 346.524 720.316 346.524 732.514V777.225C346.525 792.797 356.725 803 372.294 803H380.974C396.543 803 406.743 792.797 406.743 777.225V732.514C406.743 720.386 400.601 711.56 390.574 708.214V691.368C379.442 684.765 370.071 677.133 362.868 668.703V708.155ZM575.634 621.803C554.173 631.697 534.459 636.616 515.941 636.441C497.539 636.616 477.763 631.697 456.191 621.803L390.574 591.825V691.368C421.405 709.836 465.039 720.901 515.941 720.901C618.029 720.901 690.389 676.547 690.39 621.144V569.309L575.634 621.803ZM341.61 621.144C341.611 636.226 349.203 653.692 362.868 668.703V579.18L341.61 569.363V621.144ZM515.941 375.015C501.177 374.722 485.853 378.716 467.271 387.053L297.569 464.73C284.887 470.496 278 481.031 278 492.34C278 503.592 284.887 514.174 297.569 519.892L362.164 548.897L476.879 495.502C476.167 494.451 475.93 493.391 475.93 492.34C475.93 478.721 495.864 469.096 516.415 469.096C537.03 469.096 556.783 478.611 556.783 492.34C556.783 506.25 537.14 516.048 516.415 516.048C510.011 516.048 503.605 515.069 497.952 513.344L391.049 562.809L467.271 597.688C485.853 606.254 501.177 609.955 515.941 609.726C530.822 609.955 546.148 606.144 564.61 597.688L734.429 519.892C747.113 514.008 754 503.592 754 492.34C754 481.031 747.113 470.496 734.429 464.73L564.61 387.053C546.148 378.716 530.822 374.722 515.941 375.015Z" fill="#007AFF"/>
+                            <path d="M277.5 157.5C277.5 136.789 294.289 120 315 120C335.711 120 352.5 136.789 352.5 157.5V247.5C352.5 268.211 335.711 285 315 285C294.289 285 277.5 268.211 277.5 247.5V157.5Z" fill="#007AFF"/>
+                        </svg>
+                    </div>
+                    <span class="font-bold text-2xl tracking-tight">Talmify</span>
+                </div>
+                <!-- Desktop Menu -->
+                <div class="hidden md:flex space-x-8 items-center">
+                    <button onclick="scrollToSection('features')" class="text-slate-600 hover:text-brand-primary font-medium transition">Features</button>
+                    <button onclick="scrollToSection('integration')" class="text-slate-600 hover:text-brand-primary font-medium transition">iOS & iPadOS Deep Dive</button>
+                    <button onclick="scrollToSection('global')" class="text-slate-600 hover:text-brand-primary font-medium transition">Global</button>
+                    <button onclick="scrollToDownload()" class="bg-black text-white px-6 py-2.5 rounded-full font-medium hover:bg-slate-800 transition transform hover:scale-105 shadow-lg flex items-center gap-2">
+                        <i class="fa-brands fa-apple text-lg"></i>
+                        <span>Download</span>
+                    </button>
+                </div>
+                <!-- Mobile menu button -->
+                <div class="md:hidden">
+                    <button id="mobile-menu-btn" class="text-slate-600 hover:text-black focus:outline-none">
+                        <i class="fas fa-bars text-2xl"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <!-- Mobile Menu -->
+        <div id="mobile-menu" class="hidden md:hidden bg-white/95 backdrop-blur-md absolute w-full border-b border-slate-200">
+            <div class="px-4 pt-2 pb-6 space-y-2">
+                <button onclick="scrollToSection('features'); toggleMenu()" class="block w-full text-left px-3 py-2 text-slate-600 font-medium">Features</button>
+                <button onclick="scrollToSection('integration'); toggleMenu()" class="block w-full text-left px-3 py-2 text-slate-600 font-medium">iOS & iPadOS Integration</button>
+                <button onclick="scrollToSection('global'); toggleMenu()" class="block w-full text-left px-3 py-2 text-slate-600 font-medium">Global</button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden min-h-screen flex items-center">
+        <!-- Background Blobs -->
+        <div class="absolute top-0 left-0 w-full h-full overflow-hidden -z-10">
+            <div class="absolute top-[-10%] right-[-5%] w-[600px] h-[600px] bg-brand-primary/10 rounded-full blur-[100px] animate-float"></div>
+            <div class="absolute bottom-[10%] left-[-10%] w-[500px] h-[500px] bg-brand-accent/10 rounded-full blur-[100px] animate-float" style="animation-delay: 2s;"></div>
+        </div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
+            <div class="grid lg:grid-cols-2 gap-16 items-center">
+                
+                <!-- Hero Content -->
+                <div class="space-y-8 text-center lg:text-left z-10 order-2 lg:order-1">
+                    <!-- Reverted Badge Color to Primary Purple -->
+                    <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white border border-slate-200 shadow-sm text-sm font-semibold text-brand-primary mb-2">
+                        <span class="relative flex h-3 w-3">
+                          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-primary opacity-75"></span>
+                          <span class="relative inline-flex rounded-full h-3 w-3 bg-brand-primary"></span>
+                        </span>
+                        Meet Talmify AI
+                    </div>
+                    <h1 class="text-5xl lg:text-7xl font-extrabold tracking-tight text-slate-900 leading-[1.1]">
+                        Your study life, <br>
+                        <span class="gradient-text">intelligently organized.</span>
+                    </h1>
+                    <p class="text-xl text-slate-600 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
+                        Manage courses, sync calendars, and chat with your personal AI assistant to stay ahead. Designed exclusively for students on iOS and iPadOS.
+                    </p>
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-4">
+                        <button onclick="scrollToDownload()" class="bg-black text-white px-8 py-4 rounded-2xl font-bold hover:bg-slate-800 transition transform hover:scale-105 shadow-xl flex items-center justify-center gap-3">
+                            <i class="fa-brands fa-apple text-3xl"></i>
+                            <div class="text-left leading-tight">
+                                <div class="text-xs font-medium text-slate-300">Download on the</div>
+                                <div class="text-xl">App Store</div>
+                            </div>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Hero Animation: Floating Chat Card -->
+                <div class="relative flex items-center justify-center order-1 lg:order-2">
+                    <!-- The Floating Glass Card -->
+                    <div class="glass-panel w-full max-w-md rounded-3xl p-6 relative z-20 animate-float transition-all duration-300 flex flex-col">
+                        
+                        <!-- Header of Card -->
+                        <div class="flex items-center justify-between border-b border-slate-100 pb-4 mb-4">
+                            <div class="flex items-center gap-3">
+                                <!-- Small Logo Icon -->
+                                <div class="w-10 h-10 rounded-xl overflow-hidden shadow-sm">
+                                    <svg viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-full h-full">
+                                        <path d="M671.5 157.5C671.5 136.789 688.289 120 709 120C729.711 120 746.5 136.789 746.5 157.5V247.5C746.5 268.211 729.711 285 709 285C688.289 285 671.5 268.211 671.5 247.5V157.5Z" fill="#007AFF"/>
+                                        <path d="M261 249C261 276.614 283.386 299 311 299H319C346.614 299 369 276.614 369 249V150H655V249C655 276.614 677.386 299 705 299H713C740.614 299 763 276.614 763 249V150H804C842.66 150 874 181.34 874 220V804C874 842.66 842.66 874 804 874H220C181.34 874 150 842.66 150 804V220C150 181.34 181.34 150 220 150H261V249ZM362.868 708.155C352.738 711.457 346.524 720.316 346.524 732.514V777.225C346.525 792.797 356.725 803 372.294 803H380.974C396.543 803 406.743 792.797 406.743 777.225V732.514C406.743 720.386 400.601 711.56 390.574 708.214V691.368C379.442 684.765 370.071 677.133 362.868 668.703V708.155ZM575.634 621.803C554.173 631.697 534.459 636.616 515.941 636.441C497.539 636.616 477.763 631.697 456.191 621.803L390.574 591.825V691.368C421.405 709.836 465.039 720.901 515.941 720.901C618.029 720.901 690.389 676.547 690.39 621.144V569.309L575.634 621.803ZM341.61 621.144C341.611 636.226 349.203 653.692 362.868 668.703V579.18L341.61 569.363V621.144ZM515.941 375.015C501.177 374.722 485.853 378.716 467.271 387.053L297.569 464.73C284.887 470.496 278 481.031 278 492.34C278 503.592 284.887 514.174 297.569 519.892L362.164 548.897L476.879 495.502C476.167 494.451 475.93 493.391 475.93 492.34C475.93 478.721 495.864 469.096 516.415 469.096C537.03 469.096 556.783 478.611 556.783 492.34C556.783 506.25 537.14 516.048 516.415 516.048C510.011 516.048 503.605 515.069 497.952 513.344L391.049 562.809L467.271 597.688C485.853 606.254 501.177 609.955 515.941 609.726C530.822 609.955 546.148 606.144 564.61 597.688L734.429 519.892C747.113 514.008 754 503.592 754 492.34C754 481.031 747.113 470.496 734.429 464.73L564.61 387.053C546.148 378.716 530.822 374.722 515.941 375.015Z" fill="#007AFF"/>
+                                        <path d="M277.5 157.5C277.5 136.789 294.289 120 315 120C335.711 120 352.5 136.789 352.5 157.5V247.5C352.5 268.211 335.711 285 315 285C294.289 285 277.5 268.211 277.5 247.5V157.5Z" fill="#007AFF"/>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <h3 class="font-bold text-slate-900 text-lg">Talmify AI</h3>
+                                    <p class="text-xs text-slate-500">Always active</p>
+                                </div>
+                            </div>
+                            <div class="flex gap-1">
+                                <div class="w-2 h-2 rounded-full bg-red-400"></div>
+                                <div class="w-2 h-2 rounded-full bg-yellow-400"></div>
+                                <div class="w-2 h-2 rounded-full bg-green-400"></div>
+                            </div>
+                        </div>
+
+                        <!-- Dynamic Chat Area (Small min-height, auto grows) -->
+                        <div id="hero-chat-area" class="space-y-4 min-h-[150px] overflow-hidden flex flex-col justify-end transition-all duration-300">
+                            <!-- JS injects here -->
+                        </div>
+
+                        <!-- Mock Input Area -->
+                        <div class="mt-4 pt-4 border-t border-slate-100">
+                            <div class="bg-white rounded-xl p-3 flex justify-between items-center shadow-inner">
+                                <div class="h-2 w-32 bg-slate-100 rounded"></div>
+                                <div class="w-8 h-8 rounded-full bg-brand-primary flex items-center justify-center text-white text-xs">
+                                    <i class="fas fa-arrow-up"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Decorative Elements Behind (Updated to match AI Gold) -->
+                    <div class="absolute top-10 -right-10 w-32 h-32 bg-brand-proSparkles/20 rounded-full blur-2xl opacity-60 animate-pulse"></div>
+                    <div class="absolute -bottom-10 -left-10 w-40 h-40 bg-brand-primary/20 rounded-full blur-2xl opacity-60 animate-pulse" style="animation-delay: 1s"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Bento Grid -->
+    <section id="features" class="py-24 bg-white relative scroll-mt-24">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <span class="text-brand-primary font-bold tracking-wider uppercase text-sm">Features</span>
+                <h2 class="text-4xl font-bold text-slate-900 mt-2 mb-4">Everything a student needs.</h2>
+                <p class="text-xl text-slate-500">Powerful tools wrapped in a beautiful interface.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 auto-rows-[minmax(220px,auto)]">
+                
+                <!-- Course Management (Updated: Blue Pro Color) -->
+                <div class="md:col-span-2 bg-[rgba(82,176,240,0.1)] border border-brand-proIcloud/30 rounded-3xl p-8 shadow-sm hover:shadow-md transition group overflow-hidden relative">
+                    <div class="relative z-10">
+                        <div class="w-12 h-12 rounded-2xl bg-white text-brand-proIcloud flex items-center justify-center text-2xl mb-4 group-hover:scale-110 transition">
+                            <i class="fas fa-swatchbook"></i>
+                        </div>
+                        <h3 class="text-2xl font-bold mb-2 text-slate-900">Total Customization</h3>
+                        <p class="text-slate-600 max-w-sm">Create courses with custom icons and colors. Organize lectures, assignments, and tests in one place.</p>
+                    </div>
+                    <!-- Visual decoration -->
+                    <div class="absolute right-0 bottom-0 translate-x-10 translate-y-10 opacity-80">
+                         <i class="fas fa-palette text-[150px] text-white/40"></i>
+                    </div>
+                </div>
+
+                <!-- Sync & Unlimited (Updated: Infinity Color) -->
+                <!-- Applying opacity 0.4 on background but keeping it light with 0.15 for better contrast -->
+                <div class="bg-[rgba(231,144,209,0.15)] border border-brand-proInfinity/30 rounded-3xl p-8 shadow-sm hover:shadow-md transition group relative overflow-hidden flex flex-col justify-between">
+                    <div class="relative z-10">
+                        <div class="w-12 h-12 rounded-2xl bg-white flex items-center justify-center text-2xl mb-4 text-brand-proInfinity">
+                            <i class="fas fa-infinity"></i>
+                        </div>
+                        <h3 class="text-2xl font-bold mb-2 text-slate-900">Unlimited Calendar Sync</h3>
+                        <p class="text-slate-600 text-sm">Sync your schedule to all your external calendars on your iPhone and iPad. No limits on the number of connected calendars.</p>
+                    </div>
+                    <div class="mt-4 flex flex-wrap gap-2">
+                        <div class="px-3 py-1 bg-white/60 border border-brand-proInfinity/20 rounded-full text-xs font-medium text-slate-700 shadow-sm">Apple Calendar</div>
+                        <div class="px-3 py-1 bg-white/60 border border-brand-proInfinity/20 rounded-full text-xs font-medium text-slate-700 shadow-sm">Google Calendar</div>
+                        <div class="px-3 py-1 bg-white/60 border border-brand-proInfinity/20 rounded-full text-xs font-medium text-slate-700 shadow-sm">Outlook</div>
+                        <div class="px-3 py-1 bg-transparent border border-transparent rounded-full text-xs font-medium text-slate-500 italic">+ More</div>
+                    </div>
+                </div>
+
+                <!-- Academic Tracking (Updated: Chart Color) -->
+                <div class="bg-[rgba(236,168,93,0.15)] border border-brand-proChart/30 rounded-3xl p-8 shadow-sm hover:shadow-md transition">
+                    <div class="w-12 h-12 rounded-2xl bg-white flex items-center justify-center text-2xl mb-4 text-brand-proChart">
+                        <i class="fas fa-chart-pie"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-2 text-slate-900">Grades & Attendance</h3>
+                    <p class="text-slate-600 text-sm">Visual reports for every course. Know exactly where you stand with attendance and GPA.</p>
+                </div>
+
+                <!-- Human Notifications (Updated: Calendar Color for Time/Alerts) -->
+                <div class="md:col-span-2 bg-[rgba(231,105,113,0.1)] border border-brand-proCalendar/30 rounded-3xl p-8 shadow-sm hover:shadow-md transition overflow-hidden relative">
+                    <div class="relative z-10 grid md:grid-cols-2 gap-8 items-center">
+                        <div>
+                            <div class="w-12 h-12 rounded-2xl bg-white flex items-center justify-center text-2xl mb-4 text-brand-proCalendar">
+                                <i class="fas fa-comment-dots"></i>
+                            </div>
+                            <h3 class="text-2xl font-bold mb-2 text-slate-900">Human Notifications</h3>
+                            <p class="text-slate-600">Reminders that feel like a friend text, not a robot alert. Customizable for every single event.</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-2xl shadow-lg border border-slate-100 transform rotate-2 hover:rotate-0 transition duration-300">
+                            <div class="flex items-start gap-3">
+                                <!-- App Icon -->
+                                <div class="w-10 h-10 rounded-xl bg-brand-primary flex items-center justify-center text-white text-lg shrink-0">
+                                    <i class="fas fa-graduation-cap"></i>
+                                </div>
+                                <div>
+                                    <div class="flex justify-between items-baseline w-full">
+                                        <p class="text-xs font-bold text-slate-900 uppercase">Talmify</p>
+                                        <p class="text-[10px] text-slate-400">now</p>
+                                    </div>
+                                    <p class="text-sm text-slate-700 mt-1">Yo! 📚 History essay is due tomorrow. Don't pull an all-nighter again!</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- iOS Integration Section -->
+    <section id="integration" class="py-24 bg-slate-900 text-white overflow-hidden relative scroll-mt-24">
+        <!-- Background Gradients -->
+        <div class="absolute top-0 left-0 w-full h-full overflow-hidden opacity-30 pointer-events-none">
+            <div class="absolute top-[-20%] left-[-10%] w-[800px] h-[800px] bg-brand-primary rounded-full blur-[120px]"></div>
+            <div class="absolute bottom-[-20%] right-[-10%] w-[600px] h-[600px] bg-brand-accent rounded-full blur-[120px]"></div>
+        </div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="grid md:grid-cols-2 gap-12 items-center mb-16">
+                <div>
+                    <span class="text-brand-primary font-bold tracking-wider uppercase text-sm">Apple Exclusive</span>
+                    <h2 class="text-3xl md:text-5xl font-bold mt-2 leading-tight">Deeply Integrated <br>with iOS & iPadOS.</h2>
+                </div>
+                <p class="text-slate-400 text-lg">
+                    Talmify isn't just an app; it's part of your iPhone and iPad ecosystem. Enjoy seamless support for Widgets, Shortcuts, and Siri.
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-3 gap-8">
+                <!-- Widgets (Updated: Widget Color) -->
+                <!-- Using opacity 0.2 to keep text readable on dark background -->
+                <div class="bg-[rgba(96,204,175,0.15)] backdrop-blur-lg border border-brand-proWidget/30 rounded-3xl p-8 hover:bg-[rgba(96,204,175,0.25)] transition duration-300 group">
+                    <div class="text-4xl mb-6 text-brand-proWidget group-hover:scale-110 transition-transform origin-left">
+                        <i class="fas fa-layer-group"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">Interactive Widgets</h3>
+                    <p class="text-slate-300 text-sm leading-relaxed">Check your schedule, mark tasks complete, and view grades right from your Home Screen without opening the app.</p>
+                </div>
+
+                <!-- Siri & Shortcuts (Standard Glass) -->
+                <div class="bg-white/5 backdrop-blur-lg border border-white/10 rounded-3xl p-8 hover:bg-white/10 transition duration-300 group">
+                    <div class="text-4xl mb-6 text-purple-400 group-hover:scale-110 transition-transform origin-left">
+                        <i class="fas fa-microphone-lines"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">Siri & Shortcuts</h3>
+                    <p class="text-slate-400 text-sm leading-relaxed">"Hey Siri, what's my homework?" Build custom automations and control your study flow with voice.</p>
+                </div>
+
+                <!-- iCloud (Updated: iCloud Color) -->
+                <div class="bg-[rgba(82,176,240,0.15)] backdrop-blur-lg border border-brand-proIcloud/30 rounded-3xl p-8 hover:bg-[rgba(82,176,240,0.25)] transition duration-300 group">
+                    <div class="text-4xl mb-6 text-brand-proIcloud group-hover:scale-110 transition-transform origin-left">
+                        <i class="fas fa-cloud"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">Secure iCloud Backup</h3>
+                    <p class="text-slate-300 text-sm leading-relaxed">Your data stays yours. Fast, encrypted syncing across all your Apple devices via your private iCloud account.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Global Reach Section (Redesigned) -->
+    <section id="global" class="py-24 bg-slate-50 overflow-hidden scroll-mt-24">
+        <div class="text-center mb-12 px-4">
+            <h2 class="text-4xl font-bold text-slate-900 mb-4">Global Education</h2>
+            <p class="text-xl text-slate-500">Breaking language barriers in 60+ languages.</p>
+        </div>
+        
+        <!-- Marquee Container -->
+        <div class="relative w-full overflow-hidden py-10 bg-white border-y border-slate-200">
+            <div class="absolute top-0 left-0 w-32 h-full bg-gradient-to-r from-white to-transparent z-10"></div>
+            <div class="absolute top-0 right-0 w-32 h-full bg-gradient-to-l from-white to-transparent z-10"></div>
+            
+            <!-- Row 1 -->
+            <div class="flex whitespace-nowrap animate-scroll gap-8 mb-8">
+                <!-- Content duplicated for seamless loop -->
+                <div class="flex gap-8 items-center text-4xl font-bold text-slate-300 select-none">
+                    <span>English</span> <span>•</span> <span>Español</span> <span>•</span> <span>Français</span> <span>•</span> <span>Deutsch</span> <span>•</span> 
+                    <span>Italiano</span> <span>•</span> <span>Português</span> <span>•</span> <span>Русский</span> <span>•</span> <span>中文</span> <span>•</span> 
+                    <span>日本語</span> <span>•</span> <span>한국어</span> <span>•</span> <span>العربية</span> <span>•</span> <span>हिन्दी</span> <span>•</span> 
+                    <span>Türkçe</span> <span>•</span> <span>Nederlands</span> <span>•</span> <span>Polski</span> <span>•</span> <span>Svenska</span> <span>•</span>
+                    <!-- Repeat -->
+                    <span>English</span> <span>•</span> <span>Español</span> <span>•</span> <span>Français</span> <span>•</span> <span>Deutsch</span> <span>•</span> 
+                    <span>Italiano</span> <span>•</span> <span>Português</span> <span>•</span> <span>Русский</span> <span>•</span> <span>中文</span> <span>•</span> 
+                    <span>日本語</span> <span>•</span> <span>한국어</span> <span>•</span> <span>العربية</span> <span>•</span> <span>हिन्दी</span> <span>•</span> 
+                    <span>Türkçe</span> <span>•</span> <span>Nederlands</span> <span>•</span> <span>Polski</span> <span>•</span> <span>Svenska</span>
+                </div>
+            </div>
+
+            <!-- Row 2 (Reverse) -->
+            <div class="flex whitespace-nowrap animate-scroll-reverse gap-8">
+                <div class="flex gap-8 items-center text-4xl font-bold text-slate-800 opacity-80 select-none">
+                    <span>עברית</span> <span>•</span> <span>Dansk</span> <span>•</span> <span>Suomi</span> <span>•</span> <span>Norsk</span> <span>•</span> 
+                    <span>Ελληνικά</span> <span>•</span> <span>Magyar</span> <span>•</span> <span>Čeština</span> <span>•</span> <span>Română</span> <span>•</span> 
+                    <span>Tiếng Việt</span> <span>•</span> <span>ไทย</span> <span>•</span> <span>Bahasa</span> <span>•</span> <span>Українська</span> <span>•</span>
+                    <!-- Repeat -->
+                    <span>עברית</span> <span>•</span> <span>Dansk</span> <span>•</span> <span>Suomi</span> <span>•</span> <span>Norsk</span> <span>•</span> 
+                    <span>Ελληνικά</span> <span>•</span> <span>Magyar</span> <span>•</span> <span>Čeština</span> <span>•</span> <span>Română</span> <span>•</span> 
+                    <span>Tiếng Việt</span> <span>•</span> <span>ไทย</span> <span>•</span> <span>Bahasa</span> <span>•</span> <span>Українська</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Footer -->
+    <section id="download" class="py-24 bg-gradient-to-b from-slate-50 to-slate-100">
+        <div class="max-w-4xl mx-auto px-4 text-center">
+            <!-- Large App Icon -->
+            <div class="w-24 h-24 rounded-[1.5rem] overflow-hidden shadow-2xl mx-auto mb-10 transform -rotate-6 transition hover:rotate-0 bg-white p-2">
+                <svg viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-full h-full">
+                    <path d="M671.5 157.5C671.5 136.789 688.289 120 709 120C729.711 120 746.5 136.789 746.5 157.5V247.5C746.5 268.211 729.711 285 709 285C688.289 285 671.5 268.211 671.5 247.5V157.5Z" fill="#007AFF"/>
+                    <path d="M261 249C261 276.614 283.386 299 311 299H319C346.614 299 369 276.614 369 249V150H655V249C655 276.614 677.386 299 705 299H713C740.614 299 763 276.614 763 249V150H804C842.66 150 874 181.34 874 220V804C874 842.66 842.66 874 804 874H220C181.34 874 150 842.66 150 804V220C150 181.34 181.34 150 220 150H261V249ZM362.868 708.155C352.738 711.457 346.524 720.316 346.524 732.514V777.225C346.525 792.797 356.725 803 372.294 803H380.974C396.543 803 406.743 792.797 406.743 777.225V732.514C406.743 720.386 400.601 711.56 390.574 708.214V691.368C379.442 684.765 370.071 677.133 362.868 668.703V708.155ZM575.634 621.803C554.173 631.697 534.459 636.616 515.941 636.441C497.539 636.616 477.763 631.697 456.191 621.803L390.574 591.825V691.368C421.405 709.836 465.039 720.901 515.941 720.901C618.029 720.901 690.389 676.547 690.39 621.144V569.309L575.634 621.803ZM341.61 621.144C341.611 636.226 349.203 653.692 362.868 668.703V579.18L341.61 569.363V621.144ZM515.941 375.015C501.177 374.722 485.853 378.716 467.271 387.053L297.569 464.73C284.887 470.496 278 481.031 278 492.34C278 503.592 284.887 514.174 297.569 519.892L362.164 548.897L476.879 495.502C476.167 494.451 475.93 493.391 475.93 492.34C475.93 478.721 495.864 469.096 516.415 469.096C537.03 469.096 556.783 478.611 556.783 492.34C556.783 506.25 537.14 516.048 516.415 516.048C510.011 516.048 503.605 515.069 497.952 513.344L391.049 562.809L467.271 597.688C485.853 606.254 501.177 609.955 515.941 609.726C530.822 609.955 546.148 606.144 564.61 597.688L734.429 519.892C747.113 514.008 754 503.592 754 492.34C754 481.031 747.113 470.496 734.429 464.73L564.61 387.053C546.148 378.716 530.822 374.722 515.941 375.015Z" fill="#007AFF"/>
+                    <path d="M277.5 157.5C277.5 136.789 294.289 120 315 120C335.711 120 352.5 136.789 352.5 157.5V247.5C352.5 268.211 335.711 285 315 285C294.289 285 277.5 268.211 277.5 247.5V157.5Z" fill="#007AFF"/>
+                </svg>
+            </div>
+            <h2 class="text-4xl md:text-6xl font-bold text-slate-900 mb-8">Ready to ace your semester?</h2>
+            <p class="text-xl text-slate-600 mb-12 max-w-2xl mx-auto">Join thousands of students organizing their academic life with Talmify.</p>
+            
+            <button class="bg-black text-white px-12 py-6 rounded-2xl font-bold hover:bg-slate-800 transition transform hover:scale-105 shadow-2xl flex items-center justify-center gap-4 mx-auto group">
+                <i class="fa-brands fa-apple text-4xl group-hover:rotate-12 transition duration-300"></i>
+                <div class="text-left leading-tight">
+                    <div class="text-base font-medium text-slate-300">Download on the</div>
+                    <div class="text-3xl">App Store</div>
+                </div>
+            </button>
+            <p class="mt-8 text-sm text-slate-400 font-medium tracking-wide uppercase">Available exclusively for iOS & iPadOS</p>
+        </div>
+    </section>
+
+    <!-- Updated Footer -->
+    <footer class="bg-white border-t border-slate-200 py-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center gap-6">
+            <p class="text-slate-500 text-sm">© 2025 Talmify. All rights reserved.</p>
+            <!-- New Legal Links -->
+            <div class="flex flex-wrap justify-center gap-6 text-sm font-medium text-slate-500">
+                <button onclick="openLegalPage('terms')" class="hover:text-brand-primary transition">Terms of Service</button>
+                <button onclick="openLegalPage('privacy')" class="hover:text-brand-primary transition">Privacy Policy</button>
+                <button onclick="openLegalPage('accessibility')" class="hover:text-brand-primary transition">Accessibility Statement</button>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Legal Pages Overlays (Hidden by default) -->
+    
+    <!-- 1. Terms of Service -->
+    <div id="terms-page" class="fixed inset-0 bg-white z-[100] hidden overflow-y-auto">
+        <div class="max-w-4xl mx-auto px-6 py-12">
+            <button onclick="closeLegalPage('terms')" class="fixed top-6 right-6 w-10 h-10 bg-slate-100 rounded-full flex items-center justify-center text-slate-600 hover:bg-slate-200 transition">
+                <i class="fas fa-times"></i>
+            </button>
+            <h1 class="text-4xl font-bold text-slate-900 mb-8">Terms of Service</h1>
+            <div class="prose prose-slate max-w-none text-slate-600">
+                <!-- PASTE YOUR TERMS OF SERVICE CONTENT HERE -->
+                <p>Welcome to Talmify. Please read these terms carefully...</p>
+                <p class="italic text-slate-400">[Content to be updated by owner]</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 2. Privacy Policy -->
+    <div id="privacy-page" class="fixed inset-0 bg-white z-[100] hidden overflow-y-auto">
+        <div class="max-w-4xl mx-auto px-6 py-12">
+            <button onclick="closeLegalPage('privacy')" class="fixed top-6 right-6 w-10 h-10 bg-slate-100 rounded-full flex items-center justify-center text-slate-600 hover:bg-slate-200 transition">
+                <i class="fas fa-times"></i>
+            </button>
+            <h1 class="text-4xl font-bold text-slate-900 mb-8">Privacy Policy</h1>
+            <div class="prose prose-slate max-w-none text-slate-600">
+                <!-- PASTE YOUR PRIVACY POLICY CONTENT HERE -->
+                <p>Your privacy is important to us...</p>
+                <p class="italic text-slate-400">[Content to be updated by owner]</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 3. Accessibility Statement -->
+    <div id="accessibility-page" class="fixed inset-0 bg-white z-[100] hidden overflow-y-auto">
+        <div class="max-w-4xl mx-auto px-6 py-12">
+            <button onclick="closeLegalPage('accessibility')" class="fixed top-6 right-6 w-10 h-10 bg-slate-100 rounded-full flex items-center justify-center text-slate-600 hover:bg-slate-200 transition">
+                <i class="fas fa-times"></i>
+            </button>
+            <h1 class="text-4xl font-bold text-slate-900 mb-8">Accessibility Statement</h1>
+            <div class="prose prose-slate max-w-none text-slate-600">
+                <!-- PASTE YOUR ACCESSIBILITY STATEMENT CONTENT HERE -->
+                <p>Talmify is committed to ensuring digital accessibility...</p>
+                <p class="italic text-slate-400">[Content to be updated by owner]</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript Logic -->
+    <script>
+        // Define helpers globally so inline HTML onclick handlers work
+        function toggleMenu() {
+            const mobileMenu = document.getElementById('mobile-menu');
+            if (mobileMenu) {
+                mobileMenu.classList.toggle('hidden');
+            }
+        }
+
+        function scrollToSection(id) {
+            const element = document.getElementById(id);
+            if (element) {
+                element.scrollIntoView({ behavior: 'smooth' });
+            }
+        }
+
+        function scrollToDownload() {
+            const element = document.getElementById('download');
+            if (element) {
+                element.scrollIntoView({ behavior: 'smooth' });
+            }
+        }
+
+        function openLegalPage(pageId) {
+            const page = document.getElementById(pageId + '-page');
+            if (page) {
+                page.classList.remove('hidden');
+                document.body.style.overflow = 'hidden'; // Prevent background scrolling
+            }
+        }
+
+        function closeLegalPage(pageId) {
+            const page = document.getElementById(pageId + '-page');
+            if (page) {
+                page.classList.add('hidden');
+                document.body.style.overflow = ''; // Restore scrolling
+            }
+        }
+
+        // --- Core Logic Wrapped in DOMContentLoaded ---
+        document.addEventListener('DOMContentLoaded', () => {
+            
+            // 1. Navbar Scroll Logic
+            window.addEventListener('scroll', () => {
+                const navbar = document.getElementById('navbar');
+                if (navbar) {
+                    if (window.scrollY > 20) {
+                        navbar.classList.add('bg-white/90', 'backdrop-blur-md', 'shadow-sm');
+                    } else {
+                        navbar.classList.remove('bg-white/90', 'backdrop-blur-md', 'shadow-sm');
+                    }
+                }
+            });
+
+            // 2. Mobile Menu Button Listener
+            const menuBtn = document.getElementById('mobile-menu-btn');
+            if (menuBtn) {
+                // Ensure we don't attach duplicate listeners if framework re-runs
+                menuBtn.removeEventListener('click', toggleMenu);
+                menuBtn.addEventListener('click', toggleMenu);
+            }
+
+            // 3. Chat Animation Logic with VISIBILITY CHECK
+            const chatArea = document.getElementById('hero-chat-area');
+            let isChatInView = false;
+            const chatCard = document.querySelector('.glass-panel');
+            
+            // Intersection Observer to track if user sees the chat
+            const visibilityObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    isChatInView = entry.isIntersecting;
+                });
+            }, { threshold: 0.1 });
+            
+            if (chatCard) visibilityObserver.observe(chatCard);
+
+            // Helper to pause execution when not visible
+            const waitForVisibility = async () => {
+                while(!isChatInView) {
+                    await new Promise(r => setTimeout(r, 500));
+                }
+            };
+            
+            // Chat helpers (internal to avoid polluting global scope unnecessarily)
+            const createTyping = () => {
+                const div = document.createElement('div');
+                div.id = 'typing-indicator';
+                div.className = 'flex items-center gap-2 max-w-[80%] self-start';
+                div.innerHTML = `
+                    <div class="bg-white border border-slate-100 p-3 rounded-2xl rounded-tl-none shadow-sm flex gap-1">
+                        <div class="w-1.5 h-1.5 bg-slate-400 rounded-full typing-dot"></div>
+                        <div class="w-1.5 h-1.5 bg-slate-400 rounded-full typing-dot"></div>
+                        <div class="w-1.5 h-1.5 bg-slate-400 rounded-full typing-dot"></div>
+                    </div>
+                `;
+                return div;
+            };
+
+            const createMsg = (text, type) => {
+                const isUser = type === 'user';
+                const div = document.createElement('div');
+                div.className = `flex w-full ${isUser ? 'justify-end' : 'justify-start'} message-appear ${isUser ? 'user' : 'bot'}`;
+                
+                const bubble = document.createElement('div');
+                bubble.className = isUser 
+                    ? 'bg-brand-primary text-white p-3 rounded-2xl rounded-tr-none text-sm max-w-[85%] shadow-md'
+                    : 'bg-white text-slate-800 p-3 rounded-2xl rounded-tl-none text-sm max-w-[85%] shadow-sm border border-slate-100';
+                
+                bubble.innerHTML = text;
+                div.appendChild(bubble);
+                return div;
+            };
+
+            const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
+            // Animation Sequence
+            const runAnimationLoop = async () => {
+                if (!chatArea) return;
+
+                while(true) {
+                    // Check visibility before starting Scenario 1
+                    await waitForVisibility();
+
+                    // --- Scenario 1 ---
+                    chatArea.innerHTML = '';
+                    chatArea.style.opacity = '1';
+                    await sleep(500);
+
+                    chatArea.appendChild(createMsg("When is my Physics midterm?", "user"));
+                    await sleep(1000);
+
+                    const typing1 = createTyping();
+                    chatArea.appendChild(typing1);
+                    await sleep(1500);
+                    typing1.remove();
+                    
+                    chatArea.appendChild(createMsg("It's next Monday at 9:00 AM in Room 4B. ⚛️", "bot"));
+                    await sleep(3000);
+
+                    // Check visibility before starting Scenario 2
+                    await waitForVisibility();
+
+                    // --- Scenario 2 ---
+                    // Fade out
+                    chatArea.style.transition = 'opacity 0.3s';
+                    chatArea.style.opacity = '0';
+                    await sleep(300);
+                    
+                    chatArea.innerHTML = '';
+                    chatArea.style.opacity = '1';
+                    await sleep(500);
+                    
+                    // Message 1 (User)
+                    chatArea.appendChild(createMsg("I added the Chemistry assignment.", "user"));
+                    await sleep(1000);
+
+                    // Message 2 (Bot) - Typing then appear (Fix: Sequential)
+                    const typing2 = createTyping();
+                    chatArea.appendChild(typing2);
+                    chatArea.scrollTop = chatArea.scrollHeight; 
+                    await sleep(1000);
+                    typing2.remove();
+                    
+                    chatArea.appendChild(createMsg("Got it! Due date is set for Friday. 🧪", "bot"));
+                    chatArea.scrollTop = chatArea.scrollHeight;
+                    await sleep(1500);
+
+                    // Message 3 (User)
+                    chatArea.appendChild(createMsg("Remind me to study for it tonight.", "user"));
+                    await sleep(800);
+
+                    // Message 4 (Bot)
+                    const typing3 = createTyping();
+                    chatArea.appendChild(typing3);
+                    chatArea.scrollTop = chatArea.scrollHeight;
+                    await sleep(1200);
+                    typing3.remove();
+
+                    chatArea.appendChild(createMsg("Done! Reminder set for 7:00 PM tonight. 🌙", "bot"));
+                    chatArea.scrollTop = chatArea.scrollHeight;
+
+                    await sleep(4000);
+                }
+            };
+
+            // Start Animation
+            if (chatArea) {
+                runAnimationLoop();
+            }
+
+            // 4. Scroll Reveal Observer
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('opacity-100', 'translate-y-0');
+                        entry.target.classList.remove('opacity-0', 'translate-y-10');
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('section h2, section p, .grid > div').forEach(el => {
+                el.classList.add('transition-all', 'duration-700', 'opacity-0', 'translate-y-10');
+                observer.observe(el);
+            });
+        });
+    </script>
+</body>
+</html>
