@@ -107,6 +107,14 @@
             transform-origin: bottom right;
         }
 
+        /* RTL Transform Origin Overrides */
+        .rtl .message-appear {
+            transform-origin: bottom right;
+        }
+        .rtl .message-appear.user {
+            transform-origin: bottom left;
+        }
+
         @keyframes popIn {
             to {
                 opacity: 1;
@@ -153,13 +161,20 @@
                     <span class="font-bold text-2xl tracking-tight">Talmify</span>
                 </div>
                 <!-- Desktop Menu -->
-                <div class="hidden md:flex space-x-8 items-center">
-                    <button onclick="scrollToSection('features')" class="text-slate-600 hover:text-brand-primary font-medium transition">Features</button>
-                    <button onclick="scrollToSection('integration')" class="text-slate-600 hover:text-brand-primary font-medium transition">iOS & iPadOS Deep Dive</button>
-                    <button onclick="scrollToSection('global')" class="text-slate-600 hover:text-brand-primary font-medium transition">Global</button>
+                <div class="hidden md:flex gap-8 items-center">
+                    <button onclick="scrollToSection('features')" class="text-slate-600 hover:text-brand-primary font-medium transition" data-i18n="nav.features">Features</button>
+                    <button onclick="scrollToSection('integration')" class="text-slate-600 hover:text-brand-primary font-medium transition" data-i18n="nav.integration">iOS & iPadOS Deep Dive</button>
+                    <button onclick="scrollToSection('global')" class="text-slate-600 hover:text-brand-primary font-medium transition" data-i18n="nav.global">Global</button>
+
+                    <!-- Language Toggle -->
+                    <button onclick="toggleLanguage()" class="flex items-center gap-2 text-slate-600 hover:text-brand-primary font-medium transition">
+                        <i class="fas fa-globe"></i>
+                        <span id="lang-toggle-text">EN/HE</span>
+                    </button>
+
                     <button onclick="scrollToDownload()" class="bg-black text-white px-6 py-2.5 rounded-full font-medium hover:bg-slate-800 transition transform hover:scale-105 shadow-lg flex items-center gap-2">
                         <i class="fa-brands fa-apple text-lg"></i>
-                        <span>Download</span>
+                        <span data-i18n="nav.download">Download</span>
                     </button>
                 </div>
                 <!-- Mobile menu button -->
@@ -173,9 +188,12 @@
         <!-- Mobile Menu -->
         <div id="mobile-menu" class="hidden md:hidden bg-white/95 backdrop-blur-md absolute w-full border-b border-slate-200">
             <div class="px-4 pt-2 pb-6 space-y-2">
-                <button onclick="scrollToSection('features'); toggleMenu()" class="block w-full text-left px-3 py-2 text-slate-600 font-medium">Features</button>
-                <button onclick="scrollToSection('integration'); toggleMenu()" class="block w-full text-left px-3 py-2 text-slate-600 font-medium">iOS & iPadOS Integration</button>
-                <button onclick="scrollToSection('global'); toggleMenu()" class="block w-full text-left px-3 py-2 text-slate-600 font-medium">Global</button>
+                <button onclick="scrollToSection('features'); toggleMenu()" class="block w-full text-start px-3 py-2 text-slate-600 font-medium" data-i18n="nav.features">Features</button>
+                <button onclick="scrollToSection('integration'); toggleMenu()" class="block w-full text-start px-3 py-2 text-slate-600 font-medium" data-i18n="nav.integration">iOS & iPadOS Integration</button>
+                <button onclick="scrollToSection('global'); toggleMenu()" class="block w-full text-start px-3 py-2 text-slate-600 font-medium" data-i18n="nav.global">Global</button>
+                <button onclick="toggleLanguage(); toggleMenu()" class="block w-full text-start px-3 py-2 text-slate-600 font-medium">
+                    <i class="fas fa-globe me-2"></i> <span id="mobile-lang-text">Switch Language</span>
+                </button>
             </div>
         </div>
     </nav>
@@ -183,7 +201,7 @@
     <!-- Hero Section -->
     <section class="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden min-h-screen flex items-center">
         <!-- Background Blobs -->
-        <div class="absolute top-0 left-0 w-full h-full overflow-hidden -z-10">
+        <div class="absolute top-0 start-0 w-full h-full overflow-hidden -z-10">
             <div class="absolute top-[-10%] right-[-5%] w-[600px] h-[600px] bg-brand-primary/10 rounded-full blur-[100px] animate-float"></div>
             <div class="absolute bottom-[10%] left-[-10%] w-[500px] h-[500px] bg-brand-accent/10 rounded-full blur-[100px] animate-float" style="animation-delay: 2s;"></div>
         </div>
@@ -192,27 +210,27 @@
             <div class="grid lg:grid-cols-2 gap-16 items-center">
                 
                 <!-- Hero Content -->
-                <div class="space-y-8 text-center lg:text-left z-10 order-2 lg:order-1">
+                <div class="space-y-8 text-center lg:text-start z-10 order-2 lg:order-1">
                     <!-- Reverted Badge Color to Primary Purple -->
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white border border-slate-200 shadow-sm text-sm font-semibold text-brand-primary mb-2">
                         <span class="relative flex h-3 w-3">
                           <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-primary opacity-75"></span>
                           <span class="relative inline-flex rounded-full h-3 w-3 bg-brand-primary"></span>
                         </span>
-                        Meet Talmify AI
+                        <span data-i18n="hero.badge">Meet Talmify AI</span>
                     </div>
                     <h1 class="text-5xl lg:text-7xl font-extrabold tracking-tight text-slate-900 leading-[1.1]">
-                        Your study life, <br>
-                        <span class="gradient-text">intelligently organized.</span>
+                        <span data-i18n="hero.title_line1">Your study life,</span> <br>
+                        <span class="gradient-text" data-i18n="hero.title_line2">intelligently organized.</span>
                     </h1>
-                    <p class="text-xl text-slate-600 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
+                    <p class="text-xl text-slate-600 max-w-2xl mx-auto lg:mx-0 leading-relaxed" data-i18n="hero.description">
                         Manage courses, sync calendars, and chat with your personal AI assistant to stay ahead. Designed exclusively for students on iOS and iPadOS.
                     </p>
                     <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-4">
                         <button onclick="scrollToDownload()" class="bg-black text-white px-8 py-4 rounded-2xl font-bold hover:bg-slate-800 transition transform hover:scale-105 shadow-xl flex items-center justify-center gap-3">
                             <i class="fa-brands fa-apple text-3xl"></i>
-                            <div class="text-left leading-tight">
-                                <div class="text-xs font-medium text-slate-300">Download on the</div>
+                            <div class="text-start leading-tight">
+                                <div class="text-xs font-medium text-slate-300" data-i18n="hero.download_sub">Download on the</div>
                                 <div class="text-xl">App Store</div>
                             </div>
                         </button>
@@ -237,7 +255,7 @@
                                 </div>
                                 <div>
                                     <h3 class="font-bold text-slate-900 text-lg">Talmify AI</h3>
-                                    <p class="text-xs text-slate-500">Always active</p>
+                                    <p class="text-xs text-slate-500" data-i18n="chat.status">Always active</p>
                                 </div>
                             </div>
                             <div class="flex gap-1">
@@ -275,9 +293,9 @@
     <section id="features" class="py-24 bg-white relative scroll-mt-24">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-16">
-                <span class="text-brand-primary font-bold tracking-wider uppercase text-sm">Features</span>
-                <h2 class="text-4xl font-bold text-slate-900 mt-2 mb-4">Everything a student needs.</h2>
-                <p class="text-xl text-slate-500">Powerful tools wrapped in a beautiful interface.</p>
+                <span class="text-brand-primary font-bold tracking-wider uppercase text-sm" data-i18n="features.badge">Features</span>
+                <h2 class="text-4xl font-bold text-slate-900 mt-2 mb-4" data-i18n="features.title">Everything a student needs.</h2>
+                <p class="text-xl text-slate-500" data-i18n="features.subtitle">Powerful tools wrapped in a beautiful interface.</p>
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6 auto-rows-[minmax(220px,auto)]">
@@ -288,11 +306,11 @@
                         <div class="w-12 h-12 rounded-2xl bg-white text-brand-proIcloud flex items-center justify-center text-2xl mb-4 group-hover:scale-110 transition">
                             <i class="fas fa-swatchbook"></i>
                         </div>
-                        <h3 class="text-2xl font-bold mb-2 text-slate-900">Total Customization</h3>
-                        <p class="text-slate-600 max-w-sm">Create courses with custom icons and colors. Organize lectures, assignments, and tests in one place.</p>
+                        <h3 class="text-2xl font-bold mb-2 text-slate-900" data-i18n="features.customization.title">Total Customization</h3>
+                        <p class="text-slate-600 max-w-sm" data-i18n="features.customization.desc">Create courses with custom icons and colors. Organize lectures, assignments, and tests in one place.</p>
                     </div>
                     <!-- Visual decoration -->
-                    <div class="absolute right-0 bottom-0 translate-x-10 translate-y-10 opacity-80">
+                    <div class="absolute end-0 bottom-0 translate-x-10 translate-y-10 opacity-80">
                          <i class="fas fa-palette text-[150px] text-white/40"></i>
                     </div>
                 </div>
@@ -304,8 +322,8 @@
                         <div class="w-12 h-12 rounded-2xl bg-white flex items-center justify-center text-2xl mb-4 text-brand-proInfinity">
                             <i class="fas fa-infinity"></i>
                         </div>
-                        <h3 class="text-2xl font-bold mb-2 text-slate-900">Unlimited Calendar Sync</h3>
-                        <p class="text-slate-600 text-sm">Sync your schedule to all your external calendars on your iPhone and iPad. No limits on the number of connected calendars.</p>
+                        <h3 class="text-2xl font-bold mb-2 text-slate-900" data-i18n="features.sync.title">Unlimited Calendar Sync</h3>
+                        <p class="text-slate-600 text-sm" data-i18n="features.sync.desc">Sync your schedule to all your external calendars on your iPhone and iPad. No limits on the number of connected calendars.</p>
                     </div>
                     <div class="mt-4 flex flex-wrap gap-2">
                         <div class="px-3 py-1 bg-white/60 border border-brand-proInfinity/20 rounded-full text-xs font-medium text-slate-700 shadow-sm">Apple Calendar</div>
@@ -320,8 +338,8 @@
                     <div class="w-12 h-12 rounded-2xl bg-white flex items-center justify-center text-2xl mb-4 text-brand-proChart">
                         <i class="fas fa-chart-pie"></i>
                     </div>
-                    <h3 class="text-xl font-bold mb-2 text-slate-900">Grades & Attendance</h3>
-                    <p class="text-slate-600 text-sm">Visual reports for every course. Know exactly where you stand with attendance and GPA.</p>
+                    <h3 class="text-xl font-bold mb-2 text-slate-900" data-i18n="features.grades.title">Grades & Attendance</h3>
+                    <p class="text-slate-600 text-sm" data-i18n="features.grades.desc">Visual reports for every course. Know exactly where you stand with attendance and GPA.</p>
                 </div>
 
                 <!-- Human Notifications (Updated: Calendar Color for Time/Alerts) -->
@@ -331,8 +349,8 @@
                             <div class="w-12 h-12 rounded-2xl bg-white flex items-center justify-center text-2xl mb-4 text-brand-proCalendar">
                                 <i class="fas fa-comment-dots"></i>
                             </div>
-                            <h3 class="text-2xl font-bold mb-2 text-slate-900">Human Notifications</h3>
-                            <p class="text-slate-600">Reminders that feel like a friend text, not a robot alert. Customizable for every single event.</p>
+                            <h3 class="text-2xl font-bold mb-2 text-slate-900" data-i18n="features.notifications.title">Human Notifications</h3>
+                            <p class="text-slate-600" data-i18n="features.notifications.desc">Reminders that feel like a friend text, not a robot alert. Customizable for every single event.</p>
                         </div>
                         <div class="bg-white p-4 rounded-2xl shadow-lg border border-slate-100 transform rotate-2 hover:rotate-0 transition duration-300">
                             <div class="flex items-start gap-3">
@@ -343,9 +361,9 @@
                                 <div>
                                     <div class="flex justify-between items-baseline w-full">
                                         <p class="text-xs font-bold text-slate-900 uppercase">Talmify</p>
-                                        <p class="text-[10px] text-slate-400">now</p>
+                                        <p class="text-[10px] text-slate-400" data-i18n="features.demo.time">now</p>
                                     </div>
-                                    <p class="text-sm text-slate-700 mt-1">Yo! 📚 History essay is due tomorrow. Don't pull an all-nighter again!</p>
+                                    <p class="text-sm text-slate-700 mt-1" data-i18n="features.demo.text">Yo! 📚 History essay is due tomorrow. Don't pull an all-nighter again!</p>
                                 </div>
                             </div>
                         </div>
@@ -359,7 +377,7 @@
     <!-- iOS Integration Section -->
     <section id="integration" class="py-24 bg-slate-900 text-white overflow-hidden relative scroll-mt-24">
         <!-- Background Gradients -->
-        <div class="absolute top-0 left-0 w-full h-full overflow-hidden opacity-30 pointer-events-none">
+        <div class="absolute top-0 start-0 w-full h-full overflow-hidden opacity-30 pointer-events-none">
             <div class="absolute top-[-20%] left-[-10%] w-[800px] h-[800px] bg-brand-primary rounded-full blur-[120px]"></div>
             <div class="absolute bottom-[-20%] right-[-10%] w-[600px] h-[600px] bg-brand-accent rounded-full blur-[120px]"></div>
         </div>
@@ -367,10 +385,13 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
             <div class="grid md:grid-cols-2 gap-12 items-center mb-16">
                 <div>
-                    <span class="text-brand-primary font-bold tracking-wider uppercase text-sm">Apple Exclusive</span>
-                    <h2 class="text-3xl md:text-5xl font-bold mt-2 leading-tight">Deeply Integrated <br>with iOS & iPadOS.</h2>
+                    <span class="text-brand-primary font-bold tracking-wider uppercase text-sm" data-i18n="integration.badge">Apple Exclusive</span>
+                    <h2 class="text-3xl md:text-5xl font-bold mt-2 leading-tight">
+                        <span data-i18n="integration.title_line1">Deeply Integrated</span> <br>
+                        <span data-i18n="integration.title_line2">with iOS & iPadOS.</span>
+                    </h2>
                 </div>
-                <p class="text-slate-400 text-lg">
+                <p class="text-slate-400 text-lg" data-i18n="integration.description">
                     Talmify isn't just an app; it's part of your iPhone and iPad ecosystem. Enjoy seamless support for Widgets, Shortcuts, and Siri.
                 </p>
             </div>
@@ -382,8 +403,8 @@
                     <div class="text-4xl mb-6 text-brand-proWidget group-hover:scale-110 transition-transform origin-left">
                         <i class="fas fa-layer-group"></i>
                     </div>
-                    <h3 class="text-xl font-bold mb-3">Interactive Widgets</h3>
-                    <p class="text-slate-300 text-sm leading-relaxed">Check your schedule, mark tasks complete, and view grades right from your Home Screen without opening the app.</p>
+                    <h3 class="text-xl font-bold mb-3" data-i18n="integration.widgets.title">Interactive Widgets</h3>
+                    <p class="text-slate-300 text-sm leading-relaxed" data-i18n="integration.widgets.desc">Check your schedule, mark tasks complete, and view grades right from your Home Screen without opening the app.</p>
                 </div>
 
                 <!-- Siri & Shortcuts (Standard Glass) -->
@@ -391,8 +412,8 @@
                     <div class="text-4xl mb-6 text-purple-400 group-hover:scale-110 transition-transform origin-left">
                         <i class="fas fa-microphone-lines"></i>
                     </div>
-                    <h3 class="text-xl font-bold mb-3">Siri & Shortcuts</h3>
-                    <p class="text-slate-400 text-sm leading-relaxed">"Hey Siri, what's my homework?" Build custom automations and control your study flow with voice.</p>
+                    <h3 class="text-xl font-bold mb-3" data-i18n="integration.siri.title">Siri & Shortcuts</h3>
+                    <p class="text-slate-400 text-sm leading-relaxed" data-i18n="integration.siri.desc">"Hey Siri, what's my homework?" Build custom automations and control your study flow with voice.</p>
                 </div>
 
                 <!-- iCloud (Updated: iCloud Color) -->
@@ -400,8 +421,8 @@
                     <div class="text-4xl mb-6 text-brand-proIcloud group-hover:scale-110 transition-transform origin-left">
                         <i class="fas fa-cloud"></i>
                     </div>
-                    <h3 class="text-xl font-bold mb-3">Secure iCloud Backup</h3>
-                    <p class="text-slate-300 text-sm leading-relaxed">Your data stays yours. Fast, encrypted syncing across all your Apple devices via your private iCloud account.</p>
+                    <h3 class="text-xl font-bold mb-3" data-i18n="integration.icloud.title">Secure iCloud Backup</h3>
+                    <p class="text-slate-300 text-sm leading-relaxed" data-i18n="integration.icloud.desc">Your data stays yours. Fast, encrypted syncing across all your Apple devices via your private iCloud account.</p>
                 </div>
             </div>
         </div>
@@ -410,14 +431,14 @@
     <!-- Global Reach Section (Redesigned) -->
     <section id="global" class="py-24 bg-slate-50 overflow-hidden scroll-mt-24">
         <div class="text-center mb-12 px-4">
-            <h2 class="text-4xl font-bold text-slate-900 mb-4">Global Education</h2>
-            <p class="text-xl text-slate-500">Breaking language barriers in 60+ languages.</p>
+            <h2 class="text-4xl font-bold text-slate-900 mb-4" data-i18n="global.title">Global Education</h2>
+            <p class="text-xl text-slate-500" data-i18n="global.subtitle">Breaking language barriers in 60+ languages.</p>
         </div>
         
         <!-- Marquee Container -->
         <div class="relative w-full overflow-hidden py-10 bg-white border-y border-slate-200">
-            <div class="absolute top-0 left-0 w-32 h-full bg-gradient-to-r from-white to-transparent z-10"></div>
-            <div class="absolute top-0 right-0 w-32 h-full bg-gradient-to-l from-white to-transparent z-10"></div>
+            <div class="absolute top-0 start-0 w-32 h-full bg-gradient-to-r from-white to-transparent z-10"></div>
+            <div class="absolute top-0 end-0 w-32 h-full bg-gradient-to-l from-white to-transparent z-10"></div>
             
             <!-- Row 1 -->
             <div class="flex whitespace-nowrap animate-scroll gap-8 mb-8">
@@ -461,29 +482,29 @@
                     <path d="M277.5 157.5C277.5 136.789 294.289 120 315 120C335.711 120 352.5 136.789 352.5 157.5V247.5C352.5 268.211 335.711 285 315 285C294.289 285 277.5 268.211 277.5 247.5V157.5Z" fill="#007AFF"/>
                 </svg>
             </div>
-            <h2 class="text-4xl md:text-6xl font-bold text-slate-900 mb-8">Ready to ace your semester?</h2>
-            <p class="text-xl text-slate-600 mb-12 max-w-2xl mx-auto">Join thousands of students organizing their academic life with Talmify.</p>
+            <h2 class="text-4xl md:text-6xl font-bold text-slate-900 mb-8" data-i18n="cta.title">Ready to ace your semester?</h2>
+            <p class="text-xl text-slate-600 mb-12 max-w-2xl mx-auto" data-i18n="cta.subtitle">Join thousands of students organizing their academic life with Talmify.</p>
             
             <button class="bg-black text-white px-12 py-6 rounded-2xl font-bold hover:bg-slate-800 transition transform hover:scale-105 shadow-2xl flex items-center justify-center gap-4 mx-auto group">
                 <i class="fa-brands fa-apple text-4xl group-hover:rotate-12 transition duration-300"></i>
-                <div class="text-left leading-tight">
-                    <div class="text-base font-medium text-slate-300">Download on the</div>
+                <div class="text-start leading-tight">
+                    <div class="text-base font-medium text-slate-300" data-i18n="cta.download_sub">Download on the</div>
                     <div class="text-3xl">App Store</div>
                 </div>
             </button>
-            <p class="mt-8 text-sm text-slate-400 font-medium tracking-wide uppercase">Available exclusively for iOS & iPadOS</p>
+            <p class="mt-8 text-sm text-slate-400 font-medium tracking-wide uppercase" data-i18n="cta.exclusive">Available exclusively for iOS & iPadOS</p>
         </div>
     </section>
 
     <!-- Updated Footer -->
     <footer class="bg-white border-t border-slate-200 py-12">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center gap-6">
-            <p class="text-slate-500 text-sm">© 2025 Talmify. All rights reserved.</p>
+            <p class="text-slate-500 text-sm" data-i18n="footer.copyright">© 2025 Talmify. All rights reserved.</p>
             <!-- New Legal Links -->
             <div class="flex flex-wrap justify-center gap-6 text-sm font-medium text-slate-500">
-                <button onclick="openLegalPage('terms')" class="hover:text-brand-primary transition">Terms of Service</button>
-                <button onclick="openLegalPage('privacy')" class="hover:text-brand-primary transition">Privacy Policy</button>
-                <button onclick="openLegalPage('accessibility')" class="hover:text-brand-primary transition">Accessibility Statement</button>
+                <button onclick="openLegalPage('terms')" class="hover:text-brand-primary transition" data-i18n="footer.terms">Terms of Service</button>
+                <button onclick="openLegalPage('privacy')" class="hover:text-brand-primary transition" data-i18n="footer.privacy">Privacy Policy</button>
+                <button onclick="openLegalPage('accessibility')" class="hover:text-brand-primary transition" data-i18n="footer.accessibility">Accessibility Statement</button>
             </div>
         </div>
     </footer>
@@ -575,6 +596,147 @@
             }
         }
 
+        /* --- Internationalization (i18n) Logic --- */
+        const translations = {
+            "en": {
+                "nav.features": "Features",
+                "nav.integration": "iOS & iPadOS Deep Dive",
+                "nav.global": "Global",
+                "nav.download": "Download",
+                "hero.badge": "Meet Talmify AI",
+                "hero.title_line1": "Your study life,",
+                "hero.title_line2": "intelligently organized.",
+                "hero.description": "Manage courses, sync calendars, and chat with your personal AI assistant to stay ahead. Designed exclusively for students on iOS and iPadOS.",
+                "hero.download_sub": "Download on the",
+                "chat.status": "Always active",
+                "features.badge": "Features",
+                "features.title": "Everything a student needs.",
+                "features.subtitle": "Powerful tools wrapped in a beautiful interface.",
+                "features.customization.title": "Total Customization",
+                "features.customization.desc": "Create courses with custom icons and colors. Organize lectures, assignments, and tests in one place.",
+                "features.sync.title": "Unlimited Calendar Sync",
+                "features.sync.desc": "Sync your schedule to all your external calendars on your iPhone and iPad. No limits on the number of connected calendars.",
+                "features.grades.title": "Grades & Attendance",
+                "features.grades.desc": "Visual reports for every course. Know exactly where you stand with attendance and GPA.",
+                "features.notifications.title": "Human Notifications",
+                "features.notifications.desc": "Reminders that feel like a friend text, not a robot alert. Customizable for every single event.",
+                "features.demo.time": "now",
+                "features.demo.text": "Yo! 📚 History essay is due tomorrow. Don't pull an all-nighter again!",
+                "integration.badge": "Apple Exclusive",
+                "integration.title_line1": "Deeply Integrated",
+                "integration.title_line2": "with iOS & iPadOS.",
+                "integration.description": "Talmify isn't just an app; it's part of your iPhone and iPad ecosystem. Enjoy seamless support for Widgets, Shortcuts, and Siri.",
+                "integration.widgets.title": "Interactive Widgets",
+                "integration.widgets.desc": "Check your schedule, mark tasks complete, and view grades right from your Home Screen without opening the app.",
+                "integration.siri.title": "Siri & Shortcuts",
+                "integration.siri.desc": "\"Hey Siri, what's my homework?\" Build custom automations and control your study flow with voice.",
+                "integration.icloud.title": "Secure iCloud Backup",
+                "integration.icloud.desc": "Your data stays yours. Fast, encrypted syncing across all your Apple devices via your private iCloud account.",
+                "global.title": "Global Education",
+                "global.subtitle": "Breaking language barriers in 60+ languages.",
+                "cta.title": "Ready to ace your semester?",
+                "cta.subtitle": "Join thousands of students organizing their academic life with Talmify.",
+                "cta.download_sub": "Download on the",
+                "cta.exclusive": "Available exclusively for iOS & iPadOS",
+                "footer.copyright": "© 2025 Talmify. All rights reserved.",
+                "footer.terms": "Terms of Service",
+                "footer.privacy": "Privacy Policy",
+                "footer.accessibility": "Accessibility Statement",
+                // Chat Animation Strings
+                "chat.msg1": "When is my Physics midterm?",
+                "chat.msg2": "It's next Monday at 9:00 AM in Room 4B. ⚛️",
+                "chat.msg3": "I added the Chemistry assignment.",
+                "chat.msg4": "Got it! Due date is set for Friday. 🧪",
+                "chat.msg5": "Remind me to study for it tonight.",
+                "chat.msg6": "Done! Reminder set for 7:00 PM tonight. 🌙"
+            },
+            "he": {
+                "nav.features": "תכונות",
+                "nav.integration": "העמקה ב-iOS ו-iPadOS",
+                "nav.global": "גלובלי",
+                "nav.download": "הורדה",
+                "hero.badge": "הכירו את Talmify AI",
+                "hero.title_line1": "חיי הלימודים שלך,",
+                "hero.title_line2": "מאורגנים בחכמה.",
+                "hero.description": "נהל קורסים, סנכרן יומנים וצ'אט עם עוזר ה-AI האישי שלך כדי להישאר צעד אחד קדימה. עוצב באופן בלעדי לסטודנטים ב-iOS ו-iPadOS.",
+                "hero.download_sub": "הורד ב-",
+                "chat.status": "תמיד פעיל",
+                "features.badge": "תכונות",
+                "features.title": "כל מה שסטודנט צריך.",
+                "features.subtitle": "כלים עוצמתיים עטופים בממשק יפהפה.",
+                "features.customization.title": "התאמה אישית מלאה",
+                "features.customization.desc": "צור קורסים עם אייקונים וצבעים מותאמים אישית. ארגן הרצאות, מטלות ומבחנים במקום אחד.",
+                "features.sync.title": "סנכרון יומן ללא הגבלה",
+                "features.sync.desc": "סנכרן את הלו\"ז שלך לכל היומנים החיצוניים באייפון ובאייפד. ללא הגבלה על מספר היומנים המחוברים.",
+                "features.grades.title": "ציונים ונוכחות",
+                "features.grades.desc": "דוחות ויזואליים לכל קורס. דע בדיוק איפה אתה עומד מבחינת נוכחות וממוצע ציונים.",
+                "features.notifications.title": "התראות אנושיות",
+                "features.notifications.desc": "תזכורות שמרגישות כמו הודעה מחבר, לא התראה מרובוט. ניתן להתאמה אישית לכל אירוע.",
+                "features.demo.time": "עכשיו",
+                "features.demo.text": "היי! 📚 המסה בהיסטוריה להגשה מחר. אל תשאר ער כל הלילה שוב!",
+                "integration.badge": "בלעדי לאפל",
+                "integration.title_line1": "אינטגרציה עמוקה",
+                "integration.title_line2": "עם iOS ו-iPadOS.",
+                "integration.description": "Talmify היא לא סתם אפליקציה; היא חלק מהאקוסיסטם של האייפון והאייפד שלך. תהנה מתמיכה חלקה בווידג'טים, קיצורי דרך וסירי.",
+                "integration.widgets.title": "ווידג'טים אינטראקטיביים",
+                "integration.widgets.desc": "בדוק את הלו\"ז, סמן משימות שהושלמו וצפה בציונים ישירות ממסך הבית מבלי לפתוח את האפליקציה.",
+                "integration.siri.title": "סירי וקיצורי דרך",
+                "integration.siri.desc": "\"היי סירי, מה שיעורי הבית שלי?\" בנה אוטומציות מותאמות אישית ושלוט בזרימת הלימודים שלך באמצעות הקול.",
+                "integration.icloud.title": "גיבוי iCloud מאובטח",
+                "integration.icloud.desc": "הנתונים שלך נשארים שלך. סנכרון מהיר ומוצפן בין כל מכשירי אפל שלך דרך חשבון ה-iCloud הפרטי שלך.",
+                "global.title": "חינוך גלובלי",
+                "global.subtitle": "שוברים מחסומי שפה ב-60+ שפות.",
+                "cta.title": "מוכן להצטיין בסמסטר?",
+                "cta.subtitle": "הצטרף לאלפי סטודנטים המארגנים את חייהם האקדמיים עם Talmify.",
+                "cta.download_sub": "הורד ב-",
+                "cta.exclusive": "זמין בלעדית ל-iOS ו-iPadOS",
+                "footer.copyright": "© 2025 Talmify. כל הזכויות שמורות.",
+                "footer.terms": "תנאי שימוש",
+                "footer.privacy": "מדיניות פרטיות",
+                "footer.accessibility": "הצהרת נגישות",
+                // Chat Animation Strings
+                "chat.msg1": "מתי מבחן האמצע בפיזיקה?",
+                "chat.msg2": "ביום שני הבא ב-9:00 בבוקר בחדר 4B. ⚛️",
+                "chat.msg3": "הוספתי את המטלה בכימיה.",
+                "chat.msg4": "קיבלתי! תאריך ההגשה נקבע ליום שישי. 🧪",
+                "chat.msg5": "תזכיר לי ללמוד לזה הערב.",
+                "chat.msg6": "בוצע! תזכורת נקבעה ל-19:00 הערב. 🌙"
+            }
+        };
+
+        let currentLang = 'en';
+
+        function toggleLanguage() {
+            currentLang = currentLang === 'en' ? 'he' : 'en';
+            setLanguage(currentLang);
+        }
+
+        function setLanguage(lang) {
+            const html = document.documentElement;
+            html.setAttribute('lang', lang);
+
+            if (lang === 'he') {
+                html.setAttribute('dir', 'rtl');
+                html.classList.add('rtl');
+                document.getElementById('lang-toggle-text').innerText = 'English';
+                document.getElementById('mobile-lang-text').innerText = 'Switch to English';
+            } else {
+                html.setAttribute('dir', 'ltr');
+                html.classList.remove('rtl');
+                document.getElementById('lang-toggle-text').innerText = 'עברית';
+                document.getElementById('mobile-lang-text').innerText = 'עבור לעברית';
+            }
+
+            // Update all elements with data-i18n
+            const elements = document.querySelectorAll('[data-i18n]');
+            elements.forEach(el => {
+                const key = el.getAttribute('data-i18n');
+                if (translations[lang][key]) {
+                    el.innerText = translations[lang][key];
+                }
+            });
+        }
+
         // --- Core Logic Wrapped in DOMContentLoaded ---
         document.addEventListener('DOMContentLoaded', () => {
             
@@ -625,7 +787,7 @@
                 div.id = 'typing-indicator';
                 div.className = 'flex items-center gap-2 max-w-[80%] self-start';
                 div.innerHTML = `
-                    <div class="bg-white border border-slate-100 p-3 rounded-2xl rounded-tl-none shadow-sm flex gap-1">
+                    <div class="bg-white border border-slate-100 p-3 rounded-2xl rounded-ss-none shadow-sm flex gap-1">
                         <div class="w-1.5 h-1.5 bg-slate-400 rounded-full typing-dot"></div>
                         <div class="w-1.5 h-1.5 bg-slate-400 rounded-full typing-dot"></div>
                         <div class="w-1.5 h-1.5 bg-slate-400 rounded-full typing-dot"></div>
@@ -641,9 +803,10 @@
                 
                 const bubble = document.createElement('div');
                 bubble.className = isUser 
-                    ? 'bg-brand-primary text-white p-3 rounded-2xl rounded-tr-none text-sm max-w-[85%] shadow-md'
-                    : 'bg-white text-slate-800 p-3 rounded-2xl rounded-tl-none text-sm max-w-[85%] shadow-sm border border-slate-100';
+                    ? 'bg-brand-primary text-white p-3 rounded-2xl rounded-se-none text-sm max-w-[85%] shadow-md'
+                    : 'bg-white text-slate-800 p-3 rounded-2xl rounded-ss-none text-sm max-w-[85%] shadow-sm border border-slate-100';
                 
+                bubble.setAttribute('dir', 'auto');
                 bubble.innerHTML = text;
                 div.appendChild(bubble);
                 return div;
@@ -664,7 +827,7 @@
                     chatArea.style.opacity = '1';
                     await sleep(500);
 
-                    chatArea.appendChild(createMsg("When is my Physics midterm?", "user"));
+                    chatArea.appendChild(createMsg(translations[currentLang]["chat.msg1"], "user"));
                     await sleep(1000);
 
                     const typing1 = createTyping();
@@ -672,7 +835,7 @@
                     await sleep(1500);
                     typing1.remove();
                     
-                    chatArea.appendChild(createMsg("It's next Monday at 9:00 AM in Room 4B. ⚛️", "bot"));
+                    chatArea.appendChild(createMsg(translations[currentLang]["chat.msg2"], "bot"));
                     await sleep(3000);
 
                     // Check visibility before starting Scenario 2
@@ -689,7 +852,7 @@
                     await sleep(500);
                     
                     // Message 1 (User)
-                    chatArea.appendChild(createMsg("I added the Chemistry assignment.", "user"));
+                    chatArea.appendChild(createMsg(translations[currentLang]["chat.msg3"], "user"));
                     await sleep(1000);
 
                     // Message 2 (Bot) - Typing then appear (Fix: Sequential)
@@ -699,12 +862,12 @@
                     await sleep(1000);
                     typing2.remove();
                     
-                    chatArea.appendChild(createMsg("Got it! Due date is set for Friday. 🧪", "bot"));
+                    chatArea.appendChild(createMsg(translations[currentLang]["chat.msg4"], "bot"));
                     chatArea.scrollTop = chatArea.scrollHeight;
                     await sleep(1500);
 
                     // Message 3 (User)
-                    chatArea.appendChild(createMsg("Remind me to study for it tonight.", "user"));
+                    chatArea.appendChild(createMsg(translations[currentLang]["chat.msg5"], "user"));
                     await sleep(800);
 
                     // Message 4 (Bot)
@@ -714,7 +877,7 @@
                     await sleep(1200);
                     typing3.remove();
 
-                    chatArea.appendChild(createMsg("Done! Reminder set for 7:00 PM tonight. 🌙", "bot"));
+                    chatArea.appendChild(createMsg(translations[currentLang]["chat.msg6"], "bot"));
                     chatArea.scrollTop = chatArea.scrollHeight;
 
                     await sleep(4000);
