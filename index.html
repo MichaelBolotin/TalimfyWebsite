@@ -502,59 +502,13 @@
             <p class="text-slate-500 text-sm" data-i18n="footer.copyright">© 2025 Talmify. All rights reserved.</p>
             <!-- New Legal Links -->
             <div class="flex flex-wrap justify-center gap-6 text-sm font-medium text-slate-500">
-                <button onclick="openLegalPage('terms')" class="hover:text-brand-primary transition" data-i18n="footer.terms">Terms of Service</button>
-                <button onclick="openLegalPage('privacy')" class="hover:text-brand-primary transition" data-i18n="footer.privacy">Privacy Policy</button>
-                <button onclick="openLegalPage('accessibility')" class="hover:text-brand-primary transition" data-i18n="footer.accessibility">Accessibility Statement</button>
+                <a href="terms.html" class="hover:text-brand-primary transition" data-i18n="footer.terms">Terms of Service</a>
+                <a href="privacy.html" class="hover:text-brand-primary transition" data-i18n="footer.privacy">Privacy Policy</a>
+                <a href="accessibility.html" class="hover:text-brand-primary transition" data-i18n="footer.accessibility">Accessibility Statement</a>
             </div>
         </div>
     </footer>
 
-    <!-- Legal Pages Overlays (Hidden by default) -->
-    
-    <!-- 1. Terms of Service -->
-    <div id="terms-page" class="fixed inset-0 bg-white z-[100] hidden overflow-y-auto">
-        <div class="max-w-4xl mx-auto px-6 py-12">
-            <button onclick="closeLegalPage('terms')" class="fixed top-6 right-6 w-10 h-10 bg-slate-100 rounded-full flex items-center justify-center text-slate-600 hover:bg-slate-200 transition">
-                <i class="fas fa-times"></i>
-            </button>
-            <h1 class="text-4xl font-bold text-slate-900 mb-8">Terms of Service</h1>
-            <div class="prose prose-slate max-w-none text-slate-600">
-                <!-- PASTE YOUR TERMS OF SERVICE CONTENT HERE -->
-                <p>Welcome to Talmify. Please read these terms carefully...</p>
-                <p class="italic text-slate-400">[Content to be updated by owner]</p>
-            </div>
-        </div>
-    </div>
-
-    <!-- 2. Privacy Policy -->
-    <div id="privacy-page" class="fixed inset-0 bg-white z-[100] hidden overflow-y-auto">
-        <div class="max-w-4xl mx-auto px-6 py-12">
-            <button onclick="closeLegalPage('privacy')" class="fixed top-6 right-6 w-10 h-10 bg-slate-100 rounded-full flex items-center justify-center text-slate-600 hover:bg-slate-200 transition">
-                <i class="fas fa-times"></i>
-            </button>
-            <h1 class="text-4xl font-bold text-slate-900 mb-8">Privacy Policy</h1>
-            <div class="prose prose-slate max-w-none text-slate-600">
-                <!-- PASTE YOUR PRIVACY POLICY CONTENT HERE -->
-                <p>Your privacy is important to us...</p>
-                <p class="italic text-slate-400">[Content to be updated by owner]</p>
-            </div>
-        </div>
-    </div>
-
-    <!-- 3. Accessibility Statement -->
-    <div id="accessibility-page" class="fixed inset-0 bg-white z-[100] hidden overflow-y-auto">
-        <div class="max-w-4xl mx-auto px-6 py-12">
-            <button onclick="closeLegalPage('accessibility')" class="fixed top-6 right-6 w-10 h-10 bg-slate-100 rounded-full flex items-center justify-center text-slate-600 hover:bg-slate-200 transition">
-                <i class="fas fa-times"></i>
-            </button>
-            <h1 class="text-4xl font-bold text-slate-900 mb-8">Accessibility Statement</h1>
-            <div class="prose prose-slate max-w-none text-slate-600">
-                <!-- PASTE YOUR ACCESSIBILITY STATEMENT CONTENT HERE -->
-                <p>Talmify is committed to ensuring digital accessibility...</p>
-                <p class="italic text-slate-400">[Content to be updated by owner]</p>
-            </div>
-        </div>
-    </div>
 
     <!-- Language Selection Modal -->
     <div id="language-modal" class="fixed inset-0 bg-black/50 backdrop-blur-sm z-[110] hidden flex items-center justify-center p-4">
@@ -603,21 +557,6 @@
             }
         }
 
-        function openLegalPage(pageId) {
-            const page = document.getElementById(pageId + '-page');
-            if (page) {
-                page.classList.remove('hidden');
-                document.body.style.overflow = 'hidden'; // Prevent background scrolling
-            }
-        }
-
-        function closeLegalPage(pageId) {
-            const page = document.getElementById(pageId + '-page');
-            if (page) {
-                page.classList.add('hidden');
-                document.body.style.overflow = ''; // Restore scrolling
-            }
-        }
 
         // --- Core Logic Wrapped in DOMContentLoaded ---
         document.addEventListener('DOMContentLoaded', () => {
