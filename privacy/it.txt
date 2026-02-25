@@ -1,0 +1,41 @@
+POLITICA SULLA PRIVACY – APP TALMIFY
+
+Ultimo aggiornamento: Febbraio 2026
+
+IMPORTANTE AVVISO LEGALE:
+Questo documento è stato tradotto dall'ebraico solo per scopi di comodità. La versione vincolante e legalmente valida è solo il testo ebraico. In caso di contraddizione, prevarrà la versione ebraica.
+
+Michael Yefet (l'"Azienda") rispetta la tua privacy. Questa politica descrive come le informazioni vengono raccolte e utilizzate nell'App Talmify.
+
+1. Informazioni che raccogliamo
+
+1.1. Informazioni fornite volontariamente dall'Utente: Quando ci contatti tramite il modulo "Contattaci", raccogliamo il tuo indirizzo email, l'oggetto della richiesta e il contenuto del messaggio.
+Chiarimento: Si prega di evitare di inviare informazioni mediche, sensibili o private all'interno del messaggio di testo libero.
+
+1.2. Informazioni raccolte automaticamente (Analisi): Utilizziamo servizi di terze parti (come Google Analytics per Firebase) per raccogliere informazioni statistiche anonime sull'utilizzo dell'App (tipo di dispositivo, arresti anomali, durata dell'utilizzo) a fini di miglioramento del servizio.
+
+1.3. Informazioni sull'acquisto: Non memorizziamo i dettagli della carta di credito. Le informazioni relative allo stato del tuo abbonamento (attivo/inattivo), alla cronologia degli acquisti e al tipo di abbonamento vengono ricevute ed elaborate per sbloccare l'accesso alle funzionalità premium.
+
+2. Uso delle informazioni e condivisione con terze parti
+
+L'Azienda non vende informazioni personali a terze parti. Le informazioni vengono utilizzate da noi per fornire il Servizio, supporto tecnico e per migliorare l'App.
+Condividiamo informazioni con fornitori di servizi esterni per il funzionamento dell'App:
+* Google Firebase: Per l'archiviazione dei dati, l'analisi statistica e la ricezione di dati da altri fornitori.
+* Apple Inc.: Per l'elaborazione dei pagamenti, la gestione degli abbonamenti, il backup su iCloud (se abilitato da te) e la fornitura di servizi di Apple Intelligence.
+* RevenueCat: Una piattaforma per la gestione dell'infrastruttura di abbonamento. Questo servizio viene utilizzato per la convalida delle ricevute, la gestione dello stato del tuo abbonamento e la sincronizzazione dei dati di acquisto con i servizi di analisi (Firebase) per migliorare l'esperienza utente.
+
+3. Servizi di Intelligenza Artificiale (IA)
+
+Quando si utilizzano funzionalità basate sull'IA, le informazioni (testi inseriti) possono essere elaborate sul dispositivo o inviate per l'elaborazione sui server dei fornitori di IA (come Apple), in conformità con le politiche sulla privacy di tali fornitori.
+
+4. Sicurezza dei dati
+
+Adottiamo misure di sicurezza ragionevoli per proteggere le informazioni. Tuttavia, è impossibile garantire una sicurezza assoluta contro intrusioni non autorizzate.
+
+5. Diritti dell'utente
+
+Hai il diritto di rivedere le informazioni personali conservate su di te (richieste Contattaci) e richiederne la correzione o la cancellazione, soggetto alla legge applicabile, contattando: legal@talmify.com.
+
+6. Modifiche alla Politica
+
+Questa politica può essere aggiornata di volta in volta. L'uso continuato dell'App dopo l'aggiornamento costituisce accettazione della nuova politica.

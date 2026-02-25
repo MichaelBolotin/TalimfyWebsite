@@ -1,0 +1,41 @@
+PERSONVERNERKLÆRING – TALMIFY-APPEN
+
+Sist oppdatert: Februar 2026
+
+VIKTIG JURIDISK MERKNAD:
+Dette dokumentet er oversatt fra hebraisk kun for bekvemmelighets skyld. Den bindende og juridisk gyldige versjonen er kun den hebraiske teksten. I tilfelle motstrid skal den hebraiske versjonen ha forrang.
+
+Michael Yefet ("Virksomheten") respekterer personvernet ditt. Denne erklæringen beskriver hvordan informasjon samles inn og brukes i Talmify-appen.
+
+1. Informasjon vi samler inn
+
+1.1. Informasjon frivillig gitt av Brukeren: Når du kontakter oss via "Kontakt oss"-skjemaet, samler vi inn e-postadressen din, emnet for henvendelsen og innholdet i meldingen.
+Oppklaring: Vennligst unngå å sende medisinsk, sensitiv eller privat informasjon i fritekstmeldingen.
+
+1.2. Informasjon samlet inn automatisk (Analyse): Vi bruker tredjepartstjenester (som Google Analytics for Firebase) for å samle inn anonym statistisk informasjon om appbruk (enhetstype, krasj, bruksvarighet) for tjenesteforbedringsformål.
+
+1.3. Kjøpsinformasjon: Vi lagrer ikke kredittkortdetaljer. Informasjon om abonnementsstatusen din (aktiv/inaktiv), kjøpshistorikk og abonnementstype mottas og behandles for å låse opp tilgang til premiumfunksjoner.
+
+2. Bruk av informasjon og deling med tredjeparter
+
+Virksomheten selger ikke personlig informasjon til tredjeparter. Informasjonen brukes av oss til å levere Tjenesten, teknisk støtte og for å forbedre Appen.
+Vi deler informasjon med eksterne tjenesteleverandører for driften av Appen:
+* Google Firebase: For datalagring, statistisk analyse og mottak av data fra andre leverandører.
+* Apple Inc.: For betalingsbehandling, abonnementsadministrasjon, iCloud-sikkerhetskopi (hvis aktivert av deg) og levering av Apple Intelligence-tjenester.
+* RevenueCat: En plattform for administrasjon av abonnementsinfrastruktur. Denne tjenesten brukes til kvitteringsvalidering, administrasjon av abonnementsstatusen din og synkronisering av kjøpsdata med analysetjenester (Firebase) for å forbedre brukeropplevelsen.
+
+3. Kunstig intelligens (AI)-tjenester
+
+Ved bruk av AI-baserte funksjoner kan informasjon (tekster du har lagt inn) behandles på enheten din eller sendes for behandling på serverne til AI-leverandører (som Apple), i samsvar med personvernerklæringene til disse leverandørene.
+
+4. Datasikkerhet
+
+Vi tar rimelige sikkerhetstiltak for å beskytte informasjonen. Det er imidlertid umulig å garantere absolutt sikkerhet mot uautoriserte inntrengninger.
+
+5. Brukerrettigheter
+
+Du har rett til å gjennomgå den personlige informasjonen som oppbevares om deg (Kontakt oss-henvendelser) og be om korrigering eller sletting av denne, underlagt gjeldende lov, ved å kontakte: legal@talmify.com.
+
+6. Endringer i retningslinjene
+
+Denne erklæringen kan oppdateres fra tid til annen. Fortsatt bruk av Appen etter oppdateringen utgjør samtykke til de nye retningslinjene.

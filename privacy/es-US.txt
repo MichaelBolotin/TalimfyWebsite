@@ -1,0 +1,41 @@
+POLÍTICA DE PRIVACIDAD – APP TALMIFY
+
+Última actualización: Febrero 2026
+
+AVISO LEGAL IMPORTANTE:
+Este documento ha sido traducido del hebreo solo con fines de conveniencia. La versión vinculante y legalmente válida es únicamente el texto en hebreo. En caso de contradicción, prevalecerá la versión en hebreo.
+
+Michael Yefet (el "Negocio") respeta su privacidad. Esta política describe cómo se recopila y utiliza la información en la App Talmify.
+
+1. Información que recopilamos
+
+1.1. Información proporcionada voluntariamente por el Usuario: Al contactarnos a través del formulario "Contáctenos", recopilamos su dirección de correo electrónico, el asunto de la consulta y el contenido del mensaje.
+Aclaración: Por favor, evite enviar información médica, confidencial o privada dentro del mensaje de texto libre.
+
+1.2. Información recopilada automáticamente (Análisis): Utilizamos servicios de terceros (como Google Analytics para Firebase) para recopilar información estadística anónima sobre el uso de la App (tipo de dispositivo, fallos, duración del uso) con fines de mejora del servicio.
+
+1.3. Información de compra: No almacenamos detalles de tarjetas de crédito. La información sobre el estado de su suscripción (activa/inactiva), historial de compras y tipo de suscripción se recibe y procesa para desbloquear el acceso a funciones premium.
+
+2. Uso de la información y compartición con terceros
+
+El Negocio no vende información personal a terceros. La información es utilizada por nosotros para proporcionar el Servicio, soporte técnico y para mejorar la App.
+Compartimos información con proveedores de servicios externos para la operación de la App:
+* Google Firebase: Para almacenamiento de datos, análisis estadístico y recepción de datos de otros proveedores.
+* Apple Inc.: Para procesamiento de pagos, gestión de suscripciones, respaldo en iCloud (si está habilitado por usted) y provisión de servicios de inteligencia de Apple.
+* RevenueCat: Una plataforma para la gestión de infraestructura de suscripciones. Este servicio se utiliza para validación de recibos, gestión del estado de su suscripción y sincronización de datos de compra con servicios de análisis (Firebase) para mejorar la experiencia del usuario.
+
+3. Servicios de Inteligencia Artificial (IA)
+
+Al utilizar funciones basadas en IA, la información (textos que ingresó) puede ser procesada en su dispositivo o enviada para su procesamiento en los servidores de proveedores de IA (como Apple), de acuerdo con las políticas de privacidad de dichos proveedores.
+
+4. Seguridad de los datos
+
+Tomamos medidas de seguridad razonables para proteger la información. Sin embargo, es imposible garantizar una seguridad absoluta contra intrusiones no autorizadas.
+
+5. Derechos del usuario
+
+Usted tiene derecho a revisar la información personal que se tiene sobre usted (consultas de Contáctenos) y solicitar su corrección o eliminación, sujeto a la ley aplicable, contactando a: legal@talmify.com.
+
+6. Cambios en la Política
+
+Esta política puede actualizarse de vez en cuando. El uso continuado de la App después de la actualización constituye el acuerdo con la nueva política.

@@ -1,0 +1,41 @@
+TIETOSUOJAKÄYTÄNTÖ – TALMIFY-SOVELLUS
+
+Viimeksi päivitetty: Helmikuu 2026
+
+TÄRKEÄ OIKEUDELLINEN HUOMAUTUS:
+Tämä asiakirja on käännetty hepreasta vain mukavuussyistä. Sitova ja laillisesti pätevä versio on yksinomaan hepreankielinen teksti. Ristiriitatilanteissa hepreankielinen versio on ensisijainen.
+
+Michael Yefet ("Yritys") kunnioittaa yksityisyyttäsi. Tämä käytäntö kuvaa, miten tietoja kerätään ja käytetään Talmify-sovelluksessa.
+
+1. Keräämämme tiedot
+
+1.1. Käyttäjän vapaaehtoisesti antamat tiedot: Kun otat meihin yhteyttä "Ota yhteyttä" -lomakkeen kautta, keräämme sähköpostiosoitteesi, tiedustelun aiheen ja viestin sisällön.
+Selvennys: Vältä lääketieteellisten, arkaluonteisten tai yksityisten tietojen lähettämistä vapaamuotoisessa tekstiviestissä.
+
+1.2. Automaattisesti kerätyt tiedot (Analytiikka): Käytämme kolmannen osapuolen palveluita (kuten Google Analytics for Firebase) kerätäksemme anonyymejä tilastotietoja sovelluksen käytöstä (laitetyyppi, kaatumiset, käytön kesto) palvelun parantamistarkoituksiin.
+
+1.3. Ostotiedot: Emme tallenna luottokorttitietoja. Tilaustilannettasi (aktiivinen/ei-aktiivinen), ostohistoriaasi ja tilaustyyppiäsi koskevat tiedot vastaanotetaan ja käsitellään premium-ominaisuuksien käytön avaamiseksi.
+
+2. Tietojen käyttö ja jakaminen kolmansien osapuolten kanssa
+
+Yritys ei myy henkilötietoja kolmansille osapuolille. Käytämme tietoja palvelun tarjoamiseen, tekniseen tukeen ja sovelluksen parantamiseen.
+Jaamme tietoja ulkoisten palveluntarjoajien kanssa sovelluksen toimintaa varten:
+* Google Firebase: Tietojen tallentamiseen, tilastolliseen analyysiin ja tietojen vastaanottamiseen muilta palveluntarjoajilta.
+* Apple Inc.: Maksujen käsittelyyn, tilausten hallintaan, iCloud-varmuuskopiointiin (jos olet ottanut sen käyttöön) ja Apple Intelligence -palveluiden tarjoamiseen.
+* RevenueCat: Alusta tilausinfrastruktuurin hallintaan. Tätä palvelua käytetään kuittien vahvistamiseen, tilaustilanteesi hallintaan ja ostotietojen synkronointiin analytiikkapalveluiden (Firebase) kanssa käyttökokemuksen parantamiseksi.
+
+3. Tekoälypalvelut (AI)
+
+Kun käytät tekoälypohjaisia ominaisuuksia, tietoja (syöttämiäsi tekstejä) saatetaan käsitellä laitteellasi tai lähettää käsiteltäväksi tekoälypalveluntarjoajien (kuten Apple) palvelimille kyseisten palveluntarjoajien tietosuojakäytäntöjen mukaisesti.
+
+4. Tietoturva
+
+Ryhdymme kohtuullisiin turvatoimiin tietojen suojaamiseksi. On kuitenkin mahdotonta taata täydellistä turvallisuutta luvattomia tunkeutumisia vastaan.
+
+5. Käyttäjän oikeudet
+
+Sinulla on oikeus tarkastella sinusta säilytettäviä henkilötietoja (Ota yhteyttä -tiedustelut) ja pyytää niiden korjaamista tai poistamista sovellettavan lain mukaisesti ottamalla yhteyttä osoitteeseen: legal@talmify.com.
+
+6. Muutokset käytäntöön
+
+Tätä käytäntöä voidaan päivittää aika ajoin. Sovelluksen käytön jatkaminen päivityksen jälkeen katsotaan uuden käytännön hyväksymiseksi.

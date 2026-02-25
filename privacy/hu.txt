@@ -1,0 +1,41 @@
+ADATVÉDELMI IRÁNYELVEK – TALMIFY ALKALMAZÁS
+
+Utolsó frissítés: 2026. február
+
+FONTOS JOGI KÖZLEMÉNY:
+Ezt a dokumentumot héber nyelvről fordították le, kizárólag a kényelem érdekében. A kötelező erejű és jogilag érvényes változat kizárólag a héber nyelvű szöveg. Ellentmondás esetén a héber változat az irányadó.
+
+Michael Yefet (a "Vállalkozás") tiszteletben tartja az Ön magánéletét. Ez az irányelv leírja, hogyan gyűjtik és használják fel az információkat a Talmify alkalmazásban.
+
+1. Az általunk gyűjtött információk
+
+1.1. A Felhasználó által önkéntesen megadott információk: Amikor a "Kapcsolatfelvétel" űrlapon keresztül kapcsolatba lép velünk, gyűjtjük az Ön e-mail címét, a megkeresés tárgyát és az üzenet tartalmát.
+Pontosítás: Kérjük, ne küldjön orvosi, érzékeny vagy privát információkat a szabadszöveges üzenetben.
+
+1.2. Automatikusan gyűjtött információk (Elemzés): Harmadik féltől származó szolgáltatásokat (például Google Analytics for Firebase) használunk névtelen statisztikai információk gyűjtésére az alkalmazás használatáról (eszköztípus, összeomlások, használat időtartama) a szolgáltatás javítása céljából.
+
+1.3. Vásárlási információk: Nem tárolunk hitelkártyaadatokat. Az előfizetés állapotára (aktív/inaktív), a vásárlási előzményekre és az előfizetés típusára vonatkozó információkat fogadjuk és dolgozzuk fel a prémium funkciókhoz való hozzáférés feloldása érdekében.
+
+2. Információk felhasználása és megosztása harmadik felekkel
+
+A Vállalkozás nem ad el személyes adatokat harmadik feleknek. Az információkat a Szolgáltatás nyújtására, technikai támogatásra és az Alkalmazás javítására használjuk.
+Az Alkalmazás működtetése érdekében információkat osztunk meg külső szolgáltatókkal:
+* Google Firebase: Adattárolásra, statisztikai elemzésre és adatok fogadására más szolgáltatóktól.
+* Apple Inc.: Fizetésfeldolgozásra, előfizetés-kezelésre, iCloud biztonsági mentésre (ha engedélyezte) és Apple Intelligence szolgáltatások nyújtására.
+* RevenueCat: Platform az előfizetési infrastruktúra kezelésére. Ezt a szolgáltatást a nyugták ellenőrzésére, az előfizetés állapotának kezelésére és a vásárlási adatok elemzési szolgáltatásokkal (Firebase) való szinkronizálására használjuk a felhasználói élmény javítása érdekében.
+
+3. Mesterséges Intelligencia (AI) Szolgáltatások
+
+AI-alapú funkciók használatakor az információk (az Ön által beírt szövegek) feldolgozhatók az Ön eszközén, vagy elküldhetők feldolgozásra az AI-szolgáltatók (például az Apple) szervereire, ezen szolgáltatók adatvédelmi irányelveinek megfelelően.
+
+4. Adatbiztonság
+
+Ésszerű biztonsági intézkedéseket teszünk az információk védelme érdekében. Azonban lehetetlen garantálni az abszolút biztonságot a jogosulatlan behatolások ellen.
+
+5. Felhasználói jogok
+
+Ön jogosult áttekinteni az Önről tárolt személyes adatokat (Kapcsolatfelvételi megkeresések), és kérni azok javítását vagy törlését, a vonatkozó jogszabályoknak megfelelően, a következő címen: legal@talmify.com.
+
+6. Változások az irányelvekben
+
+Ez az irányelv időről időre frissülhet. Az Alkalmazás frissítés utáni folyamatos használata az új irányelv elfogadását jelenti.

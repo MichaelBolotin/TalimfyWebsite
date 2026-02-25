@@ -1,0 +1,41 @@
+POLITIKA ZASEBNOSTI – APLIKACIJA TALMIFY
+
+Zadnja posodobitev: Februar 2026
+
+POMEMBNO PRAVNO OBVESTILO:
+Ta dokument je preveden iz hebrejščine samo za udobje. Zavezujoča in pravno veljavna različica je izključno besedilo v hebrejščini. V primeru kakršnega koli protislovja prevlada hebrejska različica.
+
+Michael Yefet (»Podjetje«) spoštuje vašo zasebnost. Ta politika opisuje, kako se zbirajo in uporabljajo informacije v aplikaciji Talmify.
+
+1. Informacije, ki jih zbiramo
+
+1.1. Informacije, ki jih prostovoljno posreduje Uporabnik: Ko nas kontaktirate preko obrazca »Kontaktirajte nas«, zbiramo vaš e-poštni naslov, zadevo povpraševanja in vsebino sporočila.
+Pojasnilo: Prosimo, izogibajte se pošiljanju zdravstvenih, občutljivih ali zasebnih informacij v besedilnem sporočilu.
+
+1.2. Informacije, zbrane samodejno (Analitika): Uporabljamo storitve tretjih oseb (kot je Google Analytics za Firebase) za zbiranje anonimnih statističnih informacij o uporabi aplikacije (vrsta naprave, zrušitve, trajanje uporabe) za namene izboljšanja storitve.
+
+1.3. Informacije o nakupu: Ne shranjujemo podatkov o kreditnih karticah. Informacije glede statusa vaše naročnine (aktivna/neaktivna), zgodovine nakupov in vrste naročnine se prejemajo in obdelujejo za odklepanje dostopa do premium funkcij.
+
+2. Uporaba informacij in deljenje s tretjimi osebami
+
+Podjetje ne prodaja osebnih podatkov tretjim osebam. Informacije uporabljamo za zagotavljanje Storitve, tehnično podporo in izboljšanje Aplikacije.
+Informacije delimo z zunanjimi ponudniki storitev za delovanje Aplikacije:
+* Google Firebase: Za shranjevanje podatkov, statistično analizo in prejemanje podatkov od drugih ponudnikov.
+* Apple Inc.: Za obdelavo plačil, upravljanje naročnin, varnostno kopiranje iCloud (če ste ga omogočili) in zagotavljanje storitev Apple Intelligence.
+* RevenueCat: Platforma za upravljanje infrastrukture naročnin. Ta storitev se uporablja za preverjanje potrdil, upravljanje statusa vaše naročnine in sinhronizacijo podatkov o nakupih z analitičnimi storitvami (Firebase) za izboljšanje uporabniške izkušnje.
+
+3. Storitve umetne inteligence (UI)
+
+Pri uporabi funkcij, ki temeljijo na UI, se lahko informacije (besedila, ki ste jih vnesli) obdelujejo na vaši napravi ali pošljejo v obdelavo na strežnike ponudnikov UI (kot je Apple), v skladu s politikami zasebnosti teh ponudnikov.
+
+4. Varnost podatkov
+
+Sprejemamo razumne varnostne ukrepe za zaščito informacij. Vendar pa je nemogoče zagotoviti popolno varnost pred nepooblaščenimi vdori.
+
+5. Pravice uporabnika
+
+Imate pravico pregledati osebne podatke, ki se hranijo o vas (povpraševanja Kontaktirajte nas), in zahtevati njihov popravek ali izbris, v skladu z veljavno zakonodajo, tako da kontaktirate: legal@talmify.com.
+
+6. Spremembe politike
+
+Ta politika se lahko občasno posodobi. Nadaljnja uporaba Aplikacije po posodobitvi pomeni strinjanje z novo politiko.

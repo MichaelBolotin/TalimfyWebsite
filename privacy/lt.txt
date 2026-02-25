@@ -1,0 +1,41 @@
+PRIVATUMO POLITIKA – TALMIFY PROGRAMĖLĖ
+
+Paskutinį kartą atnaujinta: 2026 m. vasario mėn.
+
+SVARBUS TEISINIS PRANEŠIMAS:
+Šis dokumentas išverstas iš hebrajų kalbos tik patogumo dėlei. Privaloma ir teisiškai galiojanti versija yra tik tekstas hebrajų kalba. Esant bet kokiam prieštaravimui, pirmenybė teikiama hebrajų kalbos versijai.
+
+Michael Yefet („Verslas“) gerbia jūsų privatumą. Ši politika aprašo, kaip renkama ir naudojama informacija „Talmify“ programėlėje.
+
+1. Informacija, kurią renkame
+
+1.1. Vartotojo savanoriškai pateikta informacija: Susisiekdami su mumis per formą „Susisiekite su mumis“, mes renkame jūsų el. pašto adresą, užklausos temą ir žinutės turinį.
+Paaiškinimas: Prašome vengti siųsti medicininę, jautrią ar privačią informaciją laisvo teksto žinutėje.
+
+1.2. Automatiškai renkama informacija (Analitika): Mes naudojame trečiųjų šalių paslaugas (tokias kaip „Google Analytics for Firebase“), kad rinktume anoniminę statistinę informaciją apie programėlės naudojimą (įrenginio tipą, strigimus, naudojimo trukmę) paslaugų tobulinimo tikslais.
+
+1.3. Pirkimo informacija: Mes nesaugome kreditinės kortelės duomenų. Informacija apie jūsų prenumeratos būseną (aktyvi / neaktyvi), pirkimo istoriją ir prenumeratos tipą gaunama ir apdorojama, kad būtų atrakinta prieiga prie „premium“ funkcijų.
+
+2. Informacijos naudojimas ir dalijimasis su trečiosiomis šalimis
+
+Verslas neparduoda asmeninės informacijos trečiosioms šalims. Informaciją mes naudojame Paslaugai teikti, techninei pagalbai ir programėlei tobulinti.
+Mes dalijamės informacija su išoriniais paslaugų teikėjais programėlės veikimui užtikrinti:
+* „Google Firebase“: duomenų saugojimui, statistinei analizei ir duomenų gavimui iš kitų teikėjų.
+* „Apple Inc.“: mokėjimų apdorojimui, prenumeratų valdymui, „iCloud“ atsarginėms kopijoms (jei įjungėte) ir „Apple Intelligence“ paslaugų teikimui.
+* „RevenueCat“: prenumeratų infrastruktūros valdymo platforma. Ši paslauga naudojama kvitų patvirtinimui, jūsų prenumeratos būsenos valdymui ir pirkimo duomenų sinchronizavimui su analizės paslaugomis („Firebase“), siekiant pagerinti vartotojo patirtį.
+
+3. Dirbtinio intelekto (DI) paslaugos
+
+Naudojant DI pagrįstas funkcijas, informacija (jūsų įvesti tekstai) gali būti apdorojama jūsų įrenginyje arba siunčiama apdoroti į DI teikėjų (pvz., „Apple“) serverius, laikantis tų teikėjų privatumo politikos.
+
+4. Duomenų saugumas
+
+Mes imamės pagrįstų saugumo priemonių informacijai apsaugoti. Tačiau neįmanoma garantuoti visiško saugumo nuo neteisėtų įsilaužimų.
+
+5. Vartotojo teisės
+
+Jūs turite teisę peržiūrėti apie jus saugomą asmeninę informaciją („Susisiekite su mumis“ užklausos) ir reikalauti ją ištaisyti arba ištrinti, laikantis galiojančių įstatymų, susisiekdami: legal@talmify.com.
+
+6. Politikos pakeitimai
+
+Ši politika gali būti retkarčiais atnaujinama. Tolesnis programėlės naudojimas po atnaujinimo reiškia sutikimą su nauja politika.

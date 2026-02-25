@@ -1,0 +1,41 @@
+POLITICA DE CONFIDENȚIALITATE – APLICAȚIA TALMIFY
+
+Ultima actualizare: Februarie 2026
+
+NOTIFICARE LEGALĂ IMPORTANTĂ:
+Acest document a fost tradus din ebraică doar în scopuri de comoditate. Versiunea obligatorie și valabilă din punct de vedere legal este doar textul în ebraică. În caz de contradicție, versiunea în ebraică va prevala.
+
+Michael Yefet ("Afacerea") vă respectă confidențialitatea. Această politică descrie modul în care informațiile sunt colectate și utilizate în aplicația Talmify.
+
+1. Informații pe care le colectăm
+
+1.1. Informații furnizate voluntar de Utilizator: Când ne contactați prin formularul "Contactați-ne", colectăm adresa dvs. de e-mail, subiectul anchetei și conținutul mesajului.
+Clarificare: Vă rugăm să evitați trimiterea de informații medicale, sensibile sau private în mesajul text liber.
+
+1.2. Informații colectate automat (Analytics): Folosim servicii terțe (cum ar fi Google Analytics pentru Firebase) pentru a colecta informații statistice anonime despre utilizarea aplicației (tipul dispozitivului, blocaje, durata utilizării) în scopuri de îmbunătățire a serviciului.
+
+1.3. Informații de achiziție: Nu stocăm detalii despre cardul de credit. Informații privind starea abonamentului dvs. (activ/inactiv), istoricul achizițiilor și tipul abonamentului sunt primite și procesate pentru a debloca accesul la funcțiile premium.
+
+2. Utilizarea informațiilor și partajarea cu terțe părți
+
+Afacerea nu vinde informații personale terților. Informațiile sunt utilizate de noi pentru a furniza Serviciul, asistența tehnică și pentru a îmbunătăți Aplicația.
+Partajăm informații cu furnizori de servicii externi pentru funcționarea Aplicației:
+* Google Firebase: Pentru stocarea datelor, analiză statistică și primirea datelor de la alți furnizori.
+* Apple Inc.: Pentru procesarea plăților, gestionarea abonamentelor, backup iCloud (dacă este activat de dvs.) și furnizarea de servicii Apple Intelligence.
+* RevenueCat: O platformă pentru gestionarea infrastructurii de abonament. Acest serviciu este utilizat pentru validarea chitanțelor, gestionarea stării abonamentului dvs. și sincronizarea datelor de achiziție cu servicii de analiză (Firebase) pentru a îmbunătăți experiența utilizatorului.
+
+3. Servicii de Inteligență Artificială (AI)
+
+Când utilizați funcții bazate pe AI, informațiile (textele pe care le-ați introdus) pot fi procesate pe dispozitivul dvs. sau trimise pentru procesare pe serverele furnizorilor de AI (cum ar fi Apple), în conformitate cu politicile de confidențialitate ale acelor furnizori.
+
+4. Securitatea datelor
+
+Luăm măsuri de securitate rezonabile pentru a proteja informațiile. Cu toate acestea, este imposibil să garantăm securitatea absolută împotriva intruziunilor neautorizate.
+
+5. Drepturile utilizatorului
+
+Aveți dreptul de a revizui informațiile personale deținute despre dvs. (anchete Contactați-ne) și de a solicita corectarea sau ștergerea acestora, sub rezerva legii aplicabile, contactând: legal@talmify.com.
+
+6. Modificări ale Politicii
+
+Această politică poate fi actualizată din când în când. Utilizarea continuă a Aplicației după actualizare constituie acordul cu noua politică.

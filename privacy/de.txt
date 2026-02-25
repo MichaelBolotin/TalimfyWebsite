@@ -1,0 +1,41 @@
+DATENSCHUTZERKLÄRUNG – TALMIFY APP
+
+Zuletzt aktualisiert: Februar 2026
+
+WICHTIGER RECHTLICHER HINWEIS:
+Dieses Dokument wurde nur zu Komfortzwecken aus dem Hebräischen übersetzt. Die bindende und rechtlich gültige Version ist allein der hebräische Text. Im Falle von Widersprüchen hat die hebräische Version Vorrang.
+
+Michael Yefet (das „Unternehmen“) respektiert Ihre Privatsphäre. Diese Richtlinie beschreibt, wie Informationen in der Talmify App gesammelt und verwendet werden.
+
+1. Informationen, die wir sammeln
+
+1.1. Vom Benutzer freiwillig bereitgestellte Informationen: Wenn Sie uns über das „Kontakt“-Formular kontaktieren, sammeln wir Ihre E-Mail-Adresse, den Betreff der Anfrage und den Inhalt der Nachricht.
+Klarstellung: Bitte vermeiden Sie das Senden von medizinischen, sensiblen oder privaten Informationen innerhalb der Freitextnachricht.
+
+1.2. Automatisch gesammelte Informationen (Analytik): Wir nutzen Dienste von Drittanbietern (wie Google Analytics für Firebase), um anonyme statistische Informationen über die App-Nutzung (Gerätetyp, Abstürze, Nutzungsdauer) zu Zwecken der Serviceverbesserung zu sammeln.
+
+1.3. Kaufinformationen: Wir speichern keine Kreditkartendaten. Informationen bezüglich Ihres Abonnementstatus (aktiv/inaktiv), Kaufhistorie und Abonnementtyp werden empfangen und verarbeitet, um den Zugang zu Premium-Funktionen freizuschalten.
+
+2. Nutzung von Informationen und Weitergabe an Dritte
+
+Das Unternehmen verkauft keine persönlichen Informationen an Dritte. Die Informationen werden von uns verwendet, um den Dienst bereitzustellen, technischen Support zu leisten und die App zu verbessern.
+Wir teilen Informationen mit externen Dienstleistern für den Betrieb der App:
+* Google Firebase: Zur Datenspeicherung, statistischen Analyse und zum Empfang von Daten von anderen Anbietern.
+* Apple Inc.: Zur Zahlungsabwicklung, Abonnementverwaltung, iCloud-Backup (falls von Ihnen aktiviert) und Bereitstellung von Apple Intelligence-Diensten.
+* RevenueCat: Eine Plattform für das Management der Abonnement-Infrastruktur. Dieser Dienst wird zur Quittungsvalidierung, Verwaltung Ihres Abonnementstatus und Synchronisierung von Kaufdaten mit Analysediensten (Firebase) zur Verbesserung der Benutzererfahrung verwendet.
+
+3. Dienste für Künstliche Intelligenz (KI)
+
+Bei der Nutzung von KI-basierten Funktionen können Informationen (Texte, die Sie eingegeben haben) auf Ihrem Gerät verarbeitet oder zur Verarbeitung an die Server von KI-Anbietern (wie Apple) gesendet werden, in Übereinstimmung mit den Datenschutzrichtlinien dieser Anbieter.
+
+4. Datensicherheit
+
+Wir ergreifen angemessene Sicherheitsmaßnahmen, um die Informationen zu schützen. Es ist jedoch unmöglich, absolute Sicherheit gegen unbefugte Eingriffe zu garantieren.
+
+5. Benutzerrechte
+
+Sie sind berechtigt, die über Sie gespeicherten persönlichen Informationen (Kontaktanfragen) einzusehen und deren Korrektur oder Löschung zu verlangen, vorbehaltlich geltenden Rechts, indem Sie kontaktieren: legal@talmify.com.
+
+6. Änderungen der Richtlinie
+
+Diese Richtlinie kann von Zeit zu Zeit aktualisiert werden. Die fortgesetzte Nutzung der App nach der Aktualisierung stellt eine Zustimmung zur neuen Richtlinie dar.
