@@ -1,0 +1,74 @@
+TERMES D'ÚS – APP TALMIFY
+
+Última actualització: Febrer de 2026
+
+AVÍS LEGAL IMPORTANT:
+Aquest document ha estat traduït de l'hebreu només per a fins de conveniència. La versió vinculant i legalment vàlida és únicament el text en hebreu. En qualsevol cas de contradicció, discrepància o incoherència entre aquesta traducció i la versió en hebreu, la versió en hebreu prevaldrà i substituirà aquesta traducció en tots els aspectes, inclosos en qualsevol procediment legal.
+
+1. Introducció i Definicions
+
+1.1. Benvingut a "Talmify" (d'ara endavant: l'"App"). L'App és operada i gestionada per Michael Yefet, Comerciant Exempt (Osek Patur) núm. 314887050 (d'ara endavant: el "Negoci" o "Nosaltres").
+
+1.2. Aquest document (d'ara endavant: els "Termes") regeix la relació legal entre vostè (d'ara endavant: l'"Usuari") i el Negoci. La descàrrega, instal·lació o ús de l'App constitueix el seu acord total i sense reserves a aquests Termes i a la Política de Privadesa. Si no està d'acord amb algun d'aquests termes, ha de cessar tot ús de l'App i desinstal·lar-la immediatament.
+
+2. El Servei
+
+2.1. L'App serveix com una eina per a la gestió d'estudis, creació de cursos i seguiment d'esdeveniments, qualificacions i assistència (el "Servei").
+
+2.2. El Servei es proporciona "Tal com és" i "Segons disponibilitat", sense cap representació o garantia, expressa o implícita, pel que fa a la seva funcionalitat, precisió, disponibilitat o idoneïtat per a un propòsit particular.
+
+2.3. Característiques d'Intel·ligència Artificial (Apple Intelligence):
+L'App utilitza tecnologies d'Intel·ligència Artificial i/o models de llenguatge proporcionats per tercers, com Apple Intelligence ("Característiques IA").
+(a) Els resultats generats per les Característiques IA es produeixen algorítmicament i poden ser incorrectes, inexactes o inadequats.
+(b) La responsabilitat exclusiva de verificar la precisió de la informació i el seu ús recau en vostè. No confiï en els resultats de la IA com a substitut d'assessorament professional o verificació acadèmica independent.
+(c) El Negoci no serà responsable de cap dany directe o indirecte causat per la confiança en els resultats de la IA.
+
+3. Llicència Limitada
+
+El Negoci li atorga una llicència personal, limitada, no exclusiva i revocable per utilitzar l'App només per a fins personals i privats. L'ús comercial, còpia, enginyeria inversa o distribució de l'App o qualsevol part de la mateixa està estrictament prohibit.
+
+4. Capacitat Legal i Ús de l'App
+
+4.1. L'App està destinada a l'ús per adults amb plena capacitat legal (majors de 18 anys).
+
+4.2. Si sou menor de 18 anys ("Menor") o se us ha nomenat un Tutor Legal per qualsevol motiu, el vostre ús de l'App, i particularment l'execució de transaccions de pagament (Compres In-App), està condicionat a l'obtenció de l'aprovació explícita del vostre Tutor Legal per realitzar aquestes accions i acceptar aquests Termes.
+
+4.3. En descarregar i utilitzar l'App, declareu i garantiu que: (a) Sou un adult i legalment competent per realitzar accions legals vinculants; o (b) Sou un Menor que ha rebut el consentiment del vostre Tutor Legal per subscriure aquest acord i utilitzar l'App.
+
+4.4. La responsabilitat de la supervisió dels Menors i el seu ús de l'App recau exclusivament en el Tutor Legal. El Negoci considera qualsevol ús de l'App o pagament realitzat a través d'ella com una acció legalment aprovada pel Tutor Legal.
+
+5. Subscripcions i Compres In-App
+
+5.1. L'ús de certes característiques de l'App requereix el pagament d'una quota de subscripció renovable (mensual o anual) o un pagament únic, tal com s'ofereix a l'App Store.
+
+5.2. Renovació Automàtica: Les subscripcions periòdiques es renovaran automàticament al final de cada període de facturació tret que cancel·leu la renovació automàtica a través de la configuració del vostre compte d'Apple ID almenys 24 hores abans del final del període actual.
+
+5.3. Gestió de Pagaments: Totes les transaccions de pagament són processades i gestionades exclusivament per Apple Inc. El Negoci no té accés a les dades de la vostra targeta de crèdit i no pot processar directament càrrecs o crèdits.
+
+5.4. Cancel·lacions i Reemborsaments: La política de cancel·lació i reemborsament està subjecta únicament als Termes de Servei de l'Apple App Store. Qualsevol sol·licitud de reemborsament ha de ser dirigida a Apple. El Negoci no està autoritzat i tècnicament no pot aprovar o emetre reemborsaments.
+
+6. Propietat Intel·lectual
+
+Tots els drets de propietat intel·lectual de l'App (inclosos codi, disseny, logotips i marques comercials) pertanyen únicament al Negoci. Res en aquests Termes atorga a l'Usuari cap dret sobre la propietat intel·lectual del Negoci.
+
+7. Còpia de Seguretat de Dades i iCloud
+
+L'App permet fer còpies de seguretat de dades al servei iCloud d'Apple. Aquest servei és extern i operat per un tercer. El Negoci no és responsable de la integritat, emmagatzematge o restauració de la còpia de seguretat. L'Usuari és l'únic responsable de fer còpies de seguretat de les seves dades.
+
+8. Limitació de Responsabilitat
+
+8.1. En cap cas el Negoci, els seus empleats o qualsevol persona en nom seu serà responsable de cap dany directe, indirecte, conseqüent, especial o punitiu (inclosos pèrdua de dades, pèrdua de beneficis, angoixa mental, etc.) derivat de l'ús o la incapacitat d'utilitzar l'App.
+
+8.2. Sense perjudici de l'anterior, la responsabilitat màxima i agregada del Negoci envers l'Usuari, per qualsevol causa, es limitarà a la quantitat realment pagada per l'Usuari al Negoci en els tres mesos anteriors a l'esdeveniment que va causar el dany, o 50 NIS, el que sigui menor.
+
+9. Indemnització
+
+Accepteu indemnitzar el Negoci per qualsevol dany, pèrdua o despesa (inclosos honoraris legals) causats a aquest a causa de la vostra violació d'aquests Termes o a causa de danys causats a un tercer.
+
+10. Jurisdicció i Llei Aplicable
+
+Aquests Termes es regiran únicament per les lleis de l'Estat d'Israel. La jurisdicció exclusiva en qualsevol disputa es confereix als tribunals competents del Districte de Tel Aviv-Yafo, Israel.
+
+11. Contacteu amb Nosaltres
+
+Per a consultes legals: legal@talmify.com

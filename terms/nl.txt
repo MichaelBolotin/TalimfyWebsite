@@ -1,0 +1,74 @@
+GEBRUIKSVOORWAARDEN – TALMIFY APP
+
+Laatst bijgewerkt: Februari 2026
+
+BELANGRIJKE JURIDISCHE KENNISGEVING:
+Dit document is uitsluitend voor het gemak vertaald uit het Hebreeuws. De bindende en wettelijk geldige versie is uitsluitend de Hebreeuwse tekst. In geval van tegenstrijdigheid, discrepantie of inconsistentie tussen deze vertaling en de Hebreeuwse versie, prevaleert de Hebreeuwse versie en vervangt deze vertaling in alle opzichten, inclusief in eventuele juridische procedures.
+
+1. Inleiding en Definities
+
+1.1. Welkom bij "Talmify" (hierna: de "App"). De App wordt beheerd en geëxploiteerd door Michael Yefet, Vrijgestelde Handelaar (Osek Patur) Nr. 314887050 (hierna: de "Onderneming" of "Wij").
+
+1.2. Dit document (hierna: de "Voorwaarden") regelt de juridische relatie tussen u (hierna: de "Gebruiker") en de Onderneming. Het downloaden, installeren of gebruiken van de App vormt uw volledige en onvoorwaardelijke instemming met deze Voorwaarden en het Privacybeleid. Als u niet akkoord gaat met een van deze voorwaarden, moet u elk gebruik van de App staken en deze onmiddellijk verwijderen.
+
+2. De Dienst
+
+2.1. De App dient als hulpmiddel voor studiebeheer, cursuscreatie en het volgen van evenementen, cijfers en aanwezigheid (de "Dienst").
+
+2.2. De Dienst wordt geleverd "Zoals het is" en "Zoals beschikbaar," zonder enige vertegenwoordiging of garantie, expliciet of impliciet, met betrekking tot de functionaliteit, nauwkeurigheid, beschikbaarheid of geschiktheid voor een bepaald doel.
+
+2.3. Kunstmatige Intelligentie (Apple Intelligence) Functies:
+De App maakt gebruik van Kunstmatige Intelligentie-technologieën en/of taalmodellen die door derden worden geleverd, zoals Apple Intelligence ("AI-functies").
+(a) Output gegenereerd door AI-functies wordt algoritmisch geproduceerd en kan onjuist, onnauwkeurig of ongepast zijn.
+(b) De exclusieve verantwoordelijkheid voor het verifiëren van de nauwkeurigheid van de informatie en het gebruik ervan ligt bij u. Vertrouw niet op AI-output als vervanging voor professioneel advies of onafhankelijke academische verificatie.
+(c) De Onderneming is niet aansprakelijk voor enige directe of indirecte schade veroorzaakt door het vertrouwen op AI-output.
+
+3. Beperkte Licentie
+
+De Onderneming verleent u een persoonlijke, beperkte, niet-exclusieve en herroepbare licentie om de App uitsluitend voor persoonlijke en privédoeleinden te gebruiken. Commercieel gebruik, kopiëren, reverse engineering of distributie van de App of enig deel daarvan is ten strengste verboden.
+
+4. Handelingsbekwaamheid en Gebruik van de App
+
+4.1. De App is bedoeld voor gebruik door volwassenen met volledige handelingsbekwaamheid (ouder dan 18 jaar).
+
+4.2. Als u jonger bent dan 18 jaar ("Minderjarige") of om welke reden dan ook een wettelijke voogd hebt toegewezen gekregen, is uw gebruik van de App, en met name de uitvoering van betalingstransacties (In-App Aankopen), afhankelijk van het verkrijgen van uitdrukkelijke goedkeuring van uw wettelijke voogd om dergelijke acties uit te voeren en deze Voorwaarden te accepteren.
+
+4.3. Door de App te downloaden en te gebruiken, verklaart en garandeert u dat: (a) U een volwassene bent en wettelijk bevoegd om bindende rechtshandelingen te verrichten; of (b) U een Minderjarige bent die toestemming heeft gekregen van zijn wettelijke voogd om deze overeenkomst aan te gaan en de App te gebruiken.
+
+4.4. De verantwoordelijkheid voor het toezicht op Minderjarigen en hun gebruik van de App ligt uitsluitend bij de wettelijke voogd. De Onderneming beschouwt elk gebruik van de App of betaling die via de App wordt gedaan als een actie die wettig is goedgekeurd door de wettelijke voogd.
+
+5. Abonnementen en In-App Aankopen
+
+5.1. Gebruik van bepaalde functies van de App vereist betaling van een vernieuwbaar abonnementsgeld (maandelijks of jaarlijks) of een eenmalige betaling, zoals aangeboden in de App Store.
+
+5.2. Automatische Verlenging: Periodieke abonnementen worden automatisch verlengd aan het einde van elke factureringsperiode, tenzij u de automatische verlenging ten minste 24 uur voor het einde van de huidige periode annuleert via uw Apple ID-accountinstellingen.
+
+5.3. Betalingsbeheer: Alle betalingstransacties worden uitsluitend verwerkt en beheerd door Apple Inc. De Onderneming heeft geen toegang tot uw creditcardgegevens en kan kosten of tegoeden niet rechtstreeks verwerken.
+
+5.4. Annuleringen en Restituties: Het annulerings- en restitutiebeleid is uitsluitend onderworpen aan de Servicevoorwaarden van de Apple App Store. Elk verzoek om restitutie moet aan Apple worden gericht. De Onderneming is niet bevoegd en technisch niet in staat om restituties goed te keuren of uit te geven.
+
+6. Intellectueel Eigendom
+
+Alle intellectuele eigendomsrechten in de App (inclusief code, ontwerp, logo's en handelsmerken) behoren uitsluitend toe aan de Onderneming. Niets in deze Voorwaarden verleent de Gebruiker enige rechten op het intellectuele eigendom van de Onderneming.
+
+7. Gegevensback-up en iCloud
+
+De App staat gegevensback-up naar de iCloud-service van Apple toe. Deze service is extern en wordt beheerd door een derde partij. De Onderneming is niet verantwoordelijk voor de integriteit, opslag of het herstel van de back-up. De Gebruiker is als enige verantwoordelijk voor het maken van een back-up van zijn gegevens.
+
+8. Beperking van Aansprakelijkheid
+
+8.1. In geen geval zal de Onderneming, haar werknemers of iemand namens haar aansprakelijk zijn voor enige directe, indirecte, gevolg-, speciale of punitieve schade (inclusief verlies van gegevens, winstderving, mentale angst, enz.) die voortvloeit uit het gebruik of het onvermogen om de App te gebruiken.
+
+8.2. Zonder afbreuk te doen aan het bovenstaande, zal de maximale en totale aansprakelijkheid van de Onderneming jegens de Gebruiker, om welke reden dan ook, beperkt zijn tot het bedrag dat daadwerkelijk door de Gebruiker aan de Onderneming is betaald in de drie maanden voorafgaand aan de gebeurtenheid die de schade heeft veroorzaakt, of 50 NIS, wat lager is.
+
+9. Vrijwaring
+
+U stemt ermee in de Onderneming te vrijwaren voor enige schade, verlies of kosten (inclusief juridische kosten) die aan haar worden veroorzaakt als gevolg van uw schending van deze Voorwaarden of als gevolg van schade toegebracht aan een derde partij.
+
+10. Jurisdictie en Toepasselijk Recht
+
+Deze Voorwaarden worden uitsluitend beheerst door de wetten van de Staat Israël. Exclusieve jurisdictie in elk geschil is voorbehouden aan de bevoegde rechtbanken in het District Tel Aviv-Yafo, Israël.
+
+11. Neem contact met ons op
+
+Voor juridische vragen: legal@talmify.com

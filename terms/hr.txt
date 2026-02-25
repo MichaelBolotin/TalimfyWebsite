@@ -1,0 +1,74 @@
+UVJETI KORIŠTENJA – APLIKACIJA TALMIFY
+
+Zadnje ažuriranje: Veljača 2026.
+
+VAŽNA PRAVNA OBAVIJEST:
+Ovaj dokument preveden je s hebrejskog samo u svrhu pogodnosti. Obvezujuća i pravno valjana verzija isključivo je hebrejski tekst. U slučaju bilo kakve kontradikcije, nepodudarnosti ili nedosljednosti između ovog prijevoda i hebrejske verzije, hebrejska verzija prevladava i zamjenjuje ovaj prijevod u svim aspektima, uključujući bilo kakve pravne postupke.
+
+1. Uvod i definicije
+
+1.1. Dobrodošli u "Talmify" (u daljnjem tekstu: "Aplikacija"). Aplikacijom upravlja i vodi je Michael Yefet, Oslobođeni trgovac (Osek Patur) br. 314887050 (u daljnjem tekstu: "Posao" ili "Mi").
+
+1.2. Ovaj dokument (u daljnjem tekstu: "Uvjeti") regulira pravni odnos između vas (u daljnjem tekstu: "Korisnik") i Posla. Preuzimanje, instalacija ili korištenje Aplikacije predstavlja vašu potpunu i bezuvjetnu suglasnost s ovim Uvjetima i Politikom privatnosti. Ako se ne slažete s bilo kojim od ovih uvjeta, morate prestati koristiti Aplikaciju i odmah je deinstalirati.
+
+2. Usluga
+
+2.1. Aplikacija služi kao alat za upravljanje učenjem, kreiranje tečajeva i praćenje događaja, ocjena i prisutnosti ("Usluga").
+
+2.2. Usluga se pruža "kakva jest" i "kako je dostupna", bez ikakvih izjava ili jamstava, izričitih ili podrazumijevanih, u pogledu njezine funkcionalnosti, točnosti, dostupnosti ili prikladnosti za određenu svrhu.
+
+2.3. Značajke umjetne inteligencije (Apple Intelligence):
+Aplikacija koristi tehnologije umjetne inteligencije i/ili jezične modele koje pružaju treće strane, kao što je Apple Intelligence ("AI značajke").
+(a) Izlazi koje generiraju AI značajke proizvode se algoritamski i mogu biti netočni, neprecizni ili neprikladni.
+(b) Isključiva odgovornost za provjeru točnosti informacija i njihovu upotrebu leži na vama. Ne oslanjajte se na AI izlaze kao zamjenu za profesionalni savjet ili neovisnu akademsku provjeru.
+(c) Posao neće biti odgovoran za bilo kakvu izravnu ili neizravnu štetu uzrokovanu oslanjanjem na AI izlaze.
+
+3. Ograničena licenca
+
+Posao vam daje osobnu, ograničenu, neekskluzivnu i opozivu licencu za korištenje Aplikacije samo u osobne i privatne svrhe. Komercijalna upotreba, kopiranje, obrnuti inženjering ili distribucija Aplikacije ili bilo kojeg njezinog dijela strogo je zabranjena.
+
+4. Pravna sposobnost i korištenje Aplikacije
+
+4.1. Aplikacija je namijenjena za korištenje od strane odraslih osoba s potpunom pravnom sposobnošću (starijih od 18 godina).
+
+4.2. Ako ste mlađi od 18 godina ("Maloljetnik") ili vam je iz bilo kojeg razloga dodijeljen zakonski skrbnik, vaše korištenje Aplikacije, a posebno izvršenje platnih transakcija (Kupnje unutar aplikacije), uvjetovano je dobivanjem izričitog odobrenja od vašeg zakonskog skrbnika za obavljanje takvih radnji i prihvaćanje ovih Uvjeta.
+
+4.3. Preuzimanjem i korištenjem Aplikacije izjavljujete i jamčite da: (a) Ste odrasla osoba i pravno sposobni za obavljanje obvezujućih pravnih radnji; ili (b) Ste Maloljetnik koji je dobio pristanak svog zakonskog skrbnika za sklapanje ovog sporazuma i korištenje Aplikacije.
+
+4.4. Odgovornost za nadzor Maloljetnika i njihovo korištenje Aplikacije leži isključivo na zakonskom skrbniku. Posao smatra svako korištenje Aplikacije ili plaćanje izvršeno putem nje kao radnju zakonito odobrenu od strane zakonskog skrbnika.
+
+5. Pretplate i kupnje unutar aplikacije
+
+5.1. Korištenje određenih značajki Aplikacije zahtijeva plaćanje obnavljajuće pretplate (mjesečne ili godišnje) ili jednokratno plaćanje, kako se nudi u App Storeu.
+
+5.2. Automatska obnova: Periodične pretplate automatski će se obnavljati na kraju svakog obračunskog razdoblja osim ako ne otkažete automatsku obnovu putem postavki svog Apple ID računa najmanje 24 sata prije kraja tekućeg razdoblja.
+
+5.3. Upravljanje plaćanjima: Sve platne transakcije obrađuje i njima upravlja isključivo Apple Inc. Posao nema pristup podacima o vašoj kreditnoj kartici i ne može izravno obrađivati terećenja ili kredite.
+
+5.4. Otkazivanja i povrati novca: Politika otkazivanja i povrata novca podliježe isključivo Uvjetima pružanja usluge Apple App Storea. Svaki zahtjev za povrat novca mora biti upućen Appleu. Posao nije ovlašten i tehnički nije u mogućnosti odobriti ili izdati povrate novca.
+
+6. Intelektualno vlasništvo
+
+Sva prava intelektualnog vlasništva u Aplikaciji (uključujući kod, dizajn, logotipe i zaštitne znakove) pripadaju isključivo Poslu. Ništa u ovim Uvjetima ne daje Korisniku nikakva prava na intelektualno vlasništvo Posla.
+
+7. Sigurnosna kopija podataka i iCloud
+
+Aplikacija omogućuje sigurnosno kopiranje podataka na Appleovu uslugu iCloud. Ova usluga je vanjska i njome upravlja treća strana. Posao nije odgovoran za cjelovitost, pohranu ili vraćanje sigurnosne kopije. Korisnik je isključivo odgovoran za sigurnosno kopiranje svojih podataka.
+
+8. Ograničenje odgovornosti
+
+8.1. Ni u kojem slučaju Posao, njegovi zaposlenici ili bilo tko u njegovo ime neće biti odgovoran za bilo kakve izravne, neizravne, posljedične, posebne ili kaznene štete (uključujući gubitak podataka, gubitak dobiti, duševne boli itd.) koje proizlaze iz korištenja ili nemogućnosti korištenja Aplikacije.
+
+8.2. Bez odstupanja od navedenog, maksimalna i ukupna odgovornost Posla prema Korisniku, iz bilo kojeg razloga, bit će ograničena na iznos koji je Korisnik stvarno platio Poslu u tri mjeseca koja su prethodila događaju koji je uzrokovao štetu, ili 50 NIS, što god je manje.
+
+9. Odšteta
+
+Pristajete obeštetiti Posao za svaku štetu, gubitak ili trošak (uključujući pravne troškove) uzrokovan njemu zbog vašeg kršenja ovih Uvjeta ili zbog štete nanesene trećoj strani.
+
+10. Nadležnost i mjerodavno pravo
+
+Ovi Uvjeti bit će regulirani isključivo zakonima Države Izrael. Isključiva nadležnost u bilo kojem sporu dodijeljena je nadležnim sudovima u okrugu Tel Aviv-Yafo, Izrael.
+
+11. Kontaktirajte nas
+
+Za pravne upite: legal@talmify.com

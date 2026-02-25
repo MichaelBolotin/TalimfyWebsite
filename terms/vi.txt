@@ -1,0 +1,74 @@
+ĐIỀU KHOẢN SỬ DỤNG – ỨNG DỤNG TALMIFY
+
+Cập nhật lần cuối: Tháng 2 năm 2026
+
+THÔNG BÁO PHÁP LÝ QUAN TRỌNG:
+Tài liệu này đã được dịch từ tiếng Do Thái chỉ nhằm mục đích thuận tiện. Phiên bản ràng buộc và có giá trị pháp lý là văn bản tiếng Do Thái duy nhất. Trong bất kỳ trường hợp mâu thuẫn, khác biệt hoặc không nhất quán nào giữa bản dịch này và phiên bản tiếng Do Thái, phiên bản tiếng Do Thái sẽ được ưu tiên và thay thế bản dịch này về mọi mặt, bao gồm cả trong bất kỳ thủ tục pháp lý nào.
+
+1. Giới thiệu và Định nghĩa
+
+1.1. Chào mừng bạn đến với "Talmify" (sau đây gọi là: "Ứng dụng"). Ứng dụng được vận hành và quản lý bởi Michael Yefet, Đại lý được miễn thuế (Osek Patur) Số 314887050 (sau đây gọi là: "Doanh nghiệp" hoặc "Chúng tôi").
+
+1.2. Tài liệu này (sau đây gọi là: "Điều khoản") điều chỉnh mối quan hệ pháp lý giữa bạn (sau đây gọi là: "Người dùng") và Doanh nghiệp. Việc tải xuống, cài đặt hoặc sử dụng Ứng dụng cấu thành sự đồng ý đầy đủ và không bảo lưu của bạn đối với các Điều khoản này và Chính sách quyền riêng tư. Nếu bạn không đồng ý với bất kỳ điều khoản nào trong số này, bạn phải ngừng mọi việc sử dụng Ứng dụng và gỡ cài đặt ngay lập tức.
+
+2. Dịch vụ
+
+2.1. Ứng dụng đóng vai trò là công cụ quản lý học tập, tạo khóa học và theo dõi sự kiện, điểm số và điểm danh ("Dịch vụ").
+
+2.2. Dịch vụ được cung cấp "Nguyên trạng" và "Như sẵn có", không có bất kỳ tuyên bố hay bảo đảm nào, rõ ràng hay ngụ ý, liên quan đến chức năng, độ chính xác, tính khả dụng hoặc tính phù hợp cho một mục đích cụ thể.
+
+2.3. Các tính năng Trí tuệ nhân tạo (Apple Intelligence):
+Ứng dụng sử dụng các công nghệ Trí tuệ nhân tạo và/hoặc các mô hình ngôn ngữ do bên thứ ba cung cấp, chẳng hạn như Apple Intelligence ("Các tính năng AI").
+(a) Kết quả do Các tính năng AI tạo ra được sản xuất theo thuật toán và có thể không chính xác, không đúng hoặc không phù hợp.
+(b) Trách nhiệm duy nhất trong việc xác minh độ chính xác của thông tin và việc sử dụng thông tin đó thuộc về bạn. Không dựa vào kết quả AI để thay thế cho lời khuyên chuyên nghiệp hoặc xác minh học thuật độc lập.
+(c) Doanh nghiệp sẽ không chịu trách nhiệm cho bất kỳ thiệt hại trực tiếp hoặc gián tiếp nào do dựa vào kết quả AI.
+
+3. Giấy phép hạn chế
+
+Doanh nghiệp cấp cho bạn giấy phép cá nhân, hạn chế, không độc quyền và có thể thu hồi để sử dụng Ứng dụng chỉ cho mục đích cá nhân và riêng tư. Việc sử dụng thương mại, sao chép, thiết kế ngược hoặc phân phối Ứng dụng hoặc bất kỳ phần nào của Ứng dụng đều bị nghiêm cấm.
+
+4. Năng lực pháp lý và Sử dụng Ứng dụng
+
+4.1. Ứng dụng dành cho người lớn có đầy đủ năng lực pháp lý (trên 18 tuổi) sử dụng.
+
+4.2. Nếu bạn dưới 18 tuổi ("Trẻ vị thành niên") hoặc đã được chỉ định Người giám hộ hợp pháp vì bất kỳ lý do gì, việc bạn sử dụng Ứng dụng, và đặc biệt là việc thực hiện các giao dịch thanh toán (Mua hàng trong ứng dụng), phải có sự chấp thuận rõ ràng từ Người giám hộ hợp pháp của bạn để thực hiện các hành động đó và chấp nhận các Điều khoản này.
+
+4.3. Bằng cách tải xuống và sử dụng Ứng dụng, bạn tuyên bố và đảm bảo rằng: (a) Bạn là người lớn và có đủ năng lực pháp lý để thực hiện các hành động pháp lý ràng buộc; hoặc (b) Bạn là Trẻ vị thành niên đã nhận được sự đồng ý của Người giám hộ hợp pháp để tham gia thỏa thuận này và sử dụng Ứng dụng.
+
+4.4. Trách nhiệm giám sát Trẻ vị thành niên và việc sử dụng Ứng dụng của họ hoàn toàn thuộc về Người giám hộ hợp pháp. Doanh nghiệp coi mọi việc sử dụng Ứng dụng hoặc thanh toán được thực hiện thông qua Ứng dụng là hành động được Người giám hộ hợp pháp chấp thuận hợp pháp.
+
+5. Đăng ký và Mua hàng trong ứng dụng
+
+5.1. Việc sử dụng một số tính năng nhất định của Ứng dụng yêu cầu thanh toán phí đăng ký gia hạn (hàng tháng hoặc hàng năm) hoặc thanh toán một lần, như được cung cấp trong App Store.
+
+5.2. Tự động gia hạn: Các gói đăng ký định kỳ sẽ tự động gia hạn vào cuối mỗi kỳ thanh toán trừ khi bạn hủy tự động gia hạn thông qua cài đặt tài khoản Apple ID của mình ít nhất 24 giờ trước khi kết thúc kỳ hiện tại.
+
+5.3. Quản lý thanh toán: Tất cả các giao dịch thanh toán được xử lý và quản lý độc quyền bởi Apple Inc. Doanh nghiệp không có quyền truy cập vào chi tiết thẻ tín dụng của bạn và không thể trực tiếp xử lý các khoản phí hoặc tín dụng.
+
+5.4. Hủy và Hoàn tiền: Chính sách hủy và hoàn tiền chỉ tuân theo Điều khoản dịch vụ của Apple App Store. Mọi yêu cầu hoàn tiền phải được chuyển đến Apple. Doanh nghiệp không được ủy quyền và về mặt kỹ thuật không thể chấp thuận hoặc phát hành tiền hoàn lại.
+
+6. Sở hữu trí tuệ
+
+Tất cả các quyền sở hữu trí tuệ trong Ứng dụng (bao gồm mã, thiết kế, logo và nhãn hiệu) hoàn toàn thuộc về Doanh nghiệp. Không có điều gì trong các Điều khoản này cấp cho Người dùng bất kỳ quyền nào đối với tài sản trí tuệ của Doanh nghiệp.
+
+7. Sao lưu dữ liệu và iCloud
+
+Ứng dụng cho phép sao lưu dữ liệu vào dịch vụ iCloud của Apple. Dịch vụ này là bên ngoài và được vận hành bởi bên thứ ba. Doanh nghiệp không chịu trách nhiệm về tính toàn vẹn, lưu trữ hoặc khôi phục bản sao lưu. Người dùng hoàn toàn chịu trách nhiệm sao lưu dữ liệu của mình.
+
+8. Giới hạn trách nhiệm
+
+8.1. Trong mọi trường hợp, Doanh nghiệp, nhân viên của Doanh nghiệp hoặc bất kỳ ai thay mặt Doanh nghiệp sẽ không chịu trách nhiệm cho bất kỳ thiệt hại trực tiếp, gián tiếp, do hậu quả, đặc biệt hoặc trừng phạt nào (bao gồm mất dữ liệu, mất lợi nhuận, đau khổ về tinh thần, v.v.) phát sinh từ việc sử dụng hoặc không thể sử dụng Ứng dụng.
+
+8.2. Không làm giảm nhẹ những điều trên, trách nhiệm tối đa và tổng hợp của Doanh nghiệp đối với Người dùng, vì bất kỳ nguyên nhân nào, sẽ được giới hạn ở số tiền thực tế mà Người dùng đã trả cho Doanh nghiệp trong ba tháng trước sự kiện gây ra thiệt hại, hoặc 50 NIS, tùy theo mức nào thấp hơn.
+
+9. Bồi thường
+
+Bạn đồng ý bồi thường cho Doanh nghiệp về mọi thiệt hại, mất mát hoặc chi phí (bao gồm phí pháp lý) gây ra cho Doanh nghiệp do bạn vi phạm các Điều khoản này hoặc do tổn hại gây ra cho bên thứ ba.
+
+10. Thẩm quyền và Luật điều chỉnh
+
+Các Điều khoản này sẽ được điều chỉnh hoàn toàn bởi luật pháp của Nhà nước Israel. Thẩm quyền độc quyền trong bất kỳ tranh chấp nào được trao cho các tòa án có thẩm quyền tại Quận Tel Aviv-Yafo, Israel.
+
+11. Liên hệ với chúng tôi
+
+Đối với các câu hỏi pháp lý: legal@talmify.com

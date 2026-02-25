@@ -1,0 +1,74 @@
+SYARAT PENGGUNAAN – APLIKASI TALMIFY
+
+Terakhir Diperbarui: Februari 2026
+
+PEMBERITAHUAN HUKUM PENTING:
+Dokumen ini telah diterjemahkan dari bahasa Ibrani untuk tujuan kemudahan saja. Versi yang mengikat dan sah secara hukum adalah teks bahasa Ibrani saja. Dalam hal terjadi pertentangan, ketidaksesuaian, atau inkonsistensi antara terjemahan ini dan versi bahasa Ibrani, versi bahasa Ibrani akan berlaku dan menggantikan terjemahan ini dalam segala hal, termasuk dalam proses hukum apa pun.
+
+1. Pendahuluan dan Definisi
+
+1.1. Selamat datang di "Talmify" (selanjutnya disebut: "Aplikasi"). Aplikasi ini dioperasikan dan dikelola oleh Michael Yefet, Pedagang Bebas Pajak (Osek Patur) No. 314887050 (selanjutnya disebut: "Bisnis" atau "Kami").
+
+1.2. Dokumen ini (selanjutnya disebut: "Syarat") mengatur hubungan hukum antara Anda (selanjutnya disebut: "Pengguna") dan Bisnis. Mengunduh, menginstal, atau menggunakan Aplikasi merupakan persetujuan penuh dan tanpa syarat Anda terhadap Syarat ini dan Kebijakan Privasi. Jika Anda tidak menyetujui salah satu dari syarat ini, Anda harus menghentikan semua penggunaan Aplikasi dan segera menghapusnya.
+
+2. Layanan
+
+2.1. Aplikasi berfungsi sebagai alat untuk manajemen studi, pembuatan kursus, dan pelacakan acara, nilai, dan kehadiran ("Layanan").
+
+2.2. Layanan disediakan "Apa Adanya" dan "Sebagaimana Tersedia," tanpa pernyataan atau jaminan apa pun, tersurat maupun tersirat, mengenai fungsionalitas, keakuratan, ketersediaan, atau kesesuaiannya untuk tujuan tertentu.
+
+2.3. Fitur Kecerdasan Buatan (Apple Intelligence):
+Aplikasi menggunakan teknologi Kecerdasan Buatan dan/atau model bahasa yang disediakan oleh pihak ketiga, seperti Apple Intelligence ("Fitur AI").
+(a) Keluaran yang dihasilkan oleh Fitur AI diproduksi secara algoritme dan mungkin salah, tidak akurat, atau tidak pantas.
+(b) Tanggung jawab tunggal untuk memverifikasi keakuratan informasi dan penggunaannya terletak pada Anda. Jangan mengandalkan keluaran AI sebagai pengganti nasihat profesional atau verifikasi akademis independen.
+(c) Bisnis tidak bertanggung jawab atas kerusakan langsung atau tidak langsung yang disebabkan oleh ketergantungan pada keluaran AI.
+
+3. Lisensi Terbatas
+
+Bisnis memberi Anda lisensi pribadi, terbatas, non-eksklusif, dan dapat ditarik kembali untuk menggunakan Aplikasi hanya untuk tujuan pribadi dan privat. Penggunaan komersial, penyalinan, rekayasa balik, atau distribusi Aplikasi atau bagian mana pun darinya sangat dilarang.
+
+4. Kapasitas Hukum dan Penggunaan Aplikasi
+
+4.1. Aplikasi ini ditujukan untuk digunakan oleh orang dewasa dengan kapasitas hukum penuh (di atas usia 18 tahun).
+
+4.2. Jika Anda berusia di bawah 18 tahun ("Anak di Bawah Umur") atau telah ditunjuk Wali Hukum karena alasan apa pun, penggunaan Aplikasi oleh Anda, dan khususnya pelaksanaan transaksi pembayaran (Pembelian Dalam Aplikasi), bergantung pada perolehan persetujuan eksplisit dari Wali Hukum Anda untuk melakukan tindakan tersebut dan menerima Syarat ini.
+
+4.3. Dengan mengunduh dan menggunakan Aplikasi, Anda menyatakan dan menjamin bahwa: (a) Anda adalah orang dewasa dan secara hukum kompeten untuk melakukan tindakan hukum yang mengikat; atau (b) Anda adalah Anak di Bawah Umur yang telah menerima persetujuan dari Wali Hukum Anda untuk menyepakati perjanjian ini dan menggunakan Aplikasi.
+
+4.4. Tanggung jawab atas pengawasan Anak di Bawah Umur dan penggunaan Aplikasi oleh mereka sepenuhnya berada pada Wali Hukum. Bisnis memandang setiap penggunaan Aplikasi atau pembayaran yang dilakukan melaluinya sebagai tindakan yang disetujui secara sah oleh Wali Hukum.
+
+5. Langganan dan Pembelian Dalam Aplikasi
+
+5.1. Penggunaan fitur-fitur tertentu dari Aplikasi memerlukan pembayaran biaya berlangganan yang diperbarui (bulanan atau tahunan) atau pembayaran satu kali, sebagaimana ditawarkan di App Store.
+
+5.2. Perpanjangan Otomatis: Langganan berkala akan diperbarui secara otomatis pada akhir setiap periode penagihan kecuali Anda membatalkan perpanjangan otomatis melalui pengaturan akun Apple ID Anda setidaknya 24 jam sebelum akhir periode berjalan.
+
+5.3. Manajemen Pembayaran: Semua transaksi pembayaran diproses dan dikelola secara eksklusif oleh Apple Inc. Bisnis tidak memiliki akses ke detail kartu kredit Anda dan tidak dapat memproses biaya atau kredit secara langsung.
+
+5.4. Pembatalan dan Pengembalian Dana: Kebijakan pembatalan dan pengembalian dana tunduk sepenuhnya pada Syarat Layanan Apple App Store. Setiap permintaan pengembalian dana harus ditujukan ke Apple. Bisnis tidak berwenang dan secara teknis tidak dapat menyetujui atau mengeluarkan pengembalian dana.
+
+6. Kekayaan Intelektual
+
+Semua hak kekayaan intelektual dalam Aplikasi (termasuk kode, desain, logo, dan merek dagang) sepenuhnya milik Bisnis. Tidak ada dalam Syarat ini yang memberikan Pengguna hak apa pun atas kekayaan intelektual Bisnis.
+
+7. Pencadangan Data dan iCloud
+
+Aplikasi memungkinkan pencadangan data ke layanan iCloud Apple. Layanan ini bersifat eksternal dan dioperasikan oleh pihak ketiga. Bisnis tidak bertanggung jawab atas integritas, penyimpanan, atau pemulihan cadangan. Pengguna sepenuhnya bertanggung jawab untuk mencadangkan data mereka.
+
+8. Batasan Tanggung Jawab
+
+8.1. Dalam keadaan apa pun Bisnis, karyawannya, atau siapa pun atas namanya tidak akan bertanggung jawab atas kerusakan langsung, tidak langsung, konsekuensial, khusus, atau hukuman (termasuk kehilangan data, kehilangan keuntungan, penderitaan mental, dll.) yang timbul dari penggunaan atau ketidakmampuan untuk menggunakan Aplikasi.
+
+8.2. Tanpa mengurangi hal di atas, tanggung jawab maksimum dan agregat Bisnis terhadap Pengguna, karena alasan apa pun, akan terbatas pada jumlah yang sebenarnya dibayarkan oleh Pengguna kepada Bisnis dalam tiga bulan sebelum peristiwa yang menyebabkan kerusakan, atau 50 NIS, mana yang lebih rendah.
+
+9. Ganti Rugi
+
+Anda setuju untuk mengganti rugi Bisnis atas segala kerusakan, kerugian, atau biaya (termasuk biaya hukum) yang ditimbulkan padanya karena pelanggaran Anda terhadap Syarat ini atau karena kerugian yang ditimbulkan pada pihak ketiga.
+
+10. Yurisdiksi dan Hukum yang Mengatur
+
+Syarat ini akan diatur sepenuhnya oleh hukum Negara Israel. Yurisdiksi eksklusif dalam sengketa apa pun berada di pengadilan yang kompeten di Distrik Tel Aviv-Yafo, Israel.
+
+11. Hubungi Kami
+
+Untuk pertanyaan hukum: legal@talmify.com

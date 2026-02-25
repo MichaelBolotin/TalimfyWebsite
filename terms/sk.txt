@@ -1,0 +1,74 @@
+PODMIENKY POUŽÍVANIA – APLIKÁCIA TALMIFY
+
+Naposledy aktualizované: Február 2026
+
+DÔLEŽITÉ PRÁVNE UPOZORNENIE:
+Tento dokument bol preložený z hebrejčiny len na účely pohodlia. Záväznou a právne platnou verziou je výlučne hebrejský text. V prípade akéhokoľvek rozporu, nezrovnalosti alebo nekonzistentnosti medzi týmto prekladom a hebrejskou verziou má hebrejská verzia prednosť a nahrádza tento preklad vo všetkých ohľadoch, vrátane akýchkoľvek súdnych konaní.
+
+1. Úvod a definície
+
+1.1. Vitajte v "Talmify" (ďalej len: "Aplikácia"). Aplikáciu prevádzkuje a spravuje Michael Yefet, Oslobodený obchodník (Osek Patur) č. 314887050 (ďalej len: "Podnik" alebo "My").
+
+1.2. Tento dokument (ďalej len: "Podmienky") upravuje právny vzťah medzi vami (ďalej len: "Používateľ") a Podnikom. Stiahnutie, inštalácia alebo používanie Aplikácie predstavuje váš úplný a bezvýhradný súhlas s týmito Podmienkami a Zásadami ochrany osobných údajov. Ak nesúhlasíte s ktoroukoľvek z týchto podmienok, musíte okamžite prestať používať Aplikáciu a odinštalovať ju.
+
+2. Služba
+
+2.1. Aplikácia slúži ako nástroj na správu štúdia, vytváranie kurzov a sledovanie udalostí, známok a dochádzky ("Služba").
+
+2.2. Služba je poskytovaná "tak, ako je" a "ako je k dispozícii", bez akéhokoľvek vyhlásenia alebo záruky, výslovnej alebo predpokladanej, týkajúcej sa jej funkčnosti, presnosti, dostupnosti alebo vhodnosti na konkrétny účel.
+
+2.3. Funkcie umelej inteligencie (Apple Intelligence):
+Aplikácia využíva technológie umelej inteligencie a/alebo jazykové modely poskytované tretími stranami, ako je Apple Intelligence ("Funkcie AI").
+(a) Výstupy generované Funkciami AI sú vytvárané algoritmicky a môžu byť nesprávne, nepresné alebo nevhodné.
+(b) Výhradná zodpovednosť za overenie presnosti informácií a ich použitie spočíva na vás. Nespoliehajte sa na výstupy AI ako na náhradu za odborné poradenstvo alebo nezávislé akademické overenie.
+(c) Podnik nebude zodpovedný za žiadne priame alebo nepriame škody spôsobené spoliehaním sa na výstupy AI.
+
+3. Obmedzená licencia
+
+Podnik vám udeľuje osobnú, obmedzenú, nevýhradnú a odvolateľnú licenciu na používanie Aplikácie len na osobné a súkromné účely. Komerčné použitie, kopírovanie, spätné inžinierstvo alebo distribúcia Aplikácie alebo akejkoľvek jej časti je prísne zakázané.
+
+4. Právna spôsobilosť a používanie Aplikácie
+
+4.1. Aplikácia je určená na používanie dospelými s plnou právnou spôsobilosťou (staršími ako 18 rokov).
+
+4.2. Ak máte menej ako 18 rokov ("Maloletý") alebo vám bol z akéhokoľvek dôvodu ustanovený zákonný zástupca, vaše používanie Aplikácie, a najmä vykonávanie platobných transakcií (Nákupy v aplikácii), je podmienené získaním výslovného súhlasu od vášho zákonného zástupcu na vykonávanie takýchto úkonov a na prijatie týchto Podmienok.
+
+4.3. Stiahnutím a používaním Aplikácie vyhlasujete a zaručujete, že: (a) Ste dospelý a právne spôsobilý na vykonávanie záväzných právnych úkonov; alebo (b) Ste Maloletý, ktorý dostal súhlas svojho zákonného zástupcu na uzavretie tejto dohody a používanie Aplikácie.
+
+4.4. Zodpovednosť za dohľad nad Maloletými a ich používaním Aplikácie spočíva výlučne na zákonnom zástupcovi. Podnik považuje akékoľvek použitie Aplikácie alebo platbu vykonanú prostredníctvom nej za úkon zákonne schválený zákonným zástupcom.
+
+5. Predplatné a nákupy v aplikácii
+
+5.1. Používanie určitých funkcií Aplikácie vyžaduje zaplatenie obnoviteľného poplatku za predplatné (mesačného alebo ročného) alebo jednorazovú platbu, ako je ponúkané v App Store.
+
+5.2. Automatické obnovenie: Pravidelné predplatné sa automaticky obnovia na konci každého fakturačného obdobia, pokiaľ nezrušíte automatické obnovenie prostredníctvom nastavení svojho účtu Apple ID aspoň 24 hodín pred koncom aktuálneho obdobia.
+
+5.3. Správa platieb: Všetky platobné transakcie sú spracovávané a spravované výlučne spoločnosťou Apple Inc. Podnik nemá prístup k údajom o vašej kreditnej karte a nemôže priamo spracovávať poplatky alebo kredity.
+
+5.4. Zrušenie a vrátenie peňazí: Zásady zrušenia a vrátenia peňazí podliehajú výlučne Podmienkam služby Apple App Store. Akákoľvek žiadosť o vrátenie peňazí musí byť smerovaná na Apple. Podnik nie je oprávnený a technicky nie je schopný schvaľovať alebo vydávať vrátenie peňazí.
+
+6. Duševné vlastníctvo
+
+Všetky práva duševného vlastníctva v Aplikácii (vrátane kódu, dizajnu, log a ochranných známok) patria výlučne Podniku. Nič v týchto Podmienkach neudeľuje Používateľovi žiadne práva k duševnému vlastníctvu Podniku.
+
+7. Zálohovanie údajov a iCloud
+
+Aplikácia umožňuje zálohovanie údajov do služby iCloud od Apple. Táto služba je externá a prevádzkovaná treťou stranou. Podnik nie je zodpovedný za integritu, uloženie alebo obnovu zálohy. Používateľ je výlučne zodpovedný za zálohovanie svojich údajov.
+
+8. Obmedzenie zodpovednosti
+
+8.1. V žiadnom prípade nebude Podnik, jeho zamestnanci alebo ktokoľvek v jeho mene zodpovedný za akékoľvek priame, nepriame, následné, osobitné alebo represívne škody (vrátane straty údajov, ušlého zisku, duševných útrap atď.) vzniknuté z používania alebo nemožnosti používať Aplikáciu.
+
+8.2. Bez ohľadu na vyššie uvedené, maximálna a celková zodpovednosť Podniku voči Používateľovi, z akéhokoľvek dôvodu, bude obmedzená na sumu skutočne zaplatenú Používateľom Podniku v troch mesiacoch predchádzajúcich udalosti, ktorá spôsobila škodu, alebo 50 NIS, podľa toho, čo je nižšie.
+
+9. Odškodnenie
+
+Súhlasíte s tým, že odškodníte Podnik za akúkoľvek škodu, stratu alebo výdavok (vrátane právnych poplatkov) spôsobený mu v dôsledku vášho porušenia týchto Podmienok alebo v dôsledku škody spôsobenej tretej strane.
+
+10. Príslušnosť a rozhodné právo
+
+Tieto Podmienky sa riadia výlučne zákonmi Štátu Izrael. Výlučná právomoc v akomkoľvek spore patrí príslušným súdom v okrese Tel Aviv-Yafo, Izrael.
+
+11. Kontaktujte nás
+
+Pre právne otázky: legal@talmify.com

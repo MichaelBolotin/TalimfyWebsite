@@ -1,0 +1,74 @@
+KULLANIM KOŞULLARI – TALMIFY UYGULAMASI
+
+Son Güncelleme: Şubat 2026
+
+ÖNEMLİ YASAL UYARI:
+Bu belge, yalnızca kolaylık sağlamak amacıyla İbranice'den çevrilmiştir. Bağlayıcı ve yasal olarak geçerli sürüm yalnızca İbranice metindir. Bu çeviri ile İbranice sürüm arasında herhangi bir çelişki, tutarsızlık veya uyumsuzluk olması durumunda, İbranice sürüm geçerli olacak ve herhangi bir yasal işlem dahil olmak üzere her bakımdan bu çevirinin yerini alacaktır.
+
+1. Giriş ve Tanımlar
+
+1.1. "Talmify"a (bundan böyle: "Uygulama") hoş geldiniz. Uygulama, Michael Yefet, Muaf Satıcı (Osek Patur) No. 314887050 (bundan böyle: "İşletme" veya "Biz") tarafından işletilmekte ve yönetilmektedir.
+
+1.2. Bu belge (bundan böyle: "Koşullar"), siz (bundan böyle: "Kullanıcı") ile İşletme arasındaki yasal ilişkiyi düzenler. Uygulamayı indirmek, yüklemek veya kullanmak, bu Koşulları ve Gizlilik Politikasını tam ve kayıtsız şartsız kabul ettiğiniz anlamına gelir. Bu koşullardan herhangi birini kabul etmiyorsanız, Uygulamanın tüm kullanımını durdurmalı ve derhal kaldırmalısınız.
+
+2. Hizmet
+
+2.1. Uygulama, çalışma yönetimi, kurs oluşturma ve etkinliklerin, notların ve devam durumunun takibi için bir araç olarak hizmet vermektedir ("Hizmet").
+
+2.2. Hizmet, işlevselliği, doğruluğu, kullanılabilirliği veya belirli bir amaca uygunluğu konusunda açık veya zımni herhangi bir beyan veya garanti olmaksızın "Olduğu Gibi" ve "Mevcut Olduğu Gibi" sağlanmaktadır.
+
+2.3. Yapay Zeka (Apple Intelligence) Özellikleri:
+Uygulama, Apple Intelligence gibi üçüncü taraflarca sağlanan Yapay Zeka teknolojilerini ve/veya dil modellerini kullanır ("AI Özellikleri").
+(a) AI Özellikleri tarafından oluşturulan çıktılar algoritmik olarak üretilir ve yanlış, hatalı veya uygunsuz olabilir.
+(b) Bilgilerin doğruluğunu ve kullanımını doğrulama konusundaki tek sorumluluk size aittir. AI çıktılarına profesyonel tavsiye veya bağımsız akademik doğrulama yerine güvenmeyin.
+(c) İşletme, AI çıktılarına güvenilmesinden kaynaklanan doğrudan veya dolaylı herhangi bir zarardan sorumlu olmayacaktır.
+
+3. Sınırlı Lisans
+
+İşletme, Uygulamayı yalnızca kişisel ve özel amaçlarla kullanmanız için size kişisel, sınırlı, münhasır olmayan ve iptal edilebilir bir lisans verir. Uygulamanın veya herhangi bir parçasının ticari kullanımı, kopyalanması, tersine mühendisliği veya dağıtımı kesinlikle yasaktır.
+
+4. Yasal Ehliyet ve Uygulamanın Kullanımı
+
+4.1. Uygulama, tam yasal ehliyete sahip yetişkinler (18 yaş üstü) tarafından kullanılmak üzere tasarlanmıştır.
+
+4.2. 18 yaşın altındaysanız ("Küçük") veya herhangi bir nedenle size bir Yasal Vasi atandıysa, Uygulamayı kullanımınız ve özellikle ödeme işlemlerinin (Uygulama İçi Satın Almalar) gerçekleştirilmesi, bu tür eylemleri gerçekleştirmek ve bu Koşulları kabul etmek için Yasal Vasinizden açık onay almanıza bağlıdır.
+
+4.3. Uygulamayı indirerek ve kullanarak şunları beyan ve taahhüt edersiniz: (a) Bir yetişkinsiniz ve bağlayıcı yasal işlemler gerçekleştirmek için yasal olarak yetkilisiniz; veya (b) Bu sözleşmeyi yapmak ve Uygulamayı kullanmak için Yasal Vasinizin onayını almış bir Küçüksünüz.
+
+4.4. Küçüklerin gözetimi ve Uygulamayı kullanımları konusundaki sorumluluk yalnızca Yasal Vasiye aittir. İşletme, Uygulamanın herhangi bir kullanımını veya bu yolla yapılan ödemeyi Yasal Vasi tarafından yasal olarak onaylanmış bir eylem olarak görür.
+
+5. Abonelikler ve Uygulama İçi Satın Almalar
+
+5.1. Uygulamanın belirli özelliklerinin kullanımı, App Store'da sunulduğu üzere yenilenebilir bir abonelik ücretinin (aylık veya yıllık) veya tek seferlik bir ödemenin yapılmasını gerektirir.
+
+5.2. Otomatik Yenileme: Mevcut dönemin bitiminden en az 24 saat önce Apple ID hesap ayarlarınız aracılığıyla otomatik yenilemeyi iptal etmediğiniz sürece, periyodik abonelikler her fatura döneminin sonunda otomatik olarak yenilenecektir.
+
+5.3. Ödeme Yönetimi: Tüm ödeme işlemleri yalnızca Apple Inc. tarafından işlenir ve yönetilir. İşletmenin kredi kartı bilgilerinize erişimi yoktur ve ücretleri veya kredileri doğrudan işleyemez.
+
+5.4. İptaller ve İadeler: İptal ve iade politikası yalnızca Apple App Store Hizmet Koşullarına tabidir. Herhangi bir iade talebi Apple'a yönlendirilmelidir. İşletme, iadeleri onaylama veya verme yetkisine sahip değildir ve teknik olarak bunu yapamaz.
+
+6. Fikri Mülkiyet
+
+Uygulamadaki tüm fikri mülkiyet hakları (kod, tasarım, logolar ve ticari markalar dahil) yalnızca İşletmeye aittir. Bu Koşullardaki hiçbir şey, Kullanıcıya İşletmenin fikri mülkiyeti üzerinde herhangi bir hak vermez.
+
+7. Veri Yedekleme ve iCloud
+
+Uygulama, Apple'ın iCloud hizmetine veri yedeklemeye izin verir. Bu hizmet haricidir ve üçüncü bir tarafça işletilmektedir. İşletme, yedeğin bütünlüğünden, depolanmasından veya geri yüklenmesinden sorumlu değildir. Verilerini yedeklemekten yalnızca Kullanıcı sorumludur.
+
+8. Sorumluluğun Sınırlandırılması
+
+8.1. Hiçbir durumda İşletme, çalışanları veya onun adına hareket eden herhangi biri, Uygulamanın kullanımından veya kullanılamamasından kaynaklanan doğrudan, dolaylı, arızi, özel veya cezai zararlardan (veri kaybı, kar kaybı, zihinsel ıstırap vb. dahil) sorumlu tutulamaz.
+
+8.2. Yukarıdakilerden sapmaksızın, İşletmenin Kullanıcıya karşı herhangi bir nedenle maksimum ve toplam sorumluluğu, zarara neden olan olaydan önceki üç ay içinde Kullanıcı tarafından İşletmeye fiilen ödenen tutar veya 50 NIS (hangisi daha düşükse) ile sınırlı olacaktır.
+
+9. Tazminat
+
+Bu Koşulları ihlal etmeniz veya üçüncü bir tarafa verilen zarar nedeniyle İşletmeye verilen herhangi bir hasar, kayıp veya masrafı (yasal ücretler dahil) tazmin etmeyi kabul edersiniz.
+
+10. Yargı Yetkisi ve Geçerli Hukuk
+
+Bu Koşullar yalnızca İsrail Devleti yasalarına tabi olacaktır. Herhangi bir anlaşmazlıkta münhasır yargı yetkisi, İsrail'in Tel Aviv-Yafo Bölgesindeki yetkili mahkemelere aittir.
+
+11. Bize Ulaşın
+
+Yasal sorular için: legal@talmify.com

@@ -1,0 +1,74 @@
+CONDITIONS D'UTILISATION – APPLICATION TALMIFY
+
+Dernière mise à jour : Février 2026
+
+AVIS JURIDIQUE IMPORTANT :
+Ce document a été traduit de l'hébreu à des fins de commodité uniquement. La version contraignante et juridiquement valide est le texte hébreu seul. En cas de contradiction, de divergence ou d'incohérence entre cette traduction et la version hébraïque, la version hébraïque prévaudra et remplacera cette traduction à tous égards, y compris dans toute procédure judiciaire.
+
+1. Introduction et Définitions
+
+1.1. Bienvenue sur « Talmify » (ci-après : l'« Application »). L'Application est exploitée et gérée par Michael Yefet, Commerçant Exonéré (Osek Patur) n° 314887050 (ci-après : l'« Entreprise » ou « Nous »).
+
+1.2. Ce document (ci-après : les « Conditions ») régit la relation juridique entre vous (ci-après : l'« Utilisateur ») et l'Entreprise. Le téléchargement, l'installation ou l'utilisation de l'Application constitue votre accord complet et sans réserve à ces Conditions et à la Politique de Confidentialité. Si vous n'acceptez pas l'une de ces conditions, vous devez cesser toute utilisation de l'Application et la désinstaller immédiatement.
+
+2. Le Service
+
+2.1. L'Application sert d'outil pour la gestion des études, la création de cours et le suivi des événements, des notes et des présences (le « Service »).
+
+2.2. Le Service est fourni « Tel quel » et « Selon la disponibilité », sans aucune représentation ou garantie, expresse ou implicite, concernant sa fonctionnalité, son exactitude, sa disponibilité ou son adéquation à un usage particulier.
+
+2.3. Fonctionnalités d'Intelligence Artificielle (Apple Intelligence) :
+L'Application utilise des technologies d'Intelligence Artificielle et/ou des modèles linguistiques fournis par des tiers, tels que Apple Intelligence (« Fonctionnalités IA »).
+(a) Les résultats générés par les Fonctionnalités IA sont produits de manière algorithmique et peuvent être incorrects, inexacts ou inappropriés.
+(b) La seule responsabilité de vérifier l'exactitude des informations et leur utilisation vous incombe. Ne vous fiez pas aux résultats de l'IA comme substitut à des conseils professionnels ou à une vérification académique indépendante.
+(c) L'Entreprise ne sera pas responsable de tout dommage direct ou indirect causé par la confiance accordée aux résultats de l'IA.
+
+3. Licence Limitée
+
+L'Entreprise vous accorde une licence personnelle, limitée, non exclusive et révocable pour utiliser l'Application à des fins personnelles et privées uniquement. L'utilisation commerciale, la copie, l'ingénierie inverse ou la distribution de l'Application ou de toute partie de celle-ci est strictement interdite.
+
+4. Capacité Juridique et Utilisation de l'Application
+
+4.1. L'Application est destinée à être utilisée par des adultes ayant la pleine capacité juridique (plus de 18 ans).
+
+4.2. Si vous avez moins de 18 ans (« Mineur ») ou si un Tuteur Légal vous a été désigné pour quelque raison que ce soit, votre utilisation de l'Application, et particulièrement l'exécution de transactions de paiement (Achats In-App), est conditionnelle à l'obtention de l'approbation explicite de votre Tuteur Légal pour effectuer de telles actions et accepter ces Conditions.
+
+4.3. En téléchargeant et en utilisant l'Application, vous déclarez et garantissez que : (a) Vous êtes un adulte et juridiquement compétent pour effectuer des actions juridiques contraignantes ; ou (b) Vous êtes un Mineur qui a reçu le consentement de son Tuteur Légal pour conclure cet accord et utiliser l'Application.
+
+4.4. La responsabilité de la supervision des Mineurs et de leur utilisation de l'Application incombe exclusivement au Tuteur Légal. L'Entreprise considère toute utilisation de l'Application ou tout paiement effectué via celle-ci comme une action légalement approuvée par le Tuteur Légal.
+
+5. Abonnements et Achats In-App
+
+5.1. L'utilisation de certaines fonctionnalités de l'Application nécessite le paiement de frais d'abonnement renouvelables (mensuels ou annuels) ou d'un paiement unique, tel qu'offert dans l'App Store.
+
+5.2. Renouvellement Automatique : Les abonnements périodiques se renouvelleront automatiquement à la fin de chaque période de facturation, à moins que vous n'annuliez le renouvellement automatique via les paramètres de votre compte Apple ID au moins 24 heures avant la fin de la période en cours.
+
+5.3. Gestion des Paiements : Toutes les transactions de paiement sont traitées et gérées exclusivement par Apple Inc. L'Entreprise n'a pas accès aux détails de votre carte de crédit et ne peut pas traiter directement les frais ou les crédits.
+
+5.4. Annulations et Remboursements : La politique d'annulation et de remboursement est soumise uniquement aux Conditions de Service de l'Apple App Store. Toute demande de remboursement doit être adressée à Apple. L'Entreprise n'est pas autorisée et est techniquement incapable d'approuver ou d'émettre des remboursements.
+
+6. Propriété Intellectuelle
+
+Tous les droits de propriété intellectuelle dans l'Application (y compris le code, la conception, les logos et les marques de commerce) appartiennent uniquement à l'Entreprise. Rien dans ces Conditions n'accorde à l'Utilisateur de droits sur la propriété intellectuelle de l'Entreprise.
+
+7. Sauvegarde des Données et iCloud
+
+L'Application permet la sauvegarde des données sur le service iCloud d'Apple. Ce service est externe et exploité par un tiers. L'Entreprise n'est pas responsable de l'intégrité, du stockage ou de la restauration de la sauvegarde. L'Utilisateur est seul responsable de la sauvegarde de ses données.
+
+8. Limitation de Responsabilité
+
+8.1. En aucun cas l'Entreprise, ses employés ou quiconque agissant en son nom ne sera responsable de tout dommage direct, indirect, consécutif, spécial ou punitif (y compris la perte de données, la perte de profits, la détresse mentale, etc.) découlant de l'utilisation ou de l'incapacité d'utiliser l'Application.
+
+8.2. Sans déroger à ce qui précède, la responsabilité maximale et globale de l'Entreprise envers l'Utilisateur, pour quelque cause que ce soit, sera limitée au montant réellement payé par l'Utilisateur à l'Entreprise au cours des trois mois précédant l'événement causant le dommage, ou 50 NIS, selon le montant le plus bas.
+
+9. Indemnisation
+
+Vous acceptez d'indemniser l'Entreprise pour tout dommage, perte ou dépense (y compris les frais juridiques) causés à celle-ci en raison de votre violation de ces Conditions ou en raison d'un préjudice causé à un tiers.
+
+10. Juridiction et Loi Applicable
+
+Ces Conditions seront régies uniquement par les lois de l'État d'Israël. La juridiction exclusive pour tout litige est dévolue aux tribunaux compétents du district de Tel Aviv-Yafo, en Israël.
+
+11. Contactez-nous
+
+Pour les demandes juridiques : legal@talmify.com

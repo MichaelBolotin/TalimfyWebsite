@@ -1,0 +1,74 @@
+WARUNKI UŻYTKOWANIA – APLIKACJA TALMIFY
+
+Ostatnia aktualizacja: Luty 2026
+
+WAŻNA INFORMACJA PRAWNA:
+Niniejszy dokument został przetłumaczony z języka hebrajskiego wyłącznie dla wygody. Wiążącą i prawnie ważną wersją jest wyłącznie tekst hebrajski. W przypadku jakiejkolwiek sprzeczności, rozbieżności lub niespójności między niniejszym tłumaczeniem a wersją hebrajską, wersja hebrajska ma pierwszeństwo i zastępuje niniejsze tłumaczenie we wszystkich aspektach, w tym w jakichkolwiek postępowaniach prawnych.
+
+1. Wprowadzenie i definicje
+
+1.1. Witamy w "Talmify" (dalej: "Aplikacja"). Aplikacja jest obsługiwana i zarządzana przez Michaela Yefeta, Zwolnionego Dealera (Osek Patur) nr 314887050 (dalej: "Firma" lub "My").
+
+1.2. Niniejszy dokument (dalej: "Warunki") reguluje stosunek prawny między Tobą (dalej: "Użytkownik") a Firmą. Pobranie, instalacja lub korzystanie z Aplikacji stanowi Twoją pełną i bezwarunkową zgodę na niniejsze Warunki i Politykę Prywatności. Jeśli nie zgadzasz się z którymkolwiek z tych warunków, musisz zaprzestać wszelkiego korzystania z Aplikacji i natychmiast ją odinstalować.
+
+2. Usługa
+
+2.1. Aplikacja służy jako narzędzie do zarządzania studiami, tworzenia kursów i śledzenia wydarzeń, ocen i obecności ("Usługa").
+
+2.2. Usługa jest świadczona "taka, jaka jest" i "w miarę dostępności", bez żadnych oświadczeń ani gwarancji, wyraźnych lub dorozumianych, dotyczących jej funkcjonalności, dokładności, dostępności lub przydatności do określonego celu.
+
+2.3. Funkcje Sztucznej Inteligencji (Apple Intelligence):
+Aplikacja wykorzystuje technologie Sztucznej Inteligencji i/lub modele językowe dostarczane przez strony trzecie, takie jak Apple Intelligence ("Funkcje AI").
+(a) Dane wyjściowe generowane przez Funkcje AI są wytwarzane algorytmicznie i mogą być nieprawidłowe, niedokładne lub nieodpowiednie.
+(b) Wyłączna odpowiedzialność za weryfikację dokładności informacji i ich wykorzystania spoczywa na Tobie. Nie polegaj na wynikach AI jako substytucie profesjonalnej porady lub niezależnej weryfikacji akademickiej.
+(c) Firma nie ponosi odpowiedzialności za jakiekolwiek bezpośrednie lub pośrednie szkody spowodowane poleganiem na wynikach AI.
+
+3. Ograniczona licencja
+
+Firma udziela Ci osobistej, ograniczonej, niewyłącznej i odwołalnej licencji na korzystanie z Aplikacji wyłącznie do celów osobistych i prywatnych. Komercyjne wykorzystanie, kopiowanie, inżynieria wsteczna lub dystrybucja Aplikacji lub jakiejkolwiek jej części jest surowo zabronione.
+
+4. Zdolność prawna i korzystanie z Aplikacji
+
+4.1. Aplikacja jest przeznaczona do użytku przez osoby dorosłe posiadające pełną zdolność do czynności prawnych (powyżej 18 roku życia).
+
+4.2. Jeśli masz mniej niż 18 lat ("Małoletni") lub z jakiegokolwiek powodu wyznaczono Ci Opiekuna Prawnego, Twoje korzystanie z Aplikacji, a w szczególności wykonywanie transakcji płatniczych (Zakupy w Aplikacji), jest uzależnione od uzyskania wyraźnej zgody od Twojego Opiekuna Prawnego na wykonywanie takich czynności i akceptację niniejszych Warunków.
+
+4.3. Pobierając i korzystając z Aplikacji, oświadczasz i gwarantujesz, że: (a) Jesteś osobą dorosłą i prawnie kompetentną do wykonywania wiążących czynności prawnych; lub (b) Jesteś Małoletnim, który otrzymał zgodę swojego Opiekuna Prawnego na zawarcie niniejszej umowy i korzystanie z Aplikacji.
+
+4.4. Odpowiedzialność za nadzór nad Małoletnimi i ich korzystaniem z Aplikacji spoczywa wyłącznie na Opiekunie Prawnym. Firma traktuje każde użycie Aplikacji lub płatność dokonaną za jej pośrednictwem jako czynność prawnie zatwierdzoną przez Opiekuna Prawnego.
+
+5. Subskrypcje i Zakupy w Aplikacji
+
+5.1. Korzystanie z niektórych funkcji Aplikacji wymaga uiszczenia odnawialnej opłaty subskrypcyjnej (miesięcznej lub rocznej) lub jednorazowej płatności, zgodnie z ofertą w App Store.
+
+5.2. Automatyczne odnawianie: Subskrypcje okresowe będą odnawiane automatycznie pod koniec każdego okresu rozliczeniowego, chyba że anulujesz automatyczne odnawianie w ustawieniach konta Apple ID co najmniej 24 godziny przed końcem bieżącego okresu.
+
+5.3. Zarządzanie płatnościami: Wszystkie transakcje płatnicze są przetwarzane i zarządzane wyłącznie przez Apple Inc. Firma nie ma dostępu do danych Twojej karty kredytowej i nie może bezpośrednio przetwarzać obciążeń ani uznań.
+
+5.4. Anulowania i zwroty: Polityka anulowania i zwrotów podlega wyłącznie Warunkom Świadczenia Usług Apple App Store. Wszelkie prośby o zwrot należy kierować do Apple. Firma nie jest upoważniona i technicznie nie jest w stanie zatwierdzać ani wydawać zwrotów.
+
+6. Własność intelektualna
+
+Wszystkie prawa własności intelektualnej w Aplikacji (w tym kod, projekt, logo i znaki towarowe) należą wyłącznie do Firmy. Nic w niniejszych Warunkach nie przyznaje Użytkownikowi żadnych praw do własności intelektualnej Firmy.
+
+7. Kopia zapasowa danych i iCloud
+
+Aplikacja umożliwia tworzenie kopii zapasowych danych w usłudze iCloud firmy Apple. Usługa ta jest zewnętrzna i obsługiwana przez stronę trzecią. Firma nie ponosi odpowiedzialności za integralność, przechowywanie ani przywracanie kopii zapasowej. Użytkownik ponosi wyłączną odpowiedzialność za tworzenie kopii zapasowych swoich danych.
+
+8. Ograniczenie odpowiedzialności
+
+8.1. W żadnym wypadku Firma, jej pracownicy ani nikt działający w jej imieniu nie ponosi odpowiedzialności za jakiekolwiek bezpośrednie, pośrednie, wynikowe, specjalne lub karne szkody (w tym utratę danych, utratę zysków, cierpienie psychiczne itp.) wynikające z korzystania lub niemożności korzystania z Aplikacji.
+
+8.2. Bez uszczerbku dla powyższego, maksymalna i łączna odpowiedzialność Firmy wobec Użytkownika, z jakiejkolwiek przyczyny, będzie ograniczona do kwoty faktycznie zapłaconej przez Użytkownika Firmie w ciągu trzech miesięcy poprzedzających zdarzenie powodujące szkodę, lub 50 NIS, w zależności od tego, która kwota jest niższa.
+
+9. Odszkodowanie
+
+Zgadzasz się zwolnić Firmę z odpowiedzialności za wszelkie szkody, straty lub wydatki (w tym opłaty prawne) poniesione przez nią z powodu naruszenia przez Ciebie niniejszych Warunków lub z powodu szkody wyrządzonej osobie trzeciej.
+
+10. Jurysdykcja i prawo właściwe
+
+Niniejsze Warunki podlegają wyłącznie prawu Państwa Izrael. Wyłączna jurysdykcja w jakimkolwiek sporze przysługuje właściwym sądom w Dystrykcie Tel Awiw-Jafo, Izrael.
+
+11. Skontaktuj się z nami
+
+W sprawach prawnych: legal@talmify.com

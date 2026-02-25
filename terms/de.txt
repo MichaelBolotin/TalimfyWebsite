@@ -1,0 +1,74 @@
+NUTZUNGSBEDINGUNGEN – TALMIFY APP
+
+Zuletzt aktualisiert: Februar 2026
+
+WICHTIGER RECHTLICHER HINWEIS:
+Dieses Dokument wurde nur zu Komfortzwecken aus dem Hebräischen übersetzt. Die verbindliche und rechtlich gültige Version ist allein der hebräische Text. Im Falle von Widersprüchen, Unstimmigkeiten oder Inkonsistenzen zwischen dieser Übersetzung und der hebräischen Version hat die hebräische Version Vorrang und ersetzt diese Übersetzung in jeder Hinsicht, auch in jeglichen Gerichtsverfahren.
+
+1. Einleitung und Definitionen
+
+1.1. Willkommen bei "Talmify" (im Folgenden: die "App"). Die App wird betrieben und verwaltet von Michael Yefet, Befreiter Händler (Osek Patur) Nr. 314887050 (im Folgenden: das "Unternehmen" oder "Wir").
+
+1.2. Dieses Dokument (im Folgenden: die "Bedingungen") regelt das Rechtsverhältnis zwischen Ihnen (im Folgenden: der "Nutzer") und dem Unternehmen. Das Herunterladen, Installieren oder Nutzen der App stellt Ihre volle und vorbehaltlose Zustimmung zu diesen Bedingungen und der Datenschutzrichtlinie dar. Wenn Sie einer dieser Bedingungen nicht zustimmen, müssen Sie jegliche Nutzung der App einstellen und sie sofort deinstallieren.
+
+2. Der Dienst
+
+2.1. Die App dient als Werkzeug für das Studienmanagement, die Kurserstellung und die Verfolgung von Ereignissen, Noten und Anwesenheit (der "Dienst").
+
+2.2. Der Dienst wird "wie besehen" und "wie verfügbar" bereitgestellt, ohne jegliche Zusicherung oder Gewährleistung, ausdrücklich oder stillschweigend, hinsichtlich seiner Funktionalität, Genauigkeit, Verfügbarkeit oder Eignung für einen bestimmten Zweck.
+
+2.3. Funktionen der Künstlichen Intelligenz (Apple Intelligence):
+Die App nutzt Technologien der Künstlichen Intelligenz und/oder Sprachmodelle, die von Dritten bereitgestellt werden, wie z. B. Apple Intelligence ("KI-Funktionen").
+(a) Ausgaben, die von KI-Funktionen generiert werden, werden algorithmisch erstellt und können falsch, ungenau oder unangemessen sein.
+(b) Die alleinige Verantwortung für die Überprüfung der Genauigkeit der Informationen und deren Nutzung liegt bei Ihnen. Verlassen Sie sich nicht auf KI-Ausgaben als Ersatz für professionelle Beratung oder unabhängige akademische Überprüfung.
+(c) Das Unternehmen haftet nicht für direkte oder indirekte Schäden, die durch das Vertrauen auf KI-Ausgaben verursacht werden.
+
+3. Eingeschränkte Lizenz
+
+Das Unternehmen gewährt Ihnen eine persönliche, eingeschränkte, nicht exklusive und widerrufliche Lizenz zur Nutzung der App nur für persönliche und private Zwecke. Die kommerzielle Nutzung, das Kopieren, Reverse Engineering oder die Verbreitung der App oder eines Teils davon ist strengstens untersagt.
+
+4. Rechtsfähigkeit und Nutzung der App
+
+4.1. Die App ist für die Nutzung durch Erwachsene mit voller Rechtsfähigkeit (über 18 Jahre) bestimmt.
+
+4.2. Wenn Sie unter 18 Jahre alt sind ("Minderjähriger") oder Ihnen aus irgendeinem Grund ein gesetzlicher Vormund bestellt wurde, ist Ihre Nutzung der App und insbesondere die Durchführung von Zahlungstransaktionen (In-App-Käufe) davon abhängig, dass Sie die ausdrückliche Genehmigung Ihres gesetzlichen Vormunds zur Durchführung solcher Handlungen und zur Annahme dieser Bedingungen einholen.
+
+4.3. Durch das Herunterladen und Nutzen der App erklären und garantieren Sie, dass: (a) Sie ein Erwachsener sind und rechtlich kompetent sind, bindende Rechtshandlungen vorzunehmen; oder (b) Sie ein Minderjähriger sind, der die Zustimmung seines gesetzlichen Vormunds erhalten hat, diese Vereinbarung einzugehen und die App zu nutzen.
+
+4.4. Die Verantwortung für die Beaufsichtigung von Minderjährigen und deren Nutzung der App liegt ausschließlich beim gesetzlichen Vormund. Das Unternehmen betrachtet jede Nutzung der App oder jede Zahlung, die über sie getätigt wird, als eine Handlung, die rechtmäßig vom gesetzlichen Vormund genehmigt wurde.
+
+5. Abonnements und In-App-Käufe
+
+5.1. Die Nutzung bestimmter Funktionen der App erfordert die Zahlung einer sich erneuernden Abonnementgebühr (monatlich oder jährlich) oder eine einmalige Zahlung, wie im App Store angeboten.
+
+5.2. Automatische Verlängerung: Periodische Abonnements verlängern sich automatisch am Ende jedes Abrechnungszeitraums, es sei denn, Sie kündigen die automatische Verlängerung über Ihre Apple-ID-Kontoeinstellungen mindestens 24 Stunden vor Ende des aktuellen Zeitraums.
+
+5.3. Zahlungsverwaltung: Alle Zahlungstransaktionen werden ausschließlich von Apple Inc. verarbeitet und verwaltet. Das Unternehmen hat keinen Zugriff auf Ihre Kreditkartendaten und kann Gebühren oder Gutschriften nicht direkt verarbeiten.
+
+5.4. Stornierungen und Rückerstattungen: Die Stornierungs- und Rückerstattungsrichtlinie unterliegt ausschließlich den Nutzungsbedingungen des Apple App Store. Jede Anfrage auf Rückerstattung muss an Apple gerichtet werden. Das Unternehmen ist nicht autorisiert und technisch nicht in der Lage, Rückerstattungen zu genehmigen oder auszustellen.
+
+6. Geistiges Eigentum
+
+Alle Rechte am geistigen Eigentum an der App (einschließlich Code, Design, Logos und Marken) gehören ausschließlich dem Unternehmen. Nichts in diesen Bedingungen gewährt dem Nutzer irgendwelche Rechte am geistigen Eigentum des Unternehmens.
+
+7. Datensicherung und iCloud
+
+Die App ermöglicht die Datensicherung im iCloud-Dienst von Apple. Dieser Dienst ist extern und wird von einem Dritten betrieben. Das Unternehmen ist nicht verantwortlich für die Integrität, Speicherung oder Wiederherstellung der Sicherung. Der Nutzer ist allein für die Sicherung seiner Daten verantwortlich.
+
+8. Haftungsbeschränkung
+
+8.1. In keinem Fall haftet das Unternehmen, seine Mitarbeiter oder jemand in seinem Namen für direkte, indirekte, Folge-, spezielle oder Strafschäden (einschließlich Datenverlust, entgangenen Gewinns, seelischen Leids usw.), die aus der Nutzung oder der Unfähigkeit zur Nutzung der App entstehen.
+
+8.2. Ohne das Vorstehende einzuschränken, ist die maximale und gesamte Haftung des Unternehmens gegenüber dem Nutzer, aus welchem Grund auch immer, auf den Betrag beschränkt, den der Nutzer tatsächlich in den drei Monaten vor dem Ereignis, das den Schaden verursacht hat, an das Unternehmen gezahlt hat, oder 50 NIS, je nachdem, welcher Betrag niedriger ist.
+
+9. Entschädigung
+
+Sie stimmen zu, das Unternehmen für alle Schäden, Verluste oder Kosten (einschließlich Anwaltskosten) zu entschädigen, die ihm aufgrund Ihrer Verletzung dieser Bedingungen oder aufgrund von Schäden, die einem Dritten zugefügt wurden, entstehen.
+
+10. Gerichtsstand und geltendes Recht
+
+Diese Bedingungen unterliegen ausschließlich den Gesetzen des Staates Israel. Ausschließlicher Gerichtsstand bei Streitigkeiten sind die zuständigen Gerichte im Bezirk Tel Aviv-Jaffa, Israel.
+
+11. Kontaktieren Sie uns
+
+Für rechtliche Anfragen: legal@talmify.com

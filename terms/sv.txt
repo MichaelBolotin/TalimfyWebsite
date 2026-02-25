@@ -1,0 +1,74 @@
+ANVÄNDARVILLKOR – TALMIFY APP
+
+Senast uppdaterad: Februari 2026
+
+VIKTIGT JURIDISKT MEDDELANDE:
+Detta dokument har översatts från hebreiska endast för bekvämlighetens skull. Den bindande och juridiskt giltiga versionen är uteslutande den hebreiska texten. I händelse av någon motsägelse, avvikelse eller inkonsekvens mellan denna översättning och den hebreiska versionen, ska den hebreiska versionen ha företräde och ersätta denna översättning i alla avseenden, inklusive i eventuella rättsliga förfaranden.
+
+1. Introduktion och definitioner
+
+1.1. Välkommen till "Talmify" (hädanefter: "Appen"). Appen drivs och förvaltas av Michael Yefet, Befriad handlare (Osek Patur) nr 314887050 (hädanefter: "Företaget" eller "Vi").
+
+1.2. Detta dokument (hädanefter: "Villkoren") reglerar det juridiska förhållandet mellan dig (hädanefter: "Användaren") och Företaget. Nedladdning, installation eller användning av Appen utgör ditt fullständiga och förbehållslösa godkännande av dessa Villkor och Integritetspolicyn. Om du inte godkänner något av dessa villkor måste du upphöra med all användning av Appen och avinstallera den omedelbart.
+
+2. Tjänsten
+
+2.1. Appen fungerar som ett verktyg för studiehantering, kursskapande och spårning av händelser, betyg och närvaro ("Tjänsten").
+
+2.2. Tjänsten tillhandahålls "i befintligt skick" och "i mån av tillgång", utan någon representation eller garanti, uttrycklig eller underförstådd, gällande dess funktionalitet, noggrannhet, tillgänglighet eller lämplighet för ett visst ändamål.
+
+2.3. Funktioner för artificiell intelligens (Apple Intelligence):
+Appen använder teknologier för artificiell intelligens och/eller språkmodeller som tillhandahålls av tredje part, såsom Apple Intelligence ("AI-funktioner").
+(a) Utdata som genereras av AI-funktioner produceras algoritmiskt och kan vara felaktiga, felaktiga eller olämpliga.
+(b) Det enda ansvaret för att verifiera informationens noggrannhet och dess användning ligger hos dig. Lita inte på AI-utdata som ett substitut för professionell rådgivning eller oberoende akademisk verifiering.
+(c) Företaget ska inte hållas ansvarigt för någon direkt eller indirekt skada som orsakats av tillit till AI-utdata.
+
+3. Begränsad licens
+
+Företaget ger dig en personlig, begränsad, icke-exklusiv och återkallelig licens att använda Appen endast för personliga och privata ändamål. Kommersiell användning, kopiering, omvänd ingenjörskonst eller distribution av Appen eller någon del därav är strängt förbjudet.
+
+4. Rättslig kapacitet och användning av Appen
+
+4.1. Appen är avsedd att användas av vuxna med full rättslig kapacitet (över 18 år).
+
+4.2. Om du är under 18 år ("Minderårig") eller har fått en vårdnadshavare utsedd av någon anledning, är din användning av Appen, och särskilt genomförandet av betalningstransaktioner (Köp i appen), villkorad av att du erhåller uttryckligt godkännande från din vårdnadshavare för att utföra sådana åtgärder och acceptera dessa Villkor.
+
+4.3. Genom att ladda ner och använda Appen förklarar och garanterar du att: (a) Du är vuxen och juridiskt behörig att utföra bindande rättshandlingar; eller (b) Du är en Minderårig som har fått samtycke från din vårdnadshavare för att ingå detta avtal och använda Appen.
+
+4.4. Ansvaret för tillsyn av Minderåriga och deras användning av Appen ligger uteslutande hos vårdnadshavaren. Företaget ser all användning av Appen eller betalning som görs via den som en åtgärd som lagligen godkänts av vårdnadshavaren.
+
+5. Prenumerationer och köp i appen
+
+5.1. Användning av vissa funktioner i Appen kräver betalning av en förnybar prenumerationsavgift (månadsvis eller årsvis) eller en engångsbetalning, som erbjuds i App Store.
+
+5.2. Automatisk förnyelse: Periodiska prenumerationer kommer automatiskt att förnyas i slutet av varje faktureringsperiod om du inte avbryter den automatiska förnyelsen via dina Apple ID-kontoinställningar minst 24 timmar före slutet av den aktuella perioden.
+
+5.3. Betalningshantering: Alla betalningstransaktioner behandlas och hanteras uteslutande av Apple Inc. Företaget har inte tillgång till dina kreditkortsuppgifter och kan inte direkt behandla debiteringar eller krediter.
+
+5.4. Avbokningar och återbetalningar: Policyn för avbokning och återbetalning är uteslutande underställd Apples App Store-tjänstevillkor. Varje begäran om återbetalning måste riktas till Apple. Företaget är inte auktoriserat och är tekniskt oförmöget att godkänna eller utfärda återbetalningar.
+
+6. Immaterialrätt
+
+Alla immateriella rättigheter i Appen (inklusive kod, design, logotyper och varumärken) tillhör uteslutande Företaget. Ingenting i dessa Villkor ger Användaren några rättigheter till Företagets immateriella egendom.
+
+7. Datasäkerhetskopiering och iCloud
+
+Appen tillåter säkerhetskopiering av data till Apples iCloud-tjänst. Denna tjänst är extern och drivs av tredje part. Företaget ansvarar inte för integriteten, lagringen eller återställningen av säkerhetskopian. Användaren är ensam ansvarig för att säkerhetskopiera sina data.
+
+8. Ansvarsbegränsning
+
+8.1. Under inga omständigheter ska Företaget, dess anställda eller någon som agerar för dess räkning hållas ansvarig för några direkta, indirekta, följdskador, särskilda eller straffskador (inklusive förlust av data, förlust av vinst, psykiskt lidande etc.) som uppstår till följd av användningen eller oförmågan att använda Appen.
+
+8.2. Utan att avvika från ovanstående, ska Företagets maximala och totala ansvar gentemot Användaren, oavsett orsak, begränsas till det belopp som faktiskt betalats av Användaren till Företaget under de tre månader som föregick händelsen som orsakade skadan, eller 50 NIS, vilket som är lägre.
+
+9. Skadeersättning
+
+Du samtycker till att ersätta Företaget för all skada, förlust eller kostnad (inklusive juridiska avgifter) som orsakats det på grund av ditt brott mot dessa Villkor eller på grund av skada som orsakats tredje part.
+
+10. Jurisdiktion och tillämplig lag
+
+Dessa Villkor ska uteslutande regleras av lagarna i Staten Israel. Exklusiv jurisdiktion i alla tvister tillkommer behöriga domstolar i distriktet Tel Aviv-Yafo, Israel.
+
+11. Kontakta oss
+
+För juridiska frågor: legal@talmify.com

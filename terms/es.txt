@@ -1,0 +1,74 @@
+TÉRMINOS DE USO – APLICACIÓN TALMIFY
+
+Última actualización: Febrero 2026
+
+AVISO LEGAL IMPORTANTE:
+Este documento ha sido traducido del hebreo solo para fines de conveniencia. La versión vinculante y legalmente válida es únicamente el texto en hebreo. En cualquier caso de contradicción, discrepancia o inconsistencia entre esta traducción y la versión en hebreo, la versión en hebreo prevalecerá y reemplazará esta traducción en todos los aspectos, incluso en cualquier procedimiento legal.
+
+1. Introducción y Definiciones
+
+1.1. Bienvenido a "Talmify" (en adelante: la "Aplicación"). La Aplicación es operada y administrada por Michael Yefet, Distribuidor Exento (Osek Patur) No. 314887050 (en adelante: el "Negocio" o "Nosotros").
+
+1.2. Este documento (en adelante: los "Términos") rige la relación legal entre usted (en adelante: el "Usuario") y el Negocio. Descargar, instalar o usar la Aplicación constituye su acuerdo total y sin reservas a estos Términos y la Política de Privacidad. Si no está de acuerdo con alguno de estos términos, debe cesar todo uso de la Aplicación y desinstalarla inmediatamente.
+
+2. El Servicio
+
+2.1. La Aplicación sirve como una herramienta para la gestión de estudios, creación de cursos y seguimiento de eventos, calificaciones y asistencia (el "Servicio").
+
+2.2. El Servicio se proporciona "Tal como es" y "Según disponibilidad", sin ninguna representación o garantía, expresa o implícita, con respecto a su funcionalidad, precisión, disponibilidad o idoneidad para un propósito particular.
+
+2.3. Funciones de Inteligencia Artificial (Apple Intelligence):
+La Aplicación utiliza tecnologías de Inteligencia Artificial y/o modelos de lenguaje proporcionados por terceros, como Apple Intelligence ("Funciones de IA").
+(a) Los resultados generados por las Funciones de IA se producen algorítmicamente y pueden ser incorrectos, inexactos o inapropiados.
+(b) La responsabilidad exclusiva de verificar la precisión de la información y su uso recae en usted. No confíe en los resultados de la IA como sustituto de asesoramiento profesional o verificación académica independiente.
+(c) El Negocio no será responsable de ningún daño directo o indirecto causado por la confianza en los resultados de la IA.
+
+3. Licencia Limitada
+
+El Negocio le otorga una licencia personal, limitada, no exclusiva y revocable para usar la Aplicación solo para fines personales y privados. El uso comercial, copia, ingeniería inversa o distribución de la Aplicación o cualquier parte de la misma está estrictamente prohibido.
+
+4. Capacidad Legal y Uso de la Aplicación
+
+4.1. La Aplicación está destinada para su uso por adultos con plena capacidad legal (mayores de 18 años).
+
+4.2. Si usted es menor de 18 años ("Menor") o se le ha designado un Tutor Legal por cualquier motivo, su uso de la Aplicación, y particularmente la ejecución de transacciones de pago (Compras en la aplicación), está condicionado a la obtención de la aprobación explícita de su Tutor Legal para realizar tales acciones y aceptar estos Términos.
+
+4.3. Al descargar y usar la Aplicación, usted declara y garantiza que: (a) Es un adulto y legalmente competente para realizar acciones legales vinculantes; o (b) Es un Menor que ha recibido el consentimiento de su Tutor Legal para celebrar este acuerdo y usar la Aplicación.
+
+4.4. La responsabilidad de la supervisión de los Menores y su uso de la Aplicación recae exclusivamente en el Tutor Legal. El Negocio considera cualquier uso de la Aplicación o pago realizado a través de ella como una acción legalmente aprobada por el Tutor Legal.
+
+5. Suscripciones y Compras en la Aplicación
+
+5.1. El uso de ciertas funciones de la Aplicación requiere el pago de una tarifa de suscripción renovable (mensual o anual) o un pago único, según se ofrece en la App Store.
+
+5.2. Renovación Automática: Las suscripciones periódicas se renovarán automáticamente al final de cada período de facturación a menos que cancele la renovación automática a través de la configuración de su cuenta de Apple ID al menos 24 horas antes del final del período actual.
+
+5.3. Gestión de Pagos: Todas las transacciones de pago son procesadas y gestionadas exclusivamente por Apple Inc. El Negocio no tiene acceso a los detalles de su tarjeta de crédito y no puede procesar directamente cargos o créditos.
+
+5.4. Cancelaciones y Reembolsos: La política de cancelación y reembolso está sujeta únicamente a los Términos de Servicio de la Apple App Store. Cualquier solicitud de reembolso debe ser dirigida a Apple. El Negocio no está autorizado y técnicamente no puede aprobar o emitir reembolsos.
+
+6. Propiedad Intelectual
+
+Todos los derechos de propiedad intelectual en la Aplicación (incluyendo código, diseño, logotipos y marcas registradas) pertenecen únicamente al Negocio. Nada en estos Términos otorga al Usuario ningún derecho en la propiedad intelectual del Negocio.
+
+7. Copia de Seguridad de Datos e iCloud
+
+La Aplicación permite realizar copias de seguridad de datos en el servicio iCloud de Apple. Este servicio es externo y operado por un tercero. El Negocio no es responsable de la integridad, almacenamiento o restauración de la copia de seguridad. El Usuario es el único responsable de realizar copias de seguridad de sus datos.
+
+8. Limitación de Responsabilidad
+
+8.1. En ningún caso el Negocio, sus empleados o cualquier persona en su nombre será responsable de ningún daño directo, indirecto, consecuente, especial o punitivo (incluyendo pérdida de datos, pérdida de ganancias, angustia mental, etc.) que surja del uso o la incapacidad de usar la Aplicación.
+
+8.2. Sin perjuicio de lo anterior, la responsabilidad máxima y total del Negocio hacia el Usuario, por cualquier causa, se limitará a la cantidad realmente pagada por el Usuario al Negocio en los tres meses anteriores al evento que causó el daño, o 50 NIS, lo que sea menor.
+
+9. Indemnización
+
+Usted acepta indemnizar al Negocio por cualquier daño, pérdida o gasto (incluyendo honorarios legales) causados a este debido a su violación de estos Términos o debido a daños causados a un tercero.
+
+10. Jurisdicción y Ley Aplicable
+
+Estos Términos se regirán únicamente por las leyes del Estado de Israel. La jurisdicción exclusiva en cualquier disputa se confiere a los tribunales competentes en el Distrito de Tel Aviv-Yafo, Israel.
+
+11. Contáctenos
+
+Para consultas legales: legal@talmify.com
