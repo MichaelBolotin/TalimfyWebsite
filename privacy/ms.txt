@@ -1,0 +1,41 @@
+DASAR PRIVASI – APLIKASI TALMIFY
+
+Kemas Kini Terakhir: Februari 2026
+
+NOTIS PERUNDANGAN PENTING:
+Dokumen ini telah diterjemahkan daripada bahasa Ibrani untuk tujuan kemudahan sahaja. Versi yang mengikat dan sah di sisi undang-undang adalah teks bahasa Ibrani sahaja. Sekiranya berlaku percanggahan, versi bahasa Ibrani akan diguna pakai.
+
+Michael Yefet ("Perniagaan") menghormati privasi anda. Dasar ini menerangkan cara maklumat dikumpul dan digunakan dalam Aplikasi Talmify.
+
+1. Maklumat yang Kami Kumpul
+
+1.1. Maklumat yang diberikan secara sukarela oleh Pengguna: Apabila menghubungi kami melalui borang "Hubungi Kami", kami mengumpul alamat e-mel anda, subjek pertanyaan, dan kandungan mesej.
+Penjelasan: Sila elakkan menghantar maklumat perubatan, sensitif, atau peribadi dalam mesej teks bebas.
+
+1.2. Maklumat yang dikumpul secara automatik (Analitis): Kami menggunakan perkhidmatan pihak ketiga (seperti Google Analytics untuk Firebase) untuk mengumpul maklumat statistik tanpa nama mengenai penggunaan Aplikasi (jenis peranti, kerosakan, tempoh penggunaan) bagi tujuan penambahbaikan perkhidmatan.
+
+1.3. Maklumat Pembelian: Kami tidak menyimpan butiran kad kredit. Maklumat mengenai status langganan anda (aktif/tidak aktif), sejarah pembelian, dan jenis langganan diterima dan diproses untuk membuka kunci akses kepada ciri premium.
+
+2. Penggunaan Maklumat dan Perkongsian dengan Pihak Ketiga
+
+Perniagaan tidak menjual maklumat peribadi kepada pihak ketiga. Maklumat tersebut digunakan oleh kami untuk menyediakan Perkhidmatan, sokongan teknikal, dan untuk menambah baik Aplikasi.
+Kami berkongsi maklumat dengan penyedia perkhidmatan luaran untuk operasi Aplikasi:
+* Google Firebase: Untuk penyimpanan data, analisis statistik, dan menerima data daripada penyedia lain.
+* Apple Inc.: Untuk pemprosesan pembayaran, pengurusan langganan, sandaran iCloud (jika diaktifkan oleh anda), dan penyediaan perkhidmatan Apple Intelligence.
+* RevenueCat: Satu platform untuk pengurusan infrastruktur langganan. Perkhidmatan ini digunakan untuk pengesahan resit, mengurus status langganan anda, dan menyegerakkan data pembelian dengan perkhidmatan analitis (Firebase) untuk meningkatkan pengalaman pengguna.
+
+3. Perkhidmatan Kecerdasan Buatan (AI)
+
+Semasa menggunakan ciri berasaskan AI, maklumat (teks yang anda masukkan) mungkin diproses pada peranti anda atau dihantar untuk pemprosesan pada pelayan penyedia AI (seperti Apple), selaras dengan dasar privasi penyedia tersebut.
+
+4. Keselamatan Data
+
+Kami mengambil langkah keselamatan yang munasabah untuk melindungi maklumat. Walau bagaimanapun, adalah mustahil untuk menjamin keselamatan mutlak terhadap pencerobohan tanpa izin.
+
+5. Hak Pengguna
+
+Anda berhak untuk menyemak maklumat peribadi yang disimpan mengenai anda (pertanyaan Hubungi Kami) dan meminta pembetulan atau penghapusannya, tertakluk kepada undang-undang yang terpakai, dengan menghubungi: legal@talmify.com.
+
+6. Perubahan kepada Dasar
+
+Dasar ini mungkin dikemas kini dari semasa ke semasa. Penggunaan Aplikasi yang berterusan selepas kemas kini merupakan persetujuan kepada dasar baharu tersebut.

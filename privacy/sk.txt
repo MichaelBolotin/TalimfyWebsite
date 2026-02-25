@@ -1,0 +1,41 @@
+ZÁSADY OCHRANY OSOBNÝCH ÚDAJOV – APLIKÁCIA TALMIFY
+
+Posledná aktualizácia: Február 2026
+
+DÔLEŽITÉ PRÁVNE OZNÁMENIE:
+Tento dokument bol preložený z hebrejčiny len pre pohodlie. Záväznou a právne platnou verziou je iba text v hebrejčine. V prípade akéhokoľvek rozporu má prednosť hebrejská verzia.
+
+Michael Yefet („Podnik“) rešpektuje vaše súkromie. Tieto zásady opisujú, ako sa zhromažďujú a používajú informácie v aplikácii Talmify.
+
+1. Informácie, ktoré zhromažďujeme
+
+1.1. Informácie dobrovoľne poskytnuté Používateľom: Pri kontaktovaní nás prostredníctvom formulára „Kontaktujte nás“ zhromažďujeme vašu e-mailovú adresu, predmet dopytu a obsah správy.
+Objasnenie: Vyhnite sa prosím odosielaniu lekárskych, citlivých alebo súkromných informácií v rámci voľného textu správy.
+
+1.2. Informácie zhromažďované automaticky (Analytika): Používame služby tretích strán (ako je Google Analytics pre Firebase) na zhromažďovanie anonymných štatistických informácií o používaní aplikácie (typ zariadenia, pády, trvanie používania) na účely zlepšovania služieb.
+
+1.3. Informácie o nákupe: Neukladáme údaje o kreditných kartách. Informácie týkajúce sa stavu vášho predplatného (aktívne/neaktívne), histórie nákupov a typu predplatného sú prijímané a spracovávané na odomknutie prístupu k prémiovým funkciám.
+
+2. Používanie informácií a zdieľanie s tretími stranami
+
+Podnik nepredáva osobné údaje tretím stranám. Informácie používame na poskytovanie Služby, technickú podporu a na zlepšovanie Aplikácie.
+Zdieľame informácie s externými poskytovateľmi služieb pre prevádzku Aplikácie:
+* Google Firebase: Na ukladanie údajov, štatistickú analýzu a prijímanie údajov od iných poskytovateľov.
+* Apple Inc.: Na spracovanie platieb, správu predplatného, zálohovanie na iCloud (ak ste ho povolili) a poskytovanie služieb Apple Intelligence.
+* RevenueCat: Platforma na správu infraštruktúry predplatného. Táto služba sa používa na overovanie účteniek, správu stavu vášho predplatného a synchronizáciu údajov o nákupoch s analytickými službami (Firebase) na zlepšenie používateľského zážitku.
+
+3. Služby umelej inteligencie (AI)
+
+Pri používaní funkcií založených na AI môžu byť informácie (texty, ktoré ste zadali) spracovávané na vašom zariadení alebo odoslané na spracovanie na servery poskytovateľov AI (ako je Apple), v súlade so zásadami ochrany osobných údajov týchto poskytovateľov.
+
+4. Bezpečnosť údajov
+
+Prijímame primerané bezpečnostné opatrenia na ochranu informácií. Je však nemožné zaručiť absolútnu bezpečnosť proti neoprávneným vniknutiam.
+
+5. Práva používateľa
+
+Máte právo skontrolovať osobné údaje, ktoré sú o vás uchovávané (dopyty Kontaktujte nás), a požiadať o ich opravu alebo vymazanie, v súlade s platnými zákonmi, kontaktovaním: legal@talmify.com.
+
+6. Zmeny zásad
+
+Tieto zásady môžu byť z času na čas aktualizované. Pokračujúce používanie Aplikácie po aktualizácii predstavuje súhlas s novými zásadami.

@@ -1,0 +1,41 @@
+KEBIJAKAN PRIVASI – APLIKASI TALMIFY
+
+Terakhir Diperbarui: Februari 2026
+
+PEMBERITAHUAN HUKUM PENTING:
+Dokumen ini telah diterjemahkan dari bahasa Ibrani hanya untuk tujuan kemudahan. Versi yang mengikat dan sah secara hukum adalah teks bahasa Ibrani saja. Dalam hal terjadi pertentangan, versi bahasa Ibrani yang akan berlaku.
+
+Michael Yefet ("Bisnis") menghormati privasi Anda. Kebijakan ini menjelaskan bagaimana informasi dikumpulkan dan digunakan dalam Aplikasi Talmify.
+
+1. Informasi yang Kami Kumpulkan
+
+1.1. Informasi yang diberikan secara sukarela oleh Pengguna: Saat menghubungi kami melalui formulir "Hubungi Kami", kami mengumpulkan alamat email Anda, subjek pertanyaan, dan isi pesan.
+Klarifikasi: Harap hindari mengirimkan informasi medis, sensitif, atau pribadi dalam pesan teks bebas.
+
+1.2. Informasi yang dikumpulkan secara otomatis (Analitik): Kami menggunakan layanan pihak ketiga (seperti Google Analytics untuk Firebase) untuk mengumpulkan informasi statistik anonim tentang penggunaan Aplikasi (jenis perangkat, kerusakan, durasi penggunaan) untuk tujuan peningkatan layanan.
+
+1.3. Informasi Pembelian: Kami tidak menyimpan detail kartu kredit. Informasi mengenai status langganan Anda (aktif/tidak aktif), riwayat pembelian, dan jenis langganan diterima dan diproses untuk membuka akses ke fitur premium.
+
+2. Penggunaan Informasi dan Berbagi dengan Pihak Ketiga
+
+Bisnis tidak menjual informasi pribadi kepada pihak ketiga. Informasi tersebut digunakan oleh kami untuk menyediakan Layanan, dukungan teknis, dan untuk meningkatkan Aplikasi.
+Kami membagikan informasi dengan penyedia layanan eksternal untuk pengoperasian Aplikasi:
+* Google Firebase: Untuk penyimpanan data, analisis statistik, dan penerimaan data dari penyedia lain.
+* Apple Inc.: Untuk pemrosesan pembayaran, manajemen langganan, pencadangan iCloud (jika diaktifkan oleh Anda), dan penyediaan layanan Apple Intelligence.
+* RevenueCat: Sebuah platform untuk manajemen infrastruktur langganan. Layanan ini digunakan untuk validasi tanda terima, mengelola status langganan Anda, dan menyinkronkan data pembelian dengan layanan analitik (Firebase) untuk meningkatkan pengalaman pengguna.
+
+3. Layanan Kecerdasan Buatan (AI)
+
+Saat menggunakan fitur berbasis AI, informasi (teks yang Anda masukkan) dapat diproses di perangkat Anda atau dikirim untuk diproses di server penyedia AI (seperti Apple), sesuai dengan kebijakan privasi penyedia tersebut.
+
+4. Keamanan Data
+
+Kami mengambil langkah-langkah keamanan yang wajar untuk melindungi informasi. Namun, tidak mungkin menjamin keamanan mutlak terhadap intrusi yang tidak sah.
+
+5. Hak Pengguna
+
+Anda berhak untuk meninjau informasi pribadi yang disimpan tentang Anda (pertanyaan Hubungi Kami) dan meminta koreksi atau penghapusannya, tunduk pada hukum yang berlaku, dengan menghubungi: legal@talmify.com.
+
+6. Perubahan pada Kebijakan
+
+Kebijakan ini dapat diperbarui dari waktu ke waktu. Penggunaan Aplikasi yang berkelanjutan setelah pembaruan merupakan persetujuan terhadap kebijakan baru tersebut.

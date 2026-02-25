@@ -1,0 +1,41 @@
+GİZLİLİK POLİTİKASI – TALMIFY UYGULAMASI
+
+Son Güncelleme: Şubat 2026
+
+ÖNEMLİ YASAL UYARI:
+Bu belge İbraniceden sadece kolaylık sağlamak amacıyla çevrilmiştir. Bağlayıcı ve yasal olarak geçerli sürüm yalnızca İbranice metindir. Herhangi bir çelişki durumunda, İbranice sürüm geçerli olacaktır.
+
+Michael Yefet ("İşletme") gizliliğinize saygı duyar. Bu politika, Talmify Uygulamasında bilgilerin nasıl toplandığını ve kullanıldığını açıklar.
+
+1. Topladığımız Bilgiler
+
+1.1. Kullanıcı tarafından gönüllü olarak sağlanan bilgiler: "Bize Ulaşın" formu aracılığıyla bizimle iletişime geçtiğinizde, e-posta adresinizi, sorunun konusunu ve mesajın içeriğini toplarız.
+Açıklama: Lütfen serbest metin mesajı içinde tıbbi, hassas veya özel bilgiler göndermekten kaçının.
+
+1.2. Otomatik olarak toplanan bilgiler (Analitik): Hizmet iyileştirme amacıyla Uygulama kullanımı (cihaz türü, çökmeler, kullanım süresi) hakkında anonim istatistiksel bilgiler toplamak için üçüncü taraf hizmetlerini (Firebase için Google Analytics gibi) kullanıyoruz.
+
+1.3. Satın Alma Bilgileri: Kredi kartı bilgilerini saklamıyoruz. Abonelik durumunuz (aktif/pasif), satın alma geçmişiniz ve abonelik türünüzle ilgili bilgiler, premium özelliklere erişimin kilidini açmak için alınır ve işlenir.
+
+2. Bilgilerin Kullanımı ve Üçüncü Taraflarla Paylaşım
+
+İşletme, kişisel bilgileri üçüncü taraflara satmaz. Bilgiler tarafımızdan Hizmeti sağlamak, teknik destek ve Uygulamayı geliştirmek için kullanılır.
+Uygulamanın işletimi için bilgileri harici hizmet sağlayıcılarla paylaşıyoruz:
+* Google Firebase: Veri depolama, istatistiksel analiz ve diğer sağlayıcılardan veri almak için.
+* Apple Inc.: Ödeme işleme, abonelik yönetimi, iCloud yedeklemesi (tarafınızdan etkinleştirildiyse) ve Apple Intelligence hizmetlerinin sağlanması için.
+* RevenueCat: Abonelik altyapı yönetimi için bir platform. Bu hizmet, makbuz doğrulama, abonelik durumunuzu yönetme ve kullanıcı deneyimini iyileştirmek için satın alma verilerini analiz hizmetleriyle (Firebase) senkronize etmek için kullanılır.
+
+3. Yapay Zeka (AI) Hizmetleri
+
+AI tabanlı özellikleri kullanırken, bilgiler (girdiğiniz metinler) cihazınızda işlenebilir veya bu sağlayıcıların gizlilik politikalarına uygun olarak AI sağlayıcılarının (Apple gibi) sunucularına işlenmek üzere gönderilebilir.
+
+4. Veri Güvenliği
+
+Bilgileri korumak için makul güvenlik önlemleri alıyoruz. Ancak, yetkisiz izinsiz girişlere karşı mutlak güvenliği garanti etmek imkansızdır.
+
+5. Kullanıcı Hakları
+
+Hakkınızda tutulan kişisel bilgileri (Bize Ulaşın sorguları) inceleme ve geçerli yasalara tabi olarak düzeltilmesini veya silinmesini talep etme hakkına sahipsiniz, bunun için şu adrese başvurabilirsiniz: legal@talmify.com.
+
+6. Politikadaki Değişiklikler
+
+Bu politika zaman zaman güncellenebilir. Güncellemeden sonra Uygulamanın sürekli kullanımı, yeni politikayı kabul ettiğiniz anlamına gelir.

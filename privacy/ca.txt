@@ -1,0 +1,41 @@
+POLÍTICA DE PRIVADESA – APP TALMIFY
+
+Darrera actualització: Febrer 2026
+
+AVÍS LEGAL IMPORTANT:
+Aquest document ha estat traduït de l'hebreu només per a fins de conveniència. La versió vinculant i legalment vàlida és només el text en hebreu. En cas de contradicció, la versió en hebreu prevaldrà.
+
+Michael Yefet (el "Negoci") respecta la vostra privadesa. Aquesta política descriu com es recull i s'utilitza la informació a l'aplicació Talmify.
+
+1. Informació que recollim
+
+1.1. Informació proporcionada voluntàriament per l'Usuari: En contactar amb nosaltres a través del formulari "Contacta amb nosaltres", recollim la vostra adreça de correu electrònic, l'assumpte de la consulta i el contingut del missatge.
+Aclariment: Si us plau, eviteu enviar informació mèdica, sensible o privada dins del missatge de text lliure.
+
+1.2. Informació recollida automàticament (Analítica): Utilitzem serveis de tercers (com ara Google Analytics per a Firebase) per recollir informació estadística anònima sobre l'ús de l'aplicació (tipus de dispositiu, fallades, durada de l'ús) amb finalitats de millora del servei.
+
+1.3. Informació de compra: No emmagatzemem detalls de targetes de crèdit. La informació sobre l'estat de la vostra subscripció (activa/inactiva), l'historial de compres i el tipus de subscripció es rep i es processa per desbloquejar l'accés a les funcions prèmium.
+
+2. Ús de la informació i compartició amb tercers
+
+El Negoci no ven informació personal a tercers. La informació és utilitzada per nosaltres per proporcionar el Servei, suport tècnic i per millorar l'aplicació.
+Compartim informació amb proveïdors de serveis externs per al funcionament de l'aplicació:
+* Google Firebase: Per a l'emmagatzematge de dades, anàlisi estadística i recepció de dades d'altres proveïdors.
+* Apple Inc.: Per al processament de pagaments, gestió de subscripcions, còpia de seguretat d'iCloud (si l'activeu) i provisió de serveis d'Apple Intelligence.
+* RevenueCat: Una plataforma per a la gestió d'infraestructures de subscripció. Aquest servei s'utilitza per a la validació de rebuts, gestió del vostre estat de subscripció i sincronització de dades de compra amb serveis d'analítica (Firebase) per millorar l'experiència de l'usuari.
+
+3. Serveis d'Intel·ligència Artificial (IA)
+
+En utilitzar funcions basades en IA, la informació (textos que heu introduït) pot ser processada al vostre dispositiu o enviada per al processament als servidors de proveïdors d'IA (com Apple), d'acord amb les polítiques de privadesa d'aquests proveïdors.
+
+4. Seguretat de les dades
+
+Prenem mesures de seguretat raonables per protegir la informació. No obstant això, és impossible garantir una seguretat absoluta contra intrusions no autoritzades.
+
+5. Drets de l'usuari
+
+Teniu dret a revisar la informació personal que es té sobre vosaltres (consultes de Contacta amb nosaltres) i sol·licitar la seva correcció o supressió, subjecte a la llei aplicable, contactant amb: legal@talmify.com.
+
+6. Canvis a la Política
+
+Aquesta política pot ser actualitzada de tant en tant. L'ús continuat de l'aplicació després de l'actualització constitueix l'acord amb la nova política.

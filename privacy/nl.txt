@@ -1,0 +1,41 @@
+PRIVACYBELEID – TALMIFY APP
+
+Laatst bijgewerkt: Februari 2026
+
+BELANGRIJKE JURIDISCHE KENNISGEVING:
+Dit document is vertaald uit het Hebreeuws uitsluitend voor gemaksdoeleinden. De bindende en wettelijk geldige versie is alleen de Hebreeuwse tekst. In geval van tegenstrijdigheid prevaleert de Hebreeuwse versie.
+
+Michael Yefet (het "Bedrijf") respecteert uw privacy. Dit beleid beschrijft hoe informatie wordt verzameld en gebruikt in de Talmify App.
+
+1. Informatie die we verzamelen
+
+1.1. Informatie die vrijwillig door de Gebruiker wordt verstrekt: Wanneer u contact met ons opneemt via het "Neem contact met ons op"-formulier, verzamelen wij uw e-mailadres, het onderwerp van de vraag en de inhoud van het bericht.
+Verduidelijking: Vermijd het verzenden van medische, gevoelige of privé-informatie in het vrije tekstbericht.
+
+1.2. Automatisch verzamelde informatie (Analytics): We gebruiken diensten van derden (zoals Google Analytics voor Firebase) om anonieme statistische informatie over app-gebruik (apparaattype, crashes, gebruiksduur) te verzamelen voor serviceverbeteringsdoeleinden.
+
+1.3. Aankoopinformatie: We slaan geen creditcardgegevens op. Informatie over uw abonnementsstatus (actief/inactief), aankoopgeschiedenis en abonnementstype wordt ontvangen en verwerkt om toegang tot premiumfuncties te ontgrendelen.
+
+2. Gebruik van informatie en delen met derden
+
+Het Bedrijf verkoopt geen persoonlijke informatie aan derden. De informatie wordt door ons gebruikt om de Service te leveren, technische ondersteuning te bieden en de App te verbeteren.
+We delen informatie met externe dienstverleners voor de werking van de App:
+* Google Firebase: Voor gegevensopslag, statistische analyse en het ontvangen van gegevens van andere providers.
+* Apple Inc.: Voor betalingsverwerking, abonnementsbeheer, iCloud-back-up (indien door u ingeschakeld) en levering van Apple Intelligence-diensten.
+* RevenueCat: Een platform voor het beheer van abonnementsinfrastructuur. Deze service wordt gebruikt voor validatie van ontvangstbewijzen, beheer van uw abonnementsstatus en synchronisatie van aankoopgegevens met analysediensten (Firebase) om de gebruikerservaring te verbeteren.
+
+3. Kunstmatige Intelligentie (AI) Diensten
+
+Bij het gebruik van op AI gebaseerde functies kan informatie (teksten die u hebt ingevoerd) worden verwerkt op uw apparaat of worden verzonden voor verwerking op de servers van AI-providers (zoals Apple), in overeenstemming met het privacybeleid van die providers.
+
+4. Gegevensbeveiliging
+
+We nemen redelijke beveiligingsmaatregelen om de informatie te beschermen. Het is echter onmogelijk om absolute veiligheid tegen ongeoorloofde indringers te garanderen.
+
+5. Gebruikersrechten
+
+U hebt het recht om de persoonlijke informatie die over u wordt bewaard (Neem contact met ons op-vragen) in te zien en om correctie of verwijdering ervan te verzoeken, onder voorbehoud van toepasselijk recht, door contact op te nemen met: legal@talmify.com.
+
+6. Wijzigingen in het beleid
+
+Dit beleid kan van tijd tot tijd worden bijgewerkt. Voortgezet gebruik van de App na de update vormt instemming met het nieuwe beleid.
