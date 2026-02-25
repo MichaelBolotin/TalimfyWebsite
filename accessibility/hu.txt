@@ -1,0 +1,24 @@
+AKADÁLYMENTESÍTÉSI NYILATKOZAT – TALMIFY ALKALMAZÁS
+
+Utolsó frissítés: 2026. február
+
+FONTOS JOGI KÖZLEMÉNY:
+Ezt a dokumentumot héberről fordították, kizárólag kényelmi célokból. A kötelező és jogilag érvényes változat kizárólag a héber szöveg. Bármilyen ellentmondás esetén a héber változat az irányadó.
+
+1. Jogi státusz és mentesség
+
+Michael Yefet (a „Vállalkozás”) törvényesen bejegyzett mentesített kereskedő (Osek Patur). A Fogyatékkal élők egyenlő jogairól szóló rendeletek (Szolgáltatás akadálymentesítési kiigazítások), 5773-2013 értelmében a Vállalkozás mentesül az általa üzemeltetett weboldal és alkalmazások akadálymentesítési kiigazításainak elvégzési kötelezettsége alól.
+
+2. Önkéntes akadálymentesítési erőfeszítések (Ex Gratia)
+
+A Vállalkozás számára a törvény által biztosított teljes mentesség ellenére, és abból a vágyból, hogy jó felhasználói élményt nyújtson minden felhasználó számára, a Vállalkozás önkéntes erőforrásokat és erőfeszítéseket fektet az Alkalmazás akadálymentessé tételébe.
+Ebben az összefüggésben az Alkalmazás szabványos komponensek felhasználásával készült, amelyek lehetővé teszik az operációs rendszerben elérhető segítő technológiák (mint például a VoiceOver és a szövegnagyítás) részleges támogatását.
+
+3. Jogi tisztázás
+
+Ezeket az erőfeszítéseket ex gratia (a törvény betűjén túl) végzik, és nem jelentik semmilyen jogi kötelezettség elismerését. Az Alkalmazás nem vállalja, hogy teljes mértékben megfelel az izraeli 5568-as szabványnak vagy a WCAG 2.0 irányelveknek. Előfordulhatnak olyan területek, képernyők vagy funkciók az Alkalmazásban, amelyek még nem lettek teljesen akadálymentesítve, vagy amelyek nem kompatibilisek minden típusú segítő technológiával.
+
+4. Akadálymentesítési kérdések
+
+Ha nehézségekbe ütközik az Alkalmazás használata során, örömmel fogadjuk visszajelzését, hogy megpróbáljuk javítani a helyzetet a jövőbeli frissítésekben (időkeret vállalása nélkül).
+Kapcsolatba léphet velünk e-mailben: legal@talmify.com

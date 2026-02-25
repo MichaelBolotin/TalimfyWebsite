@@ -1,0 +1,24 @@
+PRIEINAMUMO PAREIŠKIMAS – TALMIFY PROGRAMĖLĖ
+
+Paskutinį kartą atnaujinta: 2026 m. vasario mėn.
+
+SVARBUS TEISINIS PRANEŠIMAS:
+Šis dokumentas buvo išverstas iš hebrajų kalbos tik patogumo sumetimais. Privaloma ir teisiškai galiojanti versija yra tik hebrajų kalbos tekstas. Bet kokio prieštaravimo atveju pirmenybė teikiama hebrajų kalbos versijai.
+
+1. Teisinis statusas ir išimtis
+
+Michael Yefet („Verslas“) yra teisėtai registruotas atleistas prekiautojas (Osek Patur). Pagal Lygių teisių žmonėms su negalia reglamentus (Paslaugų prieinamumo pritaikymas), 5773-2013, Verslas yra atleistas nuo pareigos atlikti prieinamumo pritaikymus svetainėje ir programose, kurias jis valdo.
+
+2. Savanoriškos prieinamumo pastangos (Ex Gratia)
+
+Nepaisant visiško atleidimo, prieinamo Verslui pagal įstatymą, ir noro suteikti gerą vartotojo patirtį visiems vartotojams, Verslas investuoja savanoriškus išteklius ir pastangas, kad Programėlė taptų prieinama.
+Šiame kontekste Programėlė buvo sukurta naudojant standartinius komponentus, kurie leidžia iš dalies palaikyti operacinėje sistemoje prieinamas pagalbines technologijas (pvz., VoiceOver ir teksto didinimą).
+
+3. Teisinis paaiškinimas
+
+Šios pastangos atliekamos ex gratia (viršijant įstatymo raidę) ir nereiškia jokio teisinio įsipareigojimo pripažinimo. Programėlė neįsipareigoja visiškai laikytis Izraelio standarto 5568 arba WCAG 2.0 gairių. Programėlėje gali būti sričių, ekranų ar funkcijų, kurios dar nebuvo visiškai pritaikytos arba kurios nėra suderinamos su visų tipų pagalbinėmis technologijomis.
+
+4. Prieinamumo užklausos
+
+Jei susiduriate su sunkumais naudodami Programėlę, mielai priimtume atsiliepimus, kad pabandytume pagerinti situaciją būsimuose atnaujinimuose (be įsipareigojimo dėl laiko grafiko).
+Galite susisiekti su mumis el. paštu: legal@talmify.com

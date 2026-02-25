@@ -1,0 +1,24 @@
+TILLGÄNGLIGHETSUTTALANDE – TALMIFY-APP
+
+Senast uppdaterad: februari 2026
+
+VIKTIGT JURIDISKT MEDDELANDE:
+Detta dokument har översatts från hebreiska endast för bekvämlighetsändamål. Den bindande och juridiskt giltiga versionen är endast den hebreiska texten. I händelse av motsägelse ska den hebreiska versionen ha företräde.
+
+1. Rättslig status och undantag
+
+Michael Yefet ("Företaget") är en lagligen registrerad befriad handlare (Osek Patur). I enlighet med bestämmelserna om lika rättigheter för personer med funktionsnedsättning (Anpassningar av tjänstetillgänglighet), 5773-2013, är Företaget befriat från skyldigheten att utföra tillgänglighetsanpassningar på webbplatsen och applikationer som drivs av det.
+
+2. Frivilliga tillgänglighetsinsatser (Ex Gratia)
+
+Trots det fullständiga undantaget som är tillgängligt för Företaget enligt lag, och av en önskan att ge en bra användarupplevelse för alla användare, investerar Företaget frivilliga resurser och ansträngningar i att göra Appen tillgänglig.
+I detta sammanhang byggdes Appen med hjälp av standardkomponenter som tillåter delvis stöd för hjälpmedelsteknologier som finns tillgängliga i operativsystemet (såsom VoiceOver och textförstoring).
+
+3. Rättsligt förtydligande
+
+Dessa ansträngningar utförs ex gratia (utöver lagens bokstav) och utgör inte ett erkännande av någon rättslig skyldighet. Appen åtar sig inte att fullt ut följa israelisk standard 5568 eller WCAG 2.0-riktlinjerna. Det kan finnas områden, skärmar eller funktioner i Appen som ännu inte har gjorts helt tillgängliga eller som inte är kompatibla med alla typer av hjälpmedelsteknologier.
+
+4. Förfrågningar om tillgänglighet
+
+Om du stöter på svårigheter med att använda Appen tar vi gärna emot feedback för att försöka förbättra situationen i framtida uppdateringar (utan åtagande om tidsram).
+Du kan kontakta oss via e-post: legal@talmify.com

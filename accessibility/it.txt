@@ -1,0 +1,24 @@
+DICHIARAZIONE DI ACCESSIBILITÀ – APP TALMIFY
+
+Ultimo aggiornamento: Febbraio 2026
+
+AVVISO LEGALE IMPORTANTE:
+Questo documento è stato tradotto dall'ebraico solo per scopi di comodità. La versione vincolante e legalmente valida è solo il testo ebraico. In caso di contraddizione, prevarrà la versione ebraica.
+
+1. Stato giuridico ed esenzione
+
+Michael Yefet (l'"Azienda") è un Commerciante Esente (Osek Patur) legalmente registrato. In conformità con i Regolamenti sulla parità di diritti per le persone con disabilità (Adeguamenti per l'accessibilità del servizio), 5773-2013, l'Azienda è esente dall'obbligo di eseguire adeguamenti per l'accessibilità al sito web e alle applicazioni da essa gestite.
+
+2. Sforzi volontari di accessibilità (Ex Gratia)
+
+Nonostante la completa esenzione disponibile per l'Azienda ai sensi della legge, e per il desiderio di fornire una buona esperienza utente a tutti gli utenti, l'Azienda investe risorse e sforzi volontari per rendere l'App accessibile.
+In questo contesto, l'App è stata costruita utilizzando componenti standard che consentono un supporto parziale per le tecnologie assistive disponibili nel sistema operativo (come VoiceOver e l'ingrandimento del testo).
+
+3. Chiarimento legale
+
+Questi sforzi sono eseguiti ex gratia (oltre la lettera della legge) e non costituiscono un'ammissione di alcun obbligo legale. L'App non si impegna a rispettare pienamente lo standard israeliano 5568 o le linee guida WCAG 2.0. Potrebbero esserci aree, schermate o funzionalità nell'App che non sono state ancora rese completamente accessibili o che non sono compatibili con tutti i tipi di tecnologie assistive.
+
+4. Richieste di accessibilità
+
+Se riscontri difficoltà nell'utilizzo dell'App, saremo lieti di ricevere feedback per cercare di migliorare la situazione nei futuri aggiornamenti (senza impegno di tempistica).
+Puoi contattarci via email: legal@talmify.com

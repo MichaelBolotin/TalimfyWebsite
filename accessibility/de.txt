@@ -1,0 +1,24 @@
+BARRIEREFREIHEITSERKLÄRUNG – TALMIFY APP
+
+Zuletzt aktualisiert: Februar 2026
+
+WICHTIGER RECHTLICHER HINWEIS:
+Dieses Dokument wurde nur zu bequemen Zwecken aus dem Hebräischen übersetzt. Die verbindliche und rechtlich gültige Version ist allein der hebräische Text. Im Falle eines Widerspruchs hat die hebräische Version Vorrang.
+
+1. Rechtsstatus und Befreiung
+
+Michael Yefet (das „Unternehmen“) ist ein rechtmäßig registrierter befreiter Händler (Osek Patur). Gemäß den Vorschriften zur Gleichstellung von Menschen mit Behinderungen (Anpassungen der Dienstleistungszugänglichkeit), 5773-2013, ist das Unternehmen von der Verpflichtung befreit, Anpassungen der Barrierefreiheit an der von ihm betriebenen Website und den Anwendungen vorzunehmen.
+
+2. Freiwillige Bemühungen um Barrierefreiheit (Ex Gratia)
+
+Ungeachtet der vollständigen Befreiung, die dem Unternehmen nach dem Gesetz zur Verfügung steht, und aus dem Wunsch heraus, allen Benutzern ein gutes Benutzererlebnis zu bieten, investiert das Unternehmen freiwillige Ressourcen und Anstrengungen, um die App zugänglich zu machen.
+In diesem Zusammenhang wurde die App unter Verwendung von Standardkomponenten erstellt, die eine teilweise Unterstützung für im Betriebssystem verfügbare unterstützende Technologien (wie VoiceOver und Textvergrößerung) ermöglichen.
+
+3. Rechtliche Klarstellung
+
+Diese Bemühungen werden ex gratia (über den Buchstaben des Gesetzes hinaus) durchgeführt und stellen kein Eingeständnis einer gesetzlichen Verpflichtung dar. Die App verpflichtet sich nicht, den israelischen Standard 5568 oder die WCAG 2.0-Richtlinien vollständig einzuhalten. Es kann Bereiche, Bildschirme oder Funktionen in der App geben, die noch nicht vollständig barrierefrei gemacht wurden oder die nicht mit allen Arten von unterstützenden Technologien kompatibel sind.
+
+4. Anfragen zur Barrierefreiheit
+
+Wenn Sie Schwierigkeiten bei der Nutzung der App haben, freuen wir uns über Feedback, um zu versuchen, die Situation in zukünftigen Updates zu verbessern (ohne Verpflichtung zu einem Zeitplan).
+Sie können uns per E-Mail kontaktieren: legal@talmify.com

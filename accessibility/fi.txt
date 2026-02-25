@@ -1,0 +1,24 @@
+SAAVUTETTAVUUSSELOSTE – TALMIFY-SOVELLUS
+
+Viimeksi päivitetty: Helmikuu 2026
+
+TÄRKEÄ OIKEUDELLINEN HUOMAUTUS:
+Tämä asiakirja on käännetty hepreasta vain mukavuussyistä. Sitova ja oikeudellisesti pätevä versio on yksinomaan hepreankielinen teksti. Ristiriitatilanteissa hepreankielinen versio on ensisijainen.
+
+1. Oikeudellinen asema ja vapautus
+
+Michael Yefet ("Yritys") on laillisesti rekisteröity vapautettu elinkeinonharjoittaja (Osek Patur). Vammaisten henkilöiden yhdenvertaisia oikeuksia koskevien säännösten (palvelujen saavutettavuusjärjestelyt), 5773-2013, mukaisesti Yritys on vapautettu velvollisuudesta tehdä saavutettavuusjärjestelyjä ylläpitämilleen verkkosivustoille ja sovelluksille.
+
+2. Vapaaehtoiset saavutettavuusponnistelut (Ex Gratia)
+
+Huolimatta Yritykselle lain nojalla myönnetystä täydellisestä vapautuksesta ja halusta tarjota hyvä käyttökokemus kaikille käyttäjille, Yritys investoi vapaaehtoisia resursseja ja ponnisteluja sovelluksen tekemiseksi saavutettavaksi.
+Tässä yhteydessä Sovellus on rakennettu käyttämällä vakiokomponentteja, jotka mahdollistavat osittaisen tuen käyttöjärjestelmässä saatavilla oleville apuvälineteknologioille (kuten VoiceOver ja tekstin suurentaminen).
+
+3. Oikeudellinen selvennys
+
+Nämä ponnistelut tehdään ex gratia (lain kirjaimen ulkopuolella) eivätkä ne muodosta myöntämistä mistään oikeudellisesta velvoitteesta. Sovellus ei sitoudu noudattamaan täysin Israelin standardia 5568 tai WCAG 2.0 -ohjeita. Sovelluksessa voi olla alueita, näyttöjä tai ominaisuuksia, joita ei ole vielä tehty täysin saavutettaviksi tai jotka eivät ole yhteensopivia kaikentyyppisten apuvälineteknologioiden kanssa.
+
+4. Saavutettavuuskyselyt
+
+Jos kohtaat vaikeuksia Sovelluksen käytössä, otamme mielellämme vastaan palautetta yrittääksemme parantaa tilannetta tulevissa päivityksissä (ilman sitoumusta aikatauluun).
+Voit ottaa meihin yhteyttä sähköpostitse: legal@talmify.com
