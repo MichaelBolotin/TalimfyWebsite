@@ -51,7 +51,23 @@ document.addEventListener('DOMContentLoaded', () => {
             return response.text();
         })
         .then(text => {
-            textContainer.textContent = text;
+            // Check for custom link syntax [[text]]
+            const parts = text.split(/\[\[(.*?)\]\]/);
+            textContainer.innerHTML = ''; // Clear previous content
+
+            parts.forEach((part, index) => {
+                if (index % 2 === 1) {
+                    // This is the link text inside [[...]]
+                    const link = document.createElement('a');
+                    link.href = `?lang=he`;
+                    link.className = 'text-brand-primary hover:underline cursor-pointer font-medium';
+                    link.textContent = part;
+                    textContainer.appendChild(link);
+                } else {
+                    // This is regular text
+                    textContainer.appendChild(document.createTextNode(part));
+                }
+            });
         })
         .catch(err => {
             console.error('Failed to load text:', err);
