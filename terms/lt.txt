@@ -1,0 +1,74 @@
+NAUDOJIMO SĄLYGOS – TALMIFY PROGRAMĖLĖ
+
+Paskutinį kartą atnaujinta: 2026 m. vasario mėn.
+
+SVARBUS TEISINIS PRANEŠIMAS:
+Šis dokumentas išverstas iš hebrajų kalbos tik patogumo sumetimais. Privaloma ir teisiškai galiojanti versija yra tik tekstas hebrajų kalba. Esant bet kokiam prieštaravimui, neatitikimui ar nenuoseklumui tarp šio vertimo ir versijos hebrajų kalba, versija hebrajų kalba turi viršenybę ir pakeičia šį vertimą visais atžvilgiais, įskaitant bet kokius teisinius procesus.
+
+1. Įvadas ir apibrėžimai
+
+1.1. Sveiki atvykę į „Talmify“ (toliau – „Programėlė“). Programėlę valdo ir administruoja Michael Yefet, Atleistas prekybininkas (Osek Patur) Nr. 314887050 (toliau – „Verslas“ arba „Mes“).
+
+1.2. Šis dokumentas (toliau – „Sąlygos“) reglamentuoja teisinius santykius tarp jūsų (toliau – „Vartotojas“) ir Verslo. Programėlės atsisiuntimas, įdiegimas ar naudojimas reiškia jūsų visišką ir besąlygišką sutikimą su šiomis Sąlygomis ir Privatumo politika. Jei nesutinkate su kuria nors iš šių sąlygų, privalote nutraukti bet kokį Programėlės naudojimą ir nedelsdami ją pašalinti.
+
+2. Paslauga
+
+2.1. Programėlė tarnauja kaip įrankis studijų valdymui, kursų kūrimui ir renginių, pažymių bei lankomumo stebėjimui („Paslauga“).
+
+2.2. Paslauga teikiama „tokia, kokia yra“ ir „kaip prieinama“, be jokių pareiškimų ar garantijų, išreikštų ar numanomų, dėl jos funkcionalumo, tikslumo, prieinamumo ar tinkamumo konkrečiam tikslui.
+
+2.3. Dirbtinio intelekto („Apple Intelligence“) funkcijos:
+Programėlė naudoja Dirbtinio intelekto technologijas ir/arba kalbos modelius, kuriuos teikia trečiosios šalys, tokios kaip „Apple Intelligence“ („DI funkcijos“).
+(a) DI funkcijų generuojami rezultatai yra sukuriami algoritmiškai ir gali būti neteisingi, netikslūs ar netinkami.
+(b) Vienintelė atsakomybė už informacijos tikslumo ir jos naudojimo patikrinimą tenka jums. Nepasikliaukite DI rezultatais kaip profesionalių patarimų ar nepriklausomo akademinio patikrinimo pakaitalu.
+(c) Verslas nebus atsakingas už jokią tiesioginę ar netiesioginę žalą, atsiradusią dėl pasikliavimo DI rezultatais.
+
+3. Ribota licencija
+
+Verslas suteikia jums asmeninę, ribotą, neišimtinę ir atšaukiamą licenciją naudoti Programėlę tik asmeniniais ir privačiais tikslais. Komercinis naudojimas, kopijavimas, atvirkštinė inžinerija ar Programėlės ar bet kurios jos dalies platinimas yra griežtai draudžiamas.
+
+4. Teisinis veiksnumas ir Programėlės naudojimas
+
+4.1. Programėlė skirta naudoti suaugusiems, turintiems visišką teisinį veiksnumą (vyresniems nei 18 metų).
+
+4.2. Jei esate jaunesnis nei 18 metų („Nepilnametis“) arba jums dėl bet kokios priežasties paskirtas teisinis globėjas, jūsų Programėlės naudojimas, o ypač mokėjimo operacijų vykdymas (pirkimai programėlėje), priklauso nuo aiškaus jūsų teisinio globėjo sutikimo atlikti tokius veiksmus ir priimti šias Sąlygas gavimo.
+
+4.3. Atsisiųsdami ir naudodami Programėlę, jūs pareiškiate ir garantuojate, kad: (a) Esate suaugęs ir teisiškai kompetentingas atlikti privalomus teisinius veiksmus; arba (b) Esate Nepilnametis, gavęs savo teisinio globėjo sutikimą sudaryti šią sutartį ir naudoti Programėlę.
+
+4.4. Atsakomybė už Nepilnamečių priežiūrą ir jų Programėlės naudojimą tenka išimtinai teisiniam globėjui. Verslas bet kokį Programėlės naudojimą ar mokėjimą, atliktą per ją, laiko veiksmu, kurį teisėtai patvirtino teisinis globėjas.
+
+5. Prenumeratos ir pirkimai programėlėje
+
+5.1. Tam tikrų Programėlės funkcijų naudojimas reikalauja atnaujinamo prenumeratos mokesčio (mėnesinio ar metinio) arba vienkartinio mokėjimo, kaip siūloma „App Store“.
+
+5.2. Automatinis atnaujinimas: Periodinės prenumeratos bus automatiškai atnaujinamos kiekvieno atsiskaitymo laikotarpio pabaigoje, nebent atšauksite automatinį atnaujinimą per savo „Apple ID“ paskyros nustatymus likus bent 24 valandoms iki dabartinio laikotarpio pabaigos.
+
+5.3. Mokėjimų valdymas: Visas mokėjimo operacijas apdoroja ir valdo išimtinai „Apple Inc.“ Verslas neturi prieigos prie jūsų kredito kortelės duomenų ir negali tiesiogiai apdoroti mokesčių ar kreditų.
+
+5.4. Atšaukimai ir pinigų grąžinimas: Atšaukimo ir pinigų grąžinimo politika priklauso tik nuo „Apple App Store“ paslaugų teikimo sąlygų. Bet koks prašymas grąžinti pinigus turi būti nukreiptas „Apple“. Verslas nėra įgaliotas ir techniškai nepajėgus patvirtinti ar išduoti pinigų grąžinimo.
+
+6. Intelektinė nuosavybė
+
+Visi intelektinės nuosavybės teises Programėlėje (įskaitant kodą, dizainą, logotipus ir prekių ženklus) priklauso tik Verslui. Niekas šiose Sąlygose nesuteikia Vartotojui jokių teisių į Verslo intelektinę nuosavybę.
+
+7. Duomenų atsarginė kopija ir „iCloud“
+
+Programėlė leidžia kurti duomenų atsargines kopijas „Apple“ „iCloud“ paslaugoje. Ši paslauga yra išorinė ir valdoma trečiosios šalies. Verslas nėra atsakingas už atsarginės kopijos vientisumą, saugojimą ar atkūrimą. Vartotojas yra visiškai atsakingas už savo duomenų atsarginės kopijos kūrimą.
+
+8. Atsakomybės apribojimas
+
+8.1. Jokiu būdu Verslas, jo darbuotojai ar kas nors jo vardu nebus atsakingas už jokią tiesioginę, netiesioginę, pasekminę, specialią ar baudžiamąją žalą (įskaitant duomenų praradimą, pelno praradimą, psichinę kančią ir t. t.), atsiradusią dėl naudojimo ar negalėjimo naudotis Programėle.
+
+8.2. Nenukrypstant nuo aukščiau išdėstytų dalykų, maksimali ir bendra Verslo atsakomybė Vartotojui, dėl bet kokios priežasties, bus apribota suma, kurią Vartotojas faktiškai sumokėjo Verslui per tris mėnesius iki įvykio, sukėlusio žalą, arba 50 NIS, priklausomai nuo to, kuri suma yra mažesnė.
+
+9. Žalos atlyginimas
+
+Jūs sutinkate atlyginti Verslui bet kokią žalą, nuostolius ar išlaidas (įskaitant teisines išlaidas), padarytas jam dėl jūsų šių Sąlygų pažeidimo arba dėl žalos, padarytos trečiajai šaliai.
+
+10. Jurisdikcija ir taikytina teisė
+
+Šias Sąlygas reglamentuos tik Izraelio Valstybės įstatymai. Išimtinė jurisdikcija bet kokiame ginče suteikiama kompetentingiems teismams Tel Avivo-Jafo apygardoje, Izraelyje.
+
+11. Susisiekite su mumis
+
+Dėl teisinių užklausų: legal@talmify.com

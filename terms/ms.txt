@@ -1,0 +1,74 @@
+TERMA PENGGUNAAN – APLIKASI TALMIFY
+
+Kemas Kini Terakhir: Februari 2026
+
+NOTIS PERUNDANGAN PENTING:
+Dokumen ini telah diterjemahkan daripada bahasa Ibrani untuk tujuan kemudahan sahaja. Versi yang mengikat dan sah di sisi undang-undang adalah teks bahasa Ibrani sahaja. Sekiranya terdapat percanggahan, ketidakselarasan, atau ketidakkonsistenan antara terjemahan ini dan versi bahasa Ibrani, versi bahasa Ibrani akan diutamakan dan menggantikan terjemahan ini dalam semua aspek, termasuk dalam sebarang prosiding undang-undang.
+
+1. Pengenalan dan Definisi
+
+1.1. Selamat datang ke "Talmify" (selepas ini: "Aplikasi"). Aplikasi ini dikendalikan dan diuruskan oleh Michael Yefet, Peniaga Dikecualikan (Osek Patur) No. 314887050 (selepas ini: "Perniagaan" atau "Kami").
+
+1.2. Dokumen ini (selepas ini: "Terma") mengawal hubungan undang-undang antara anda (selepas ini: "Pengguna") dan Perniagaan. Memuat turun, memasang, atau menggunakan Aplikasi merupakan persetujuan penuh dan tanpa syarat anda terhadap Terma ini dan Dasar Privasi. Jika anda tidak bersetuju dengan mana-mana terma ini, anda mesti menghentikan semua penggunaan Aplikasi dan menyahpasangnya dengan segera.
+
+2. Perkhidmatan
+
+2.1. Aplikasi berfungsi sebagai alat untuk pengurusan pengajian, penciptaan kursus, dan penjejakan acara, gred, dan kehadiran ("Perkhidmatan").
+
+2.2. Perkhidmatan disediakan "Sebagaimana Adanya" dan "Sebagaimana Tersedia," tanpa sebarang representasi atau jaminan, nyata atau tersirat, mengenai fungsinya, ketepatannya, ketersediaannya, atau kesesuaiannya untuk tujuan tertentu.
+
+2.3. Ciri-ciri Kecerdasan Buatan (Apple Intelligence):
+Aplikasi menggunakan teknologi Kecerdasan Buatan dan/atau model bahasa yang disediakan oleh pihak ketiga, seperti Apple Intelligence ("Ciri AI").
+(a) Output yang dihasilkan oleh Ciri AI dihasilkan secara algoritma dan mungkin tidak betul, tidak tepat, atau tidak sesuai.
+(b) Tanggungjawab tunggal untuk mengesahkan ketepatan maklumat dan penggunaannya terletak pada anda. Jangan bergantung pada output AI sebagai pengganti nasihat profesional atau pengesahan akademik bebas.
+(c) Perniagaan tidak akan bertanggungjawab atas sebarang kerosakan langsung atau tidak langsung yang disebabkan oleh pergantungan pada output AI.
+
+3. Lesen Terhad
+
+Perniagaan memberikan anda lesen peribadi, terhad, bukan eksklusif, dan boleh dibatalkan untuk menggunakan Aplikasi bagi tujuan peribadi dan persendirian sahaja. Penggunaan komersial, penyalinan, kejuruteraan undur, atau pengedaran Aplikasi atau mana-mana bahagian daripadanya adalah dilarang sama sekali.
+
+4. Kapasiti Undang-undang dan Penggunaan Aplikasi
+
+4.1. Aplikasi ini bertujuan untuk digunakan oleh orang dewasa dengan kapasiti undang-undang penuh (berumur lebih dari 18 tahun).
+
+4.2. Jika anda berumur di bawah 18 tahun ("Di Bawah Umur") atau telah dilantik Penjaga Sah atas apa jua sebab, penggunaan Aplikasi oleh anda, dan khususnya pelaksanaan transaksi pembayaran (Pembelian Dalam Aplikasi), adalah bersyarat apabila mendapat kelulusan jelas daripada Penjaga Sah anda untuk melakukan tindakan sedemikian dan menerima Terma ini.
+
+4.3. Dengan memuat turun dan menggunakan Aplikasi, anda mengisytiharkan dan menjamin bahawa: (a) Anda seorang dewasa dan kompeten dari segi undang-undang untuk melakukan tindakan undang-undang yang mengikat; atau (b) Anda seorang Di Bawah Umur yang telah menerima persetujuan Penjaga Sah anda untuk memasuki perjanjian ini dan menggunakan Aplikasi.
+
+4.4. Tanggungjawab untuk pengawasan Golongan Di Bawah Umur dan penggunaan Aplikasi oleh mereka terletak secara eksklusif pada Penjaga Sah. Perniagaan memandang sebarang penggunaan Aplikasi atau pembayaran yang dibuat melaluinya sebagai tindakan yang diluluskan secara sah oleh Penjaga Sah.
+
+5. Langganan dan Pembelian Dalam Aplikasi
+
+5.1. Penggunaan ciri-ciri tertentu Aplikasi memerlukan pembayaran yuran langganan pembaharuan (bulanan atau tahunan) atau pembayaran sekali sahaja, seperti yang ditawarkan di App Store.
+
+5.2. Pembaharuan Automatik: Langganan berkala akan diperbaharui secara automatik pada akhir setiap tempoh pengebilan melainkan anda membatalkan pembaharuan automatik melalui tetapan akaun Apple ID anda sekurang-kurangnya 24 jam sebelum akhir tempoh semasa.
+
+5.3. Pengurusan Pembayaran: Semua transaksi pembayaran diproses dan diuruskan secara eksklusif oleh Apple Inc. Perniagaan tidak mempunyai akses kepada butiran kad kredit anda dan tidak boleh memproses caj atau kredit secara langsung.
+
+5.4. Pembatalan dan Bayaran Balik: Dasar pembatalan dan bayaran balik tertakluk semata-mata kepada Terma Perkhidmatan Apple App Store. Sebarang permintaan untuk bayaran balik mesti diarahkan kepada Apple. Perniagaan tidak diberi kuasa dan secara teknikal tidak dapat meluluskan atau mengeluarkan bayaran balik.
+
+6. Harta Intelek
+
+Semua hak harta intelek dalam Aplikasi (termasuk kod, reka bentuk, logo, dan tanda dagangan) adalah milik Perniagaan semata-mata. Tiada apa-apa dalam Terma ini memberikan Pengguna sebarang hak dalam harta intelek Perniagaan.
+
+7. Sandaran Data dan iCloud
+
+Aplikasi membenarkan sandaran data ke perkhidmatan iCloud Apple. Perkhidmatan ini adalah luaran dan dikendalikan oleh pihak ketiga. Perniagaan tidak bertanggungjawab atas integriti, penyimpanan, atau pemulihan sandaran. Pengguna bertanggungjawab sepenuhnya untuk menyandarkan data mereka.
+
+8. Had Liabiliti
+
+8.1. Dalam apa jua keadaan, Perniagaan, pekerjanya, atau sesiapa sahaja bagi pihaknya tidak akan bertanggungjawab atas sebarang kerosakan langsung, tidak langsung, berbangkit, khas, atau punitif (termasuk kehilangan data, kehilangan keuntungan, penderitaan mental, dll.) yang timbul daripada penggunaan atau ketidakupayaan untuk menggunakan Aplikasi.
+
+8.2. Tanpa mengurangkan perkara di atas, liabiliti maksimum dan agregat Perniagaan terhadap Pengguna, untuk apa jua sebab, akan dihadkan kepada jumlah yang sebenarnya dibayar oleh Pengguna kepada Perniagaan dalam tiga bulan sebelum kejadian yang menyebabkan kerosakan, atau 50 NIS, mana yang lebih rendah.
+
+9. Ganti Rugi
+
+Anda bersetuju untuk mengganti rugi Perniagaan atas sebarang kerosakan, kerugian, atau perbelanjaan (termasuk yuran guaman) yang ditanggung olehnya disebabkan oleh pelanggaran anda terhadap Terma ini atau disebabkan oleh kemudaratan yang ditimbulkan kepada pihak ketiga.
+
+10. Bidang Kuasa dan Undang-undang yang Mengawal
+
+Terma ini akan dikawal semata-mata oleh undang-undang Negara Israel. Bidang kuasa eksklusif dalam sebarang pertikaian diletakkan di mahkamah yang kompeten di Daerah Tel Aviv-Yafo, Israel.
+
+11. Hubungi Kami
+
+Untuk pertanyaan undang-undang: legal@talmify.com

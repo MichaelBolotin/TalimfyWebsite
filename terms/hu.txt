@@ -1,0 +1,74 @@
+FELHASZNÁLÁSI FELTÉTELEK – TALMIFY ALKALMAZÁS
+
+Utolsó frissítés: 2026. február
+
+FONTOS JOGI NYILATKOZAT:
+Ezt a dokumentumot héberről fordították le, kizárólag kényelmi célokból. A kötelező érvényű és jogilag érvényes változat kizárólag a héber szöveg. Bármilyen ellentmondás, eltérés vagy következetlenség esetén ezen fordítás és a héber változat között, a héber változat az irányadó, és minden tekintetben felülírja ezt a fordítást, beleértve bármilyen jogi eljárást is.
+
+1. Bevezetés és meghatározások
+
+1.1. Üdvözöljük a "Talmify"-ban (a továbbiakban: az "Alkalmazás"). Az Alkalmazást Michael Yefet, Mentesített Kereskedő (Osek Patur) sz. 314887050 (a továbbiakban: a "Vállalkozás" vagy "Mi") üzemelteti és kezeli.
+
+1.2. Ez a dokumentum (a továbbiakban: a "Feltételek") szabályozza az Ön (a továbbiakban: a "Felhasználó") és a Vállalkozás közötti jogviszonyt. Az Alkalmazás letöltése, telepítése vagy használata jelenti az Ön teljes és fenntartások nélküli beleegyezését ezekbe a Feltételekbe és az Adatvédelmi Irányelvekbe. Ha nem ért egyet ezen feltételek bármelyikével, abba kell hagynia az Alkalmazás minden használatát, és azonnal el kell távolítania azt.
+
+2. A Szolgáltatás
+
+2.1. Az Alkalmazás eszközként szolgál a tanulmányok kezeléséhez, kurzusok létrehozásához, valamint események, jegyek és jelenlét nyomon követéséhez (a "Szolgáltatás").
+
+2.2. A Szolgáltatást "Ahogy van" és "Ahogy elérhető" alapon nyújtjuk, bármilyen kifejezett vagy hallgatólagos nyilatkozat vagy garancia nélkül a funkcionalitására, pontosságára, elérhetőségére vagy egy adott célra való alkalmasságára vonatkozóan.
+
+2.3. Mesterséges Intelligencia (Apple Intelligence) Funkciók:
+Az Alkalmazás harmadik felek, például az Apple Intelligence által biztosított Mesterséges Intelligencia technológiákat és/vagy nyelvi modelleket használ ("AI Funkciók").
+(a) Az AI Funkciók által generált kimenetek algoritmikusan jönnek létre, és lehetnek tévesek, pontatlanok vagy nem megfelelőek.
+(b) Az információk pontosságának és felhasználásának ellenőrzése kizárólag az Ön felelőssége. Ne hagyatkozzon az AI kimeneteire szakmai tanács vagy független akadémiai ellenőrzés helyettesítőjeként.
+(c) A Vállalkozás nem vállal felelősséget semmilyen közvetlen vagy közvetett kárért, amelyet az AI kimeneteire való hagyatkozás okoz.
+
+3. Korlátozott licenc
+
+A Vállalkozás személyes, korlátozott, nem kizárólagos és visszavonható licencet ad Önnek az Alkalmazás használatára, kizárólag személyes és magáncélokra. Az Alkalmazás vagy bármely részének kereskedelmi felhasználása, másolása, visszafejtése vagy terjesztése szigorúan tilos.
+
+4. Jogképesség és az Alkalmazás használata
+
+4.1. Az Alkalmazást teljes jogképességgel rendelkező felnőttek (18 éven felüliek) általi használatra szánják.
+
+4.2. Ha Ön 18 év alatti ("Kiskorú"), vagy bármilyen okból Törvényes Gyámot rendeltek ki Ön mellé, az Alkalmazás használata, és különösen a fizetési tranzakciók (Alkalmazáson belüli vásárlások) végrehajtása feltételezi, hogy kifejezett jóváhagyást szerezzen Törvényes Gyámjától ilyen műveletek végrehajtására és ezen Feltételek elfogadására.
+
+4.3. Az Alkalmazás letöltésével és használatával Ön kijelenti és garantálja, hogy: (a) Ön felnőtt, és jogilag kompetens kötelező érvényű jogi műveletek végrehajtására; vagy (b) Ön Kiskorú, aki megkapta Törvényes Gyámja beleegyezését a jelen megállapodás megkötéséhez és az Alkalmazás használatához.
+
+4.4. A Kiskorúak felügyeletéért és az Alkalmazás általi használatukért való felelősség kizárólag a Törvényes Gyámot terheli. A Vállalkozás az Alkalmazás bármilyen használatát vagy az azon keresztül teljesített fizetést a Törvényes Gyám által jogszerűen jóváhagyott cselekménynek tekinti.
+
+5. Előfizetések és Alkalmazáson belüli vásárlások
+
+5.1. Az Alkalmazás bizonyos funkcióinak használata megújuló előfizetési díj (havi vagy éves) vagy egyszeri fizetés teljesítését igényli, ahogy azt az App Store kínálja.
+
+5.2. Automatikus megújítás: Az időszakos előfizetések automatikusan megújulnak minden számlázási időszak végén, hacsak nem mondja le az automatikus megújítást Apple ID fiókjának beállításain keresztül legalább 24 órával az aktuális időszak vége előtt.
+
+5.3. Fizetéskezelés: Minden fizetési tranzakciót kizárólag az Apple Inc. dolgoz fel és kezel. A Vállalkozásnak nincs hozzáférése az Ön hitelkártya-adataihoz, és nem tud közvetlenül feldolgozni terheléseket vagy jóváírásokat.
+
+5.4. Lemondások és visszatérítések: A lemondási és visszatérítési politika kizárólag az Apple App Store Szolgáltatási Feltételeinek hatálya alá tartozik. Minden visszatérítési kérelmet az Apple-hez kell irányítani. A Vállalkozás nem jogosult, és technikailag nem képes visszatérítések jóváhagyására vagy kiadására.
+
+6. Szellemi tulajdon
+
+Az Alkalmazásban található minden szellemi tulajdonjog (beleértve a kódot, designt, logókat és védjegyeket) kizárólag a Vállalkozást illeti. Ezen Feltételekben semmi sem biztosít a Felhasználónak jogokat a Vállalkozás szellemi tulajdonára vonatkozóan.
+
+7. Adatmentés és iCloud
+
+Az Alkalmazás lehetővé teszi az adatmentést az Apple iCloud szolgáltatásába. Ez a szolgáltatás külső, és harmadik fél üzemelteti. A Vállalkozás nem felelős a biztonsági mentés integritásáért, tárolásáért vagy visszaállításáért. A Felhasználó kizárólagosan felelős adatai biztonsági mentéséért.
+
+8. Felelősség korlátozása
+
+8.1. Semmilyen esetben sem felelős a Vállalkozás, alkalmazottai vagy bárki a nevében semmilyen közvetlen, közvetett, következményes, különleges vagy büntető jellegű kárért (beleértve az adatvesztést, elmaradt hasznot, lelki gyötrelmet stb.), amely az Alkalmazás használatából vagy használatának képtelenségéből ered.
+
+8.2. A fentiek csorbítása nélkül, a Vállalkozás maximális és összesített felelőssége a Felhasználó felé, bármilyen okból, a kárt okozó eseményt megelőző három hónapban a Felhasználó által a Vállalkozásnak ténylegesen fizetett összegre, vagy 50 NIS-re korlátozódik, attól függően, hogy melyik az alacsonyabb.
+
+9. Kártalanítás
+
+Ön beleegyezik abba, hogy kártalanítja a Vállalkozást minden kár, veszteség vagy költség (beleértve a jogi költségeket is) tekintetében, amely ezen Feltételek megsértése miatt vagy harmadik félnek okozott kár miatt éri.
+
+10. Joghatóság és irányadó jog
+
+Ezeket a Feltételeket kizárólag Izrael Állam törvényei szabályozzák. Bármely vita esetén a kizárólagos joghatóság a Tel Aviv-Yafo körzetben, Izraelben illetékes bíróságokat illeti meg.
+
+11. Lépjen kapcsolatba velünk
+
+Jogi kérdések esetén: legal@talmify.com

@@ -1,0 +1,74 @@
+VILKÅR FOR BRUK – TALMIFY APP
+
+Sist oppdatert: Februar 2026
+
+VIKTIG JURIDISK MERKNAD:
+Dette dokumentet er oversatt fra hebraisk kun for bekvemmelighetsformål. Den bindende og juridisk gyldige versjonen er utelukkende den hebraiske teksten. I tilfelle motstrid, uoverensstemmelse eller inkonsekvens mellom denne oversettelsen og den hebraiske versjonen, skal den hebraiske versjonen ha forrang og erstatte denne oversettelsen i alle henseender, inkludert i eventuelle rettslige prosesser.
+
+1. Introduksjon og definisjoner
+
+1.1. Velkommen til "Talmify" (heretter: "Appen"). Appen drives og administreres av Michael Yefet, Fritatt forhandler (Osek Patur) nr. 314887050 (heretter: "Virksomheten" eller "Vi").
+
+1.2. Dette dokumentet (heretter: "Vilkårene") regulerer det juridiske forholdet mellom deg (heretter: "Brukeren") og Virksomheten. Nedlasting, installasjon eller bruk av Appen utgjør din fulle og forbeholdsløse aksept av disse Vilkårene og Personvernerklæringen. Hvis du ikke godtar noen av disse vilkårene, må du avslutte all bruk av Appen og avinstallere den umiddelbart.
+
+2. Tjenesten
+
+2.1. Appen fungerer som et verktøy for studieadministrasjon, kursopprettelse og sporing av hendelser, karakterer og oppmøte ("Tjenesten").
+
+2.2. Tjenesten leveres "Som den er" og "Som tilgjengelig", uten noen representasjon eller garanti, uttrykkelig eller underforstått, angående dens funksjonalitet, nøyaktighet, tilgjengelighet eller egnethet for et bestemt formål.
+
+2.3. Funksjoner med kunstig intelligens (Apple Intelligence):
+Appen bruker teknologier for kunstig intelligens og/eller språkmodeller levert av tredjeparter, for eksempel Apple Intelligence ("AI-funksjoner").
+(a) Utdata generert av AI-funksjoner produseres algoritmisk og kan være feil, unøyaktige eller upassende.
+(b) Det er ene og alene ditt ansvar å verifisere nøyaktigheten av informasjonen og bruken av den. Ikke stol på AI-utdata som en erstatning for profesjonell rådgivning eller uavhengig akademisk verifisering.
+(c) Virksomheten skal ikke holdes ansvarlig for noen direkte eller indirekte skade forårsaket av tillit til AI-utdata.
+
+3. Begrenset lisens
+
+Virksomheten gir deg en personlig, begrenset, ikke-eksklusiv og tilbakekallelig lisens til å bruke Appen kun til personlige og private formål. Kommersiell bruk, kopiering, omvendt utvikling eller distribusjon av Appen eller noen del av den er strengt forbudt.
+
+4. Rettslig handleevne og bruk av Appen
+
+4.1. Appen er beregnet for bruk av voksne med full rettslig handleevne (over 18 år).
+
+4.2. Hvis du er under 18 år ("Mindreårig") eller har fått oppnevnt en verge av en eller annen grunn, er din bruk av Appen, og spesielt utførelsen av betalingstransaksjoner (Kjøp i app), betinget av at du innhenter uttrykkelig godkjenning fra din verge til å utføre slike handlinger og til å akseptere disse Vilkårene.
+
+4.3. Ved å laste ned og bruke Appen erklærer og garanterer du at: (a) Du er voksen og juridisk kompetent til å utføre bindende rettshandlinger; eller (b) Du er en Mindreårig som har mottatt samtykke fra din verge til å inngå denne avtalen og bruke Appen.
+
+4.4. Ansvaret for tilsyn med Mindreårige og deres bruk av Appen ligger utelukkende hos vergen. Virksomheten ser på enhver bruk av Appen eller betaling gjort gjennom den som en handling lovlig godkjent av vergen.
+
+5. Abonnementer og kjøp i appen
+
+5.1. Bruk av visse funksjoner i Appen krever betaling av et fornybart abonnementsgebyr (månedlig eller årlig) eller en engangsbetaling, som tilbudt i App Store.
+
+5.2. Automatisk fornyelse: Periodiske abonnementer vil automatisk fornyes ved slutten av hver faktureringsperiode med mindre du kansellerer den automatiske fornyelsen via dine Apple ID-kontoinnstillinger minst 24 timer før slutten av gjeldende periode.
+
+5.3. Betalingsadministrasjon: Alle betalingstransaksjoner behandles og administreres utelukkende av Apple Inc. Virksomheten har ikke tilgang til dine kredittkortdetaljer og kan ikke direkte behandle belastninger eller kreditter.
+
+5.4. Kanselleringer og refusjoner: Retningslinjene for kansellering og refusjon er utelukkende underlagt vilkårene for Apple App Store. Enhver forespørsel om refusjon må rettes til Apple. Virksomheten er ikke autorisert og er teknisk ute av stand til å godkjenne eller utstede refusjoner.
+
+6. Åndsverk
+
+Alle immaterielle rettigheter i Appen (inkludert kode, design, logoer og varemerker) tilhører utelukkende Virksomheten. Ingenting i disse Vilkårene gir Brukeren noen rettigheter til Virksomhetens åndsverk.
+
+7. Data-backup og iCloud
+
+Appen tillater sikkerhetskopiering av data til Apples iCloud-tjeneste. Denne tjenesten er ekstern og drives av en tredjepart. Virksomheten er ikke ansvarlig for integriteten, lagringen eller gjenopprettingen av sikkerhetskopien. Brukeren er eneansvarlig for å sikkerhetskopiere dataene sine.
+
+8. Begrensning av ansvar
+
+8.1. Under ingen omstendigheter skal Virksomheten, dens ansatte eller noen på dens vegne holdes ansvarlig for noen direkte, indirekte, følgeskader, spesielle eller straffende skader (inkludert tap av data, tap av fortjeneste, mental angst osv.) som oppstår fra bruken eller manglende evne til å bruke Appen.
+
+8.2. Uten å fravike ovenstående, skal Virksomhetens maksimale og samlede ansvar overfor Brukeren, uansett årsak, være begrenset til beløpet som faktisk er betalt av Brukeren til Virksomheten i de tre månedene før hendelsen som forårsaket skaden, eller 50 NIS, hva som enn er lavest.
+
+9. Skadesløsholdelse
+
+Du godtar å skadesløsholde Virksomheten for enhver skade, tap eller utgift (inkludert juridiske gebyrer) påført den på grunn av ditt brudd på disse Vilkårene eller på grunn av skade forvoldt på en tredjepart.
+
+10. Jurisdiksjon og gjeldende lov
+
+Disse Vilkårene skal utelukkende reguleres av lovene i Staten Israel. Eksklusiv jurisdiksjon i enhver tvist er lagt til de kompetente domstolene i distriktet Tel Aviv-Yafo, Israel.
+
+11. Kontakt oss
+
+For juridiske henvendelser: legal@talmify.com

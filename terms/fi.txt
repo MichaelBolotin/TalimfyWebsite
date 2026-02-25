@@ -1,0 +1,74 @@
+KÄYTTÖEHDOT – TALMIFY-SOVELLUS
+
+Viimeksi päivitetty: Helmikuu 2026
+
+TÄRKEÄ OIKEUDELLINEN ILMOITUS:
+Tämä asiakirja on käännetty hepreasta vain mukavuussyistä. Sitova ja oikeudellisesti pätevä versio on ainoastaan hepreankielinen teksti. Mikäli tämän käännöksen ja hepreankielisen version välillä on ristiriitaa, eroavuutta tai epäjohdonmukaisuutta, hepreankielinen versio on ensisijainen ja korvaa tämän käännöksen kaikilta osin, mukaan lukien kaikissa oikeudenkäynneissä.
+
+1. Johdanto ja määritelmät
+
+1.1. Tervetuloa "Talmify"-palveluun (jäljempänä: "Sovellus"). Sovellusta ylläpitää ja hallinnoi Michael Yefet, vapautettu elinkeinonharjoittaja (Osek Patur) nro 314887050 (jäljempänä: "Yritys" tai "Me").
+
+1.2. Tämä asiakirja (jäljempänä: "Ehdot") säätelee sinun (jäljempänä: "Käyttäjä") ja Yrityksen välistä oikeussuhdetta. Sovelluksen lataaminen, asentaminen tai käyttäminen merkitsee näiden Ehtojen ja Tietosuojakäytännön täydellistä ja varauksetonta hyväksymistä. Jos et hyväksy jotakin näistä ehdoista, sinun on lopetettava kaikki Sovelluksen käyttö ja poistettava se välittömästi.
+
+2. Palvelu
+
+2.1. Sovellus toimii työkaluna opintojen hallintaan, kurssien luomiseen sekä tapahtumien, arvosanojen ja läsnäolon seurantaan ("Palvelu").
+
+2.2. Palvelu tarjotaan "sellaisena kuin se on" ja "saatavuuden mukaan", ilman minkäänlaista nimenomaista tai hiljaista vakuutusta tai takuuta sen toimivuudesta, tarkkuudesta, saatavuudesta tai soveltuvuudesta tiettyyn tarkoitukseen.
+
+2.3. Tekoälyominaisuudet (Apple Intelligence):
+Sovellus hyödyntää kolmansien osapuolten, kuten Apple Intelligencen, tarjoamia tekoälyteknologioita ja/tai kielimalleja ("AI-ominaisuudet").
+(a) AI-ominaisuuksien tuottamat tulosteet luodaan algoritmisesti, ja ne voivat olla virheellisiä, epätarkkoja tai sopimattomia.
+(b) Yksinomainen vastuu tietojen tarkkuuden tarkistamisesta ja niiden käytöstä on sinulla. Älä luota AI-tulosteisiin ammatillisen neuvonnan tai riippumattoman akateemisen varmistuksen korvikkeena.
+(c) Yritys ei ole vastuussa mistään suorista tai epäsuorista vahingoista, jotka aiheutuvat luottamisesta AI-tulosteisiin.
+
+3. Rajoitettu lisenssi
+
+Yritys myöntää sinulle henkilökohtaisen, rajoitetun, ei-yksinomaisen ja peruutettavissa olevan lisenssin käyttää Sovellusta vain henkilökohtaisiin ja yksityisiin tarkoituksiin. Sovelluksen tai sen osan kaupallinen käyttö, kopiointi, takaisinmallinnus tai jakelu on ehdottomasti kielletty.
+
+4. Oikeuskelpoisuus ja Sovelluksen käyttö
+
+4.1. Sovellus on tarkoitettu aikuisten käyttöön, joilla on täysi oikeuskelpoisuus (yli 18-vuotiaat).
+
+4.2. Jos olet alle 18-vuotias ("Alaikäinen") tai sinulle on jostain syystä määrätty laillinen huoltaja, Sovelluksen käyttösi ja erityisesti maksutapahtumien suorittaminen (Sovelluksen sisäiset ostot) edellyttää laillisen huoltajasi nimenomaista hyväksyntää tällaisten toimien suorittamiseen ja näiden Ehtojen hyväksymiseen.
+
+4.3. Lataamalla ja käyttämällä Sovellusta vakuutat ja takaat, että: (a) Olet aikuinen ja oikeudellisesti pätevä suorittamaan sitovia oikeustoimia; tai (b) Olet Alaikäinen, joka on saanut laillisen huoltajansa suostumuksen tähän sopimukseen sitoutumiseen ja Sovelluksen käyttöön.
+
+4.4. Vastuu Alaikäisten valvonnasta ja heidän Sovelluksen käytöstään on yksinomaan laillisella huoltajalla. Yritys katsoo, että kaikki Sovelluksen käyttö tai sen kautta suoritetut maksut ovat laillisen huoltajan laillisesti hyväksymiä toimia.
+
+5. Tilaukset ja Sovelluksen sisäiset ostot
+
+5.1. Sovelluksen tiettyjen ominaisuuksien käyttö edellyttää uusiutuvan tilausmaksun (kuukausittain tai vuosittain) tai kertamaksun maksamista App Storessa tarjotulla tavalla.
+
+5.2. Automaattinen uusiminen: Määräaikaiset tilaukset uusiutuvat automaattisesti kunkin laskutuskauden lopussa, ellet peruuta automaattista uusimista Apple ID -tilisi asetusten kautta vähintään 24 tuntia ennen nykyisen kauden päättymistä.
+
+5.3. Maksujen hallinta: Kaikki maksutapahtumat käsittelee ja hallinnoi yksinomaan Apple Inc. Yrityksellä ei ole pääsyä luottokorttitietoihisi, eikä se voi suoraan käsitellä veloituksia tai hyvityksiä.
+
+5.4. Peruutukset ja palautukset: Peruutus- ja palautuskäytäntö on yksinomaan Apple App Storen käyttöehtojen alainen. Kaikki palautuspyynnöt on osoitettava Applelle. Yritys ei ole valtuutettu eikä teknisesti kykenevä hyväksymään tai myöntämään palautuksia.
+
+6. Immateriaalioikeudet
+
+Kaikki Sovelluksen immateriaalioikeudet (mukaan lukien koodi, suunnittelu, logot ja tavaramerkit) kuuluvat yksinomaan Yritykselle. Mikään näissä Ehdoissa ei myönnä Käyttäjälle mitään oikeuksia Yrityksen immateriaalioikeuksiin.
+
+7. Tietojen varmuuskopiointi ja iCloud
+
+Sovellus mahdollistaa tietojen varmuuskopioinnin Applen iCloud-palveluun. Tämä palvelu on ulkoinen ja kolmannen osapuolen ylläpitämä. Yritys ei ole vastuussa varmuuskopion eheydestä, tallennuksesta tai palauttamisesta. Käyttäjä on yksin vastuussa tietojensa varmuuskopioinnista.
+
+8. Vastuunrajoitus
+
+8.1. Yritys, sen työntekijät tai kukaan sen puolesta toimiva ei ole missään tapauksessa vastuussa mistään suorista, epäsuorista, välillisistä, erityisistä tai rangaistusluonteisista vahingoista (mukaan lukien tietojen menetys, voiton menetys, henkinen kärsimys jne.), jotka johtuvat Sovelluksen käytöstä tai käytön estymisestä.
+
+8.2. Rajoittamatta edellä mainittua, Yrityksen enimmäis- ja kokonaisvastuu Käyttäjää kohtaan, mistä tahansa syystä, rajoittuu määrään, jonka Käyttäjä on tosiasiallisesti maksanut Yritykselle vahingon aiheuttanutta tapahtumaa edeltäneiden kolmen kuukauden aikana, tai 50 NIS:iin, riippuen siitä, kumpi on pienempi.
+
+9. Vahingonkorvaus
+
+Sitoudut korvaamaan Yritykselle kaikki vahingot, menetykset tai kulut (mukaan lukien oikeudenkäyntikulut), jotka aiheutuvat sille näiden Ehtojen rikkomisesta tai kolmannelle osapuolelle aiheutetusta vahingosta.
+
+10. Tuomiovalta ja sovellettava laki
+
+Näihin Ehtoihin sovelletaan yksinomaan Israelin valtion lakeja. Yksinomainen tuomiovalta kaikissa riidoissa on Tel Aviv-Yafon alueen toimivaltaisilla tuomioistuimilla Israelissa.
+
+11. Ota yhteyttä
+
+Oikeudelliset tiedustelut: legal@talmify.com

@@ -1,0 +1,74 @@
+TERMENI DE UTILIZARE – APLICAȚIA TALMIFY
+
+Ultima actualizare: Februarie 2026
+
+NOTIFICARE LEGALĂ IMPORTANTĂ:
+Acest document a fost tradus din ebraică doar în scopuri de comoditate. Versiunea obligatorie și valabilă din punct de vedere legal este exclusiv textul în ebraică. În orice caz de contradicție, discrepanță sau neconcordanță între această traducere și versiunea ebraică, versiunea ebraică va prevala și va înlocui această traducere în toate privințele, inclusiv în orice proceduri legale.
+
+1. Introducere și Definiții
+
+1.1. Bine ați venit la „Talmify” (în continuare: „Aplicația”). Aplicația este operată și gestionată de Michael Yefet, Comerciant Scutit (Osek Patur) Nr. 314887050 (în continuare: „Afacerea” sau „Noi”).
+
+1.2. Acest document (în continuare: „Termenii”) guvernează relația juridică dintre dumneavoastră (în continuare: „Utilizatorul”) și Afacere. Descărcarea, instalarea sau utilizarea Aplicației constituie acordul dumneavoastră deplin și necondiționat cu acești Termeni și cu Politica de Confidențialitate. Dacă nu sunteți de acord cu oricare dintre acești termeni, trebuie să încetați orice utilizare a Aplicației și să o dezinstalați imediat.
+
+2. Serviciul
+
+2.1. Aplicația servește ca un instrument pentru gestionarea studiilor, crearea de cursuri și urmărirea evenimentelor, notelor și prezenței („Serviciul”).
+
+2.2. Serviciul este furnizat „Ca atare” și „Așa cum este disponibil”, fără nicio reprezentare sau garanție, expresă sau implicită, cu privire la funcționalitatea, acuratețea, disponibilitatea sau adecvarea sa pentru un anumit scop.
+
+2.3. Funcționalități de Inteligență Artificială (Apple Intelligence):
+Aplicația utilizează tehnologii de Inteligență Artificială și/sau modele lingvistice furnizate de terți, cum ar fi Apple Intelligence („Funcționalități AI”).
+(a) Rezultatele generate de Funcționalitățile AI sunt produse algoritmic și pot fi incorecte, inexacte sau nepotrivite.
+(b) Responsabilitatea exclusivă pentru verificarea acurateței informațiilor și utilizarea acestora vă revine dumneavoastră. Nu vă bazați pe rezultatele AI ca substitut pentru sfaturi profesionale sau verificare academică independentă.
+(c) Afacerea nu va fi răspunzătoare pentru nicio daună directă sau indirectă cauzată de încrederea în rezultatele AI.
+
+3. Licență Limitată
+
+Afacerea vă acordă o licență personală, limitată, neexclusivă și revocabilă pentru a utiliza Aplicația doar în scopuri personale și private. Utilizarea comercială, copierea, ingineria inversă sau distribuirea Aplicației sau a oricărei părți a acesteia este strict interzisă.
+
+4. Capacitatea Juridică și Utilizarea Aplicației
+
+4.1. Aplicația este destinată utilizării de către adulți cu capacitate juridică deplină (peste 18 ani).
+
+4.2. Dacă aveți sub 18 ani („Minor”) sau vi s-a numit un Tutore Legal din orice motiv, utilizarea de către dumneavoastră a Aplicației, și în special executarea tranzacțiilor de plată (Achiziții în Aplicație), este condiționată de obținerea aprobării explicite de la Tutorele dumneavoastră Legal pentru a efectua astfel de acțiuni și pentru a accepta acești Termeni.
+
+4.3. Prin descărcarea și utilizarea Aplicației, declarați și garantați că: (a) Sunteți adult și competent din punct de vedere legal pentru a efectua acțiuni juridice obligatorii; sau (b) Sunteți un Minor care a primit consimțământul Tutorelui său Legal pentru a încheia acest acord și a utiliza Aplicația.
+
+4.4. Responsabilitatea pentru supravegherea Minorilor și utilizarea de către aceștia a Aplicației revine exclusiv Tutorelui Legal. Afacerea consideră orice utilizare a Aplicației sau plată efectuată prin intermediul acesteia ca o acțiune aprobată legal de către Tutorele Legal.
+
+5. Abonamente și Achiziții în Aplicație
+
+5.1. Utilizarea anumitor funcționalități ale Aplicației necesită plata unei taxe de abonament reînnoibile (lunar sau anual) sau o plată unică, așa cum este oferită în App Store.
+
+5.2. Reînnoire Automată: Abonamentele periodice se vor reînnoi automat la sfârșitul fiecărei perioade de facturare, cu excepția cazului în care anulați reînnoirea automată prin setările contului dumneavoastră Apple ID cu cel puțin 24 de ore înainte de sfârșitul perioadei curente.
+
+5.3. Gestionarea Plăților: Toate tranzacțiile de plată sunt procesate și gestionate exclusiv de Apple Inc. Afacerea nu are acces la detaliile cardului dumneavoastră de credit și nu poate procesa direct taxe sau credite.
+
+5.4. Anulări și Rambursări: Politica de anulare și rambursare este supusă exclusiv Termenilor de Serviciu ai Apple App Store. Orice cerere de rambursare trebuie adresată către Apple. Afacerea nu este autorizată și este tehnic incapabilă să aprobe sau să emită rambursări.
+
+6. Proprietate Intelectuală
+
+Toate drepturile de proprietate intelectuală din Aplicație (inclusiv codul, designul, logo-urile și mărcile comerciale) aparțin exclusiv Afacerii. Nimic din acești Termeni nu acordă Utilizatorului niciun drept asupra proprietății intelectuale a Afacerii.
+
+7. Copie de Rezervă a Datelor și iCloud
+
+Aplicația permite copierea de rezervă a datelor în serviciul iCloud al Apple. Acest serviciu este extern și operat de o terță parte. Afacerea nu este responsabilă pentru integritatea, stocarea sau restaurarea copiei de rezervă. Utilizatorul este singurul responsabil pentru copierea de rezervă a datelor sale.
+
+8. Limitarea Răspunderii
+
+8.1. În niciun caz Afacerea, angajații săi sau oricine acționează în numele său nu va fi răspunzător pentru nicio daună directă, indirectă, consecventă, specială sau punitivă (inclusiv pierderea de date, pierderea de profituri, suferință mentală etc.) care rezultă din utilizarea sau incapacitatea de a utiliza Aplicația.
+
+8.2. Fără a deroga de la cele de mai sus, răspunderea maximă și totală a Afacerii față de Utilizator, din orice cauză, va fi limitată la suma plătită efectiv de Utilizator către Afacere în cele trei luni premergătoare evenimentului care a cauzat dauna, sau 50 NIS, oricare dintre acestea este mai mică.
+
+9. Despăgubire
+
+Sunteți de acord să despăgubiți Afacerea pentru orice daună, pierdere sau cheltuială (inclusiv taxe legale) cauzată acesteia din cauza încălcării de către dumneavoastră a acestor Termeni sau din cauza daunelor cauzate unei terțe părți.
+
+10. Jurisdicție și Legea Guvernantă
+
+Acești Termeni vor fi guvernați exclusiv de legile Statului Israel. Jurisdicția exclusivă în orice dispută este învestită în instanțele competente din Districtul Tel Aviv-Yafo, Israel.
+
+11. Contactați-ne
+
+Pentru întrebări legale: legal@talmify.com
