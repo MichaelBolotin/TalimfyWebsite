@@ -1,0 +1,24 @@
+PERNYATAAN AKSESIBILITAS – APLIKASI TALMIFY
+
+Terakhir Diperbarui: Februari 2026
+
+PEMBERITAHUAN HUKUM PENTING:
+Dokumen ini telah diterjemahkan dari bahasa Ibrani hanya untuk tujuan kemudahan. Versi yang mengikat dan sah secara hukum adalah teks bahasa Ibrani saja. Dalam hal terjadi pertentangan, versi bahasa Ibrani yang akan berlaku.
+
+1. Status Hukum dan Pengecualian
+
+Michael Yefet ("Bisnis") adalah Pedagang Bebas (Osek Patur) yang terdaftar secara sah. Sesuai dengan Peraturan Persamaan Hak bagi Penyandang Disabilitas (Penyesuaian Aksesibilitas Layanan), 5773-2013, Bisnis dibebaskan dari kewajiban untuk melakukan penyesuaian aksesibilitas pada situs web dan aplikasi yang dioperasikan olehnya.
+
+2. Upaya Aksesibilitas Sukarela (Ex Gratia)
+
+Meskipun pengecualian penuh tersedia bagi Bisnis berdasarkan hukum, dan karena keinginan untuk memberikan pengalaman pengguna yang baik bagi semua pengguna, Bisnis menginvestasikan sumber daya dan upaya sukarela dalam membuat Aplikasi dapat diakses.
+Dalam konteks ini, Aplikasi dibangun menggunakan komponen standar yang memungkinkan dukungan parsial untuk teknologi bantu yang tersedia di sistem operasi (seperti VoiceOver dan pembesaran teks).
+
+3. Klarifikasi Hukum
+
+Upaya-upaya ini dilakukan secara ex gratia (di luar ketentuan hukum) dan tidak merupakan pengakuan atas kewajiban hukum apa pun. Aplikasi tidak berkewajiban untuk sepenuhnya mematuhi Standar Israel 5568 atau pedoman WCAG 2.0. Mungkin ada area, layar, atau fitur dalam Aplikasi yang belum sepenuhnya dibuat dapat diakses atau yang tidak kompatibel dengan semua jenis teknologi bantu.
+
+4. Pertanyaan Aksesibilitas
+
+Jika Anda mengalami kesulitan menggunakan Aplikasi, kami akan dengan senang hati menerima umpan balik untuk mencoba dan memperbaiki situasi dalam pembaruan di masa mendatang (tanpa komitmen terhadap jadwal waktu).
+Anda dapat menghubungi kami melalui email: legal@talmify.com

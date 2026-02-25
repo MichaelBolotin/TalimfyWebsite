@@ -1,0 +1,24 @@
+DECLARAȚIE DE ACCESIBILITATE – APLICAȚIA TALMIFY
+
+Ultima actualizare: Februarie 2026
+
+NOTIFICARE LEGALĂ IMPORTANTĂ:
+Acest document a fost tradus din ebraică doar în scopuri de comoditate. Versiunea obligatorie și valabilă din punct de vedere juridic este doar textul în ebraică. În orice caz de contradicție, versiunea în ebraică va prevala.
+
+1. Statutul juridic și scutirea
+
+Michael Yefet („Afacerea”) este un Comerciant Scutit (Osek Patur) înregistrat legal. În conformitate cu Regulamentele privind egalitatea de drepturi pentru persoanele cu dizabilități (Ajustări pentru accesibilitatea serviciilor), 5773-2013, Afacerea este scutită de obligația de a efectua ajustări de accesibilitate la site-ul web și aplicațiile operate de aceasta.
+
+2. Eforturi voluntare de accesibilitate (Ex Gratia)
+
+În ciuda scutirii complete disponibile pentru Afacere conform legii și din dorința de a oferi o experiență bună de utilizare pentru toți utilizatorii, Afacerea investește resurse și eforturi voluntare pentru a face Aplicația accesibilă.
+În acest context, Aplicația a fost construită folosind componente standard care permit suport parțial pentru tehnologiile de asistență disponibile în sistemul de operare (cum ar fi VoiceOver și mărirea textului).
+
+3. Clarificare juridică
+
+Aceste eforturi sunt efectuate ex gratia (dincolo de litera legii) și nu constituie o recunoaștere a vreunei obligații legale. Aplicația nu se angajează să respecte pe deplin Standardul Israelian 5568 sau liniile directoare WCAG 2.0. Pot exista zone, ecrane sau funcții în Aplicație care nu au fost încă făcute complet accesibile sau care nu sunt compatibile cu toate tipurile de tehnologii de asistență.
+
+4. Întrebări privind accesibilitatea
+
+Dacă întâmpinați dificultăți în utilizarea Aplicației, am fi bucuroși să primim feedback pentru a încerca să îmbunătățim situația în actualizările viitoare (fără angajament pentru un termen).
+Ne puteți contacta prin e-mail: legal@talmify.com

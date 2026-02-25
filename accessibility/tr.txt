@@ -1,0 +1,24 @@
+ERİŞİLEBİLİRLİK BEYANI – TALMIFY UYGULAMASI
+
+Son Güncelleme: Şubat 2026
+
+ÖNEMLİ YASAL UYARI:
+Bu belge yalnızca kolaylık sağlamak amacıyla İbranice'den çevrilmiştir. Bağlayıcı ve yasal olarak geçerli sürüm yalnızca İbranice metindir. Herhangi bir çelişki durumunda, İbranice sürüm geçerli olacaktır.
+
+1. Yasal Durum ve Muafiyet
+
+Michael Yefet ("İşletme"), yasal olarak kayıtlı bir Muaf Satıcıdır (Osek Patur). Engelli Kişiler için Eşit Haklar Yönetmeliği (Hizmet Erişilebilirlik Ayarlamaları), 5773-2013 uyarınca, İşletme, kendisi tarafından işletilen web sitesi ve uygulamalarda erişilebilirlik ayarlamaları yapma yükümlülüğünden muaftır.
+
+2. Gönüllü Erişilebilirlik Çabaları (Ex Gratia)
+
+Kanun kapsamında İşletmeye sağlanan tam muafiyete rağmen ve tüm kullanıcılar için iyi bir kullanıcı deneyimi sağlama arzusuyla, İşletme, Uygulamayı erişilebilir hale getirmek için gönüllü kaynaklar ve çabalar yatırmaktadır.
+Bu bağlamda, Uygulama, işletim sisteminde mevcut olan yardımcı teknolojiler (VoiceOver ve metin büyütme gibi) için kısmi desteğe izin veren standart bileşenler kullanılarak oluşturulmuştur.
+
+3. Yasal Açıklama
+
+Bu çabalar ex gratia (yasanın lafzının ötesinde) gerçekleştirilmektedir ve herhangi bir yasal yükümlülüğün kabulü anlamına gelmez. Uygulama, İsrail Standardı 5568 veya WCAG 2.0 yönergelerine tam olarak uymayı taahhüt etmez. Uygulamada henüz tam olarak erişilebilir hale getirilmemiş veya her türlü yardımcı teknolojiyle uyumlu olmayan alanlar, ekranlar veya özellikler olabilir.
+
+4. Erişilebilirlik Soruları
+
+Uygulamayı kullanmakta zorluk çekerseniz, gelecekteki güncellemelerde durumu iyileştirmeye çalışmak için geri bildirim almaktan memnuniyet duyarız (bir zaman çizelgesi taahhüdü olmaksızın).
+Bize e-posta yoluyla ulaşabilirsiniz: legal@talmify.com

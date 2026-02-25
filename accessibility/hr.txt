@@ -1,0 +1,24 @@
+IZJAVA O PRISTUPAČNOSTI – APLIKACIJA TALMIFY
+
+Zadnje ažuriranje: Veljača 2026.
+
+VAŽNA PRAVNA OBAVIJEST:
+Ovaj dokument preveden je s hebrejskog samo u svrhu pogodnosti. Obvezujuća i pravno valjana verzija je isključivo hebrejski tekst. U slučaju bilo kakvog proturječja, mjerodavna je hebrejska verzija.
+
+1. Pravni status i izuzeće
+
+Michael Yefet ("Posao") je zakonito registrirani oslobođeni trgovac (Osek Patur). U skladu s Pravilnikom o jednakim pravima za osobe s invaliditetom (Prilagodbe pristupačnosti usluga), 5773-2013, Posao je oslobođen obveze provođenja prilagodbi pristupačnosti na web stranici i aplikacijama kojima upravlja.
+
+2. Dobrovoljni napori za pristupačnost (Ex Gratia)
+
+Unatoč potpunom izuzeću dostupnom Poslu prema zakonu, i iz želje za pružanjem dobrog korisničkog iskustva za sve korisnike, Posao ulaže dobrovoljne resurse i napore u činjenje Aplikacije pristupačnom.
+U tom kontekstu, Aplikacija je izgrađena korištenjem standardnih komponenti koje omogućuju djelomičnu podršku za pomoćne tehnologije dostupne u operativnom sustavu (kao što su VoiceOver i povećanje teksta).
+
+3. Pravno pojašnjenje
+
+Ovi napori se provode ex gratia (izvan slova zakona) i ne predstavljaju priznanje bilo kakve pravne obveze. Aplikacija se ne obvezuje na potpunu usklađenost s izraelskim standardom 5568 ili smjernicama WCAG 2.0. Mogu postojati područja, zasloni ili značajke u Aplikaciji koje još nisu u potpunosti učinjene pristupačnima ili koje nisu kompatibilne sa svim vrstama pomoćnih tehnologija.
+
+4. Upiti o pristupačnosti
+
+Ako naiđete na poteškoće u korištenju Aplikacije, rado bismo primili povratne informacije kako bismo pokušali poboljšati situaciju u budućim ažuriranjima (bez obveze na vremenski okvir).
+Možete nas kontaktirati putem e-pošte: legal@talmify.com

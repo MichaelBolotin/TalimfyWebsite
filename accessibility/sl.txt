@@ -1,0 +1,24 @@
+IZJAVA O DOSTOPNOSTI – APLIKACIJA TALMIFY
+
+Zadnja posodobitev: februar 2026
+
+POMEMBNO PRAVNO OBVESTILO:
+Ta dokument je bil preveden iz hebrejščine samo za namene udobja. Zavezujoča in pravno veljavna različica je samo hebrejsko besedilo. V primeru kakršnega koli protislovja prevlada hebrejska različica.
+
+1. Pravni status in oprostitev
+
+Michael Yefet (»Podjetje«) je zakonito registriran oproščeni trgovec (Osek Patur). V skladu s Predpisi o enakih pravicah invalidov (Prilagoditve dostopnosti storitev), 5773-2013, je Podjetje oproščeno obveznosti izvajanja prilagoditev dostopnosti na spletni strani in v aplikacijah, ki jih upravlja.
+
+2. Prostovoljna prizadevanja za dostopnost (Ex Gratia)
+
+Kljub popolni oprostitvi, ki je Podjetju na voljo po zakonu, in iz želje po zagotavljanju dobre uporabniške izkušnje za vse uporabnike, Podjetje vlaga prostovoljna sredstva in prizadevanja, da bi bila Aplikacija dostopna.
+V tem okviru je bila Aplikacija zgrajena z uporabo standardnih komponent, ki omogočajo delno podporo za podporne tehnologije, ki so na voljo v operacijskem sistemu (kot sta VoiceOver in povečava besedila).
+
+3. Pravno pojasnilo
+
+Ta prizadevanja se izvajajo ex gratia (preko črke zakona) in ne predstavljajo priznanja kakršne koli pravne obveznosti. Aplikacija se ne zavezuje k popolni skladnosti z izraelskim standardom 5568 ali smernicami WCAG 2.0. V Aplikaciji so lahko področja, zasloni ali funkcije, ki še niso v celoti dostopni ali ki niso združljivi z vsemi vrstami podpornih tehnologij.
+
+4. Poizvedbe o dostopnosti
+
+Če naletite na težave pri uporabi Aplikacije, bomo veseli povratnih informacij, da bi poskušali izboljšati stanje v prihodnjih posodobitvah (brez zaveze glede časovnega okvira).
+Kontaktirate nas lahko po e-pošti: legal@talmify.com

@@ -1,0 +1,24 @@
+KENYATAAN KEBOLEHAKSESAN – APLIKASI TALMIFY
+
+Kemas Kini Terakhir: Februari 2026
+
+NOTIS UNDANG-UNDANG PENTING:
+Dokumen ini telah diterjemahkan daripada bahasa Ibrani untuk tujuan kemudahan sahaja. Versi yang mengikat dan sah di sisi undang-undang ialah teks bahasa Ibrani sahaja. Sekiranya berlaku sebarang percanggahan, versi bahasa Ibrani akan diguna pakai.
+
+1. Status Undang-undang dan Pengecualian
+
+Michael Yefet ("Perniagaan") ialah Peniaga Dikecualikan (Osek Patur) yang berdaftar secara sah. Selaras dengan Peraturan Hak Sama Rata untuk Orang Kurang Upaya (Pelarasan Kebolehaksesan Perkhidmatan), 5773-2013, Perniagaan dikecualikan daripada kewajipan untuk melakukan pelarasan kebolehaksesan pada laman web dan aplikasi yang dikendalikannya.
+
+2. Usaha Kebolehaksesan Sukarela (Ex Gratia)
+
+Walaupun terdapat pengecualian penuh yang tersedia untuk Perniagaan di bawah undang-undang, dan kerana keinginan untuk memberikan pengalaman pengguna yang baik untuk semua pengguna, Perniagaan melaburkan sumber dan usaha sukarela dalam menjadikan Aplikasi boleh diakses.
+Dalam konteks ini, Aplikasi dibina menggunakan komponen standard yang membenarkan sokongan separa untuk teknologi bantuan yang tersedia dalam sistem operasi (seperti VoiceOver dan pembesaran teks).
+
+3. Penjelasan Undang-undang
+
+Usaha ini dilakukan secara ex gratia (melebihi surat undang-undang) dan tidak merupakan pengakuan terhadap sebarang kewajipan undang-undang. Aplikasi tidak berjanji untuk mematuhi sepenuhnya Piawaian Israel 5568 atau garis panduan WCAG 2.0. Mungkin terdapat kawasan, skrin atau ciri dalam Aplikasi yang belum dijadikan boleh diakses sepenuhnya atau yang tidak serasi dengan semua jenis teknologi bantuan.
+
+4. Pertanyaan Kebolehaksesan
+
+Jika anda menghadapi kesukaran menggunakan Aplikasi, kami berbesar hati menerima maklum balas untuk mencuba dan memperbaiki keadaan dalam kemas kini akan datang (tanpa komitmen terhadap garis masa).
+Anda boleh menghubungi kami melalui e-mel: legal@talmify.com

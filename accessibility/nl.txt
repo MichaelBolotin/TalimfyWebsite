@@ -1,0 +1,24 @@
+TOEGANKELIJKHEIDSVERKLARING – TALMIFY APP
+
+Laatst bijgewerkt: februari 2026
+
+BELANGRIJKE JURIDISCHE KENNISGEVING:
+Dit document is uitsluitend voor gemaksdoeleinden vertaald uit het Hebreeuws. De bindende en juridisch geldige versie is alleen de Hebreeuwse tekst. In geval van tegenstrijdigheid prevaleert de Hebreeuwse versie.
+
+1. Juridische status en vrijstelling
+
+Michael Yefet (het "Bedrijf") is een wettig geregistreerde Vrijgestelde Handelaar (Osek Patur). In overeenstemming met de Regelgeving inzake Gelijke Rechten voor Personen met een Handicap (Aanpassingen Toegankelijkheid Diensten), 5773-2013, is het Bedrijf vrijgesteld van de verplichting om toegankelijkheidsaanpassingen uit te voeren aan de website en applicaties die door het Bedrijf worden beheerd.
+
+2. Vrijwillige inspanningen voor toegankelijkheid (Ex Gratia)
+
+Niettegenstaande de volledige vrijstelling die krachtens de wet voor het Bedrijf beschikbaar is, en vanuit de wens om alle gebruikers een goede gebruikerservaring te bieden, investeert het Bedrijf vrijwillige middelen en inspanningen om de App toegankelijk te maken.
+In deze context is de App gebouwd met behulp van standaardcomponenten die gedeeltelijke ondersteuning mogelijk maken voor ondersteunende technologieën die beschikbaar zijn in het besturingssysteem (zoals VoiceOver en tekstvergroting).
+
+3. Juridische verduidelijking
+
+Deze inspanningen worden ex gratia (buiten de letter van de wet) uitgevoerd en vormen geen erkenning van enige wettelijke verplichting. De App verplicht zich niet om volledig te voldoen aan de Israëlische Standaard 5568 of de WCAG 2.0-richtlijnen. Er kunnen gebieden, schermen of functies in de App zijn die nog niet volledig toegankelijk zijn gemaakt of die niet compatibel zijn met alle soorten ondersteunende technologieën.
+
+4. Vragen over toegankelijkheid
+
+Als u problemen ondervindt bij het gebruik van de App, ontvangen we graag feedback om te proberen de situatie in toekomstige updates te verbeteren (zonder verplichting tot een tijdlijn).
+U kunt contact met ons opnemen via e-mail: legal@talmify.com

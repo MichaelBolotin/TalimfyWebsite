@@ -1,0 +1,24 @@
+DÉCLARATION D'ACCESSIBILITÉ – APPLICATION TALMIFY
+
+Dernière mise à jour : Février 2026
+
+AVIS JURIDIQUE IMPORTANT :
+Ce document a été traduit de l'hébreu à des fins de commodité uniquement. La version contraignante et juridiquement valide est le texte hébreu seul. En cas de contradiction, la version hébreu prévaudra.
+
+1. Statut juridique et exemption
+
+Michael Yefet (l'« Entreprise ») est un commerçant exonéré (Osek Patur) légalement enregistré. Conformément aux Règlements sur l'égalité des droits pour les personnes handicapées (Ajustements d'accessibilité des services), 5773-2013, l'Entreprise est exemptée de l'obligation d'effectuer des ajustements d'accessibilité au site Web et aux applications qu'elle exploite.
+
+2. Efforts d'accessibilité volontaires (Ex Gratia)
+
+Nonobstant l'exemption complète dont dispose l'Entreprise en vertu de la loi, et par désir d'offrir une bonne expérience utilisateur à tous les utilisateurs, l'Entreprise investit des ressources et des efforts volontaires pour rendre l'Application accessible.
+Dans ce contexte, l'Application a été construite en utilisant des composants standard qui permettent un support partiel des technologies d'assistance disponibles dans le système d'exploitation (telles que VoiceOver et l'agrandissement du texte).
+
+3. Clarification juridique
+
+Ces efforts sont effectués ex gratia (au-delà de la lettre de la loi) et ne constituent pas une admission d'une quelconque obligation légale. L'Application ne s'engage pas à se conformer pleinement à la norme israélienne 5568 ou aux directives WCAG 2.0. Il peut y avoir des zones, des écrans ou des fonctionnalités dans l'Application qui n'ont pas encore été entièrement rendus accessibles ou qui ne sont pas compatibles avec tous les types de technologies d'assistance.
+
+4. Demandes d'accessibilité
+
+Si vous rencontrez des difficultés lors de l'utilisation de l'Application, nous serions heureux de recevoir vos commentaires pour essayer d'améliorer la situation dans les futures mises à jour (sans engagement de calendrier).
+Vous pouvez nous contacter par courriel : legal@talmify.com
