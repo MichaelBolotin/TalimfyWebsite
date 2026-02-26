@@ -7,9 +7,11 @@ Bu belge, yalnızca kolaylık sağlamak amacıyla [[İbranice'den çevrilmiştir
 
 1. Giriş ve Tanımlar
 
-1.1. "Talmify"a (bundan böyle: "Uygulama") hoş geldiniz. Uygulama, Michael Yefet, Muaf Satıcı (Osek Patur) No. 314887050 (bundan böyle: "İşletme" veya "Biz") tarafından işletilmekte ve yönetilmektedir.
+1.1. "Talmify"a hoş geldiniz. Bu şartlar, "Talmify" Uygulamasının ve eşlik eden web sitesinin kullanımı için geçerlidir (bundan böyle topluca: "Uygulama" veya "Hizmet"). Hizmet, 314887050 numaralı Muaf Satıcı (Osek Patur) Michael Yefet tarafından işletilmekte ve yönetilmektedir (bundan böyle: "İşletme").
 
-1.2. Bu belge (bundan böyle: "Koşullar"), siz (bundan böyle: "Kullanıcı") ile İşletme arasındaki yasal ilişkiyi düzenler. Uygulamayı indirmek, yüklemek veya kullanmak, bu Koşulları ve Gizlilik Politikasını tam ve kayıtsız şartsız kabul ettiğiniz anlamına gelir. Bu koşullardan herhangi birini kabul etmiyorsanız, Uygulamanın tüm kullanımını durdurmalı ve derhal kaldırmalısınız.
+1.2. Bu belge (bundan böyle: "Şartlar"), sizinle İşletme arasındaki yasal ilişkiyi düzenler. Web sitesine göz atmak, Uygulamayı indirmek veya bunların herhangi bir şekilde kullanımı, bu Şartları ve Gizlilik Politikasını tam olarak kabul ettiğiniz anlamına gelir.
+
+1.3. Web sitesinde sunulan bilgiler yalnızca pazarlama ve bilgilendirme amaçlıdır. Web sitesi içeriği ile Uygulamanın App Store'daki fiili işlevselliği arasında herhangi bir tutarsızlık olması durumunda, Uygulama geçerli olacaktır.
 
 2. Hizmet
 
@@ -17,11 +19,12 @@ Bu belge, yalnızca kolaylık sağlamak amacıyla [[İbranice'den çevrilmiştir
 
 2.2. Hizmet, işlevselliği, doğruluğu, kullanılabilirliği veya belirli bir amaca uygunluğu konusunda açık veya zımni herhangi bir beyan veya garanti olmaksızın "Olduğu Gibi" ve "Mevcut Olduğu Gibi" sağlanmaktadır.
 
-2.3. Yapay Zeka (Apple Intelligence) Özellikleri:
-Uygulama, Apple Intelligence gibi üçüncü taraflarca sağlanan Yapay Zeka teknolojilerini ve/veya dil modellerini kullanır ("AI Özellikleri").
-(a) AI Özellikleri tarafından oluşturulan çıktılar algoritmik olarak üretilir ve yanlış, hatalı veya uygunsuz olabilir.
-(b) Bilgilerin doğruluğunu ve kullanımını doğrulama konusundaki tek sorumluluk size aittir. AI çıktılarına profesyonel tavsiye veya bağımsız akademik doğrulama yerine güvenmeyin.
-(c) İşletme, AI çıktılarına güvenilmesinden kaynaklanan doğrudan veya dolaylı herhangi bir zarardan sorumlu olmayacaktır.
+2.3. Yapay Zeka (Apple Intelligence) Özellikleri
+Uygulama, Apple Intelligence gibi üçüncü taraflarca sağlanan Yapay Zeka teknolojilerini ve/veya dil modellerini kullanır ("YZ Özellikleri").
+(a) Teknik Kullanılabilirlik: YZ Özellikleri yalnızca Apple Intelligence tarafından resmi olarak desteklenen cihazlarda, modellerde, işletim sistemi sürümlerinde ve dillerde mevcuttur. İşletme, bu özelliklerin her cihazda veya her dilde çalışacağını garanti etmez. Uygulamayı indirmeden veya bir satın alma işlemi yapmadan önce cihazınızın bu teknolojiye yönelik desteğini doğrulama sorumluluğu tamamen size aittir.
+(b) YZ Özellikleri tarafından oluşturulan çıktılar algoritmik olarak üretilir ve yanlış, hatalı veya uygunsuz olabilir.
+(c) YZ çıktılarına profesyonel tavsiye veya bağımsız akademik doğrulama yerine geçecek şekilde güvenmeyin.
+(d) İşletme, YZ çıktılarına güvenilmesi veya cihazınızda bulunmamaları nedeniyle oluşan doğrudan veya dolaylı hiçbir zarardan sorumlu tutulamaz.
 
 3. Sınırlı Lisans
 

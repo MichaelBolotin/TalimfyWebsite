@@ -7,9 +7,11 @@ DÔLEŽITÉ PRÁVNE UPOZORNENIE:
 
 1. Úvod a definície
 
-1.1. Vitajte v "Talmify" (ďalej len: "Aplikácia"). Aplikáciu prevádzkuje a spravuje Michael Yefet, Oslobodený obchodník (Osek Patur) č. 314887050 (ďalej len: "Podnik" alebo "My").
+1.1. Vitajte v "Talmify". Tieto podmienky sa vzťahujú na používanie aplikácie "Talmify" a sprievodnej webovej stránky (ďalej spoločne len: "Aplikácia" alebo "Služba"). Službu prevádzkuje Michael Yefet, Oslobodený obchodník č. 314887050 (ďalej len: "Podnik").
 
-1.2. Tento dokument (ďalej len: "Podmienky") upravuje právny vzťah medzi vami (ďalej len: "Používateľ") a Podnikom. Stiahnutie, inštalácia alebo používanie Aplikácie predstavuje váš úplný a bezvýhradný súhlas s týmito Podmienkami a Zásadami ochrany osobných údajov. Ak nesúhlasíte s ktoroukoľvek z týchto podmienok, musíte okamžite prestať používať Aplikáciu a odinštalovať ju.
+1.2. Tento dokument (ďalej len: "Podmienky") upravuje právny vzťah medzi vami a Podnikom. Prehliadanie webovej stránky, stiahnutie Aplikácie alebo akékoľvek jej použitie predstavuje váš plný súhlas s týmito Podmienkami a Zásadami ochrany osobných údajov.
+
+1.3. Informácie uvedené na webovej stránke slúžia len na marketingové a informačné účely. V prípade akéhokoľvek rozporu medzi obsahom webovej stránky a skutočnou funkčnosťou Aplikácie v App Store má prednosť Aplikácia.
 
 2. Služba
 
@@ -17,11 +19,12 @@ DÔLEŽITÉ PRÁVNE UPOZORNENIE:
 
 2.2. Služba je poskytovaná "tak, ako je" a "ako je k dispozícii", bez akéhokoľvek vyhlásenia alebo záruky, výslovnej alebo predpokladanej, týkajúcej sa jej funkčnosti, presnosti, dostupnosti alebo vhodnosti na konkrétny účel.
 
-2.3. Funkcie umelej inteligencie (Apple Intelligence):
+2.3. Funkcie umelej inteligencie (Apple Intelligence)
 Aplikácia využíva technológie umelej inteligencie a/alebo jazykové modely poskytované tretími stranami, ako je Apple Intelligence ("Funkcie AI").
-(a) Výstupy generované Funkciami AI sú vytvárané algoritmicky a môžu byť nesprávne, nepresné alebo nevhodné.
-(b) Výhradná zodpovednosť za overenie presnosti informácií a ich použitie spočíva na vás. Nespoliehajte sa na výstupy AI ako na náhradu za odborné poradenstvo alebo nezávislé akademické overenie.
-(c) Podnik nebude zodpovedný za žiadne priame alebo nepriame škody spôsobené spoliehaním sa na výstupy AI.
+(a) Technická dostupnosť: Funkcie AI sú k dispozícii výhradne na zariadeniach, modeloch, verziách operačného systému a jazykoch oficiálne podporovaných spoločnosťou Apple Intelligence. Podnik nezaručuje, že tieto funkcie budú fungovať na každom zariadení alebo v každom jazyku. Zodpovednosť za overenie podpory tejto technológie vaším zariadením leží výhradne na vás pred stiahnutím Aplikácie alebo vykonaním nákupu.
+(b) Výstupy generované funkciami AI sú vytvárané algoritmicky a môžu byť nesprávne, nepresné alebo nevhodné.
+(c) Nespoliehajte sa na výstupy AI ako na náhradu za odborné poradenstvo alebo nezávislé akademické overenie.
+(d) Podnik nenesie zodpovednosť za žiadne priame alebo nepriame škody spôsobené spoliehaním sa na výstupy AI alebo ich nedostupnosťou na vašom zariadení.
 
 3. Obmedzená licencia
 

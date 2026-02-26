@@ -7,9 +7,11 @@ Tài liệu này đã được [[dịch từ tiếng Do Thái]] chỉ nhằm m�
 
 1. Giới thiệu và Định nghĩa
 
-1.1. Chào mừng bạn đến với "Talmify" (sau đây gọi là: "Ứng dụng"). Ứng dụng được vận hành và quản lý bởi Michael Yefet, Đại lý được miễn thuế (Osek Patur) Số 314887050 (sau đây gọi là: "Doanh nghiệp" hoặc "Chúng tôi").
+1.1. Chào mừng bạn đến với "Talmify". Các điều khoản này áp dụng cho việc sử dụng Ứng dụng "Talmify" cũng như trang web đi kèm (sau đây gọi chung là: "Ứng dụng" hoặc "Dịch vụ"). Dịch vụ được vận hành bởi Michael Yefet, Đại lý Miễn thuế Số 314887050 (sau đây gọi là: "Doanh nghiệp").
 
-1.2. Tài liệu này (sau đây gọi là: "Điều khoản") điều chỉnh mối quan hệ pháp lý giữa bạn (sau đây gọi là: "Người dùng") và Doanh nghiệp. Việc tải xuống, cài đặt hoặc sử dụng Ứng dụng cấu thành sự đồng ý đầy đủ và không bảo lưu của bạn đối với các Điều khoản này và Chính sách quyền riêng tư. Nếu bạn không đồng ý với bất kỳ điều khoản nào trong số này, bạn phải ngừng mọi việc sử dụng Ứng dụng và gỡ cài đặt ngay lập tức.
+1.2. Tài liệu này (sau đây gọi là: "Điều khoản") điều chỉnh mối quan hệ pháp lý giữa bạn và Doanh nghiệp. Việc duyệt trang web, tải xuống Ứng dụng hoặc bất kỳ việc sử dụng nào đối với chúng đều cấu thành sự đồng ý hoàn toàn của bạn đối với các Điều khoản này và Chính sách Quyền riêng tư.
+
+1.3. Thông tin được trình bày trên trang web chỉ dành cho mục đích tiếp thị và thông tin. Trong bất kỳ trường hợp nào có sự khác biệt giữa nội dung trang web và chức năng thực tế của Ứng dụng trên App Store, Ứng dụng sẽ được ưu tiên.
 
 2. Dịch vụ
 
@@ -17,11 +19,12 @@ Tài liệu này đã được [[dịch từ tiếng Do Thái]] chỉ nhằm m�
 
 2.2. Dịch vụ được cung cấp "Nguyên trạng" và "Như sẵn có", không có bất kỳ tuyên bố hay bảo đảm nào, rõ ràng hay ngụ ý, liên quan đến chức năng, độ chính xác, tính khả dụng hoặc tính phù hợp cho một mục đích cụ thể.
 
-2.3. Các tính năng Trí tuệ nhân tạo (Apple Intelligence):
-Ứng dụng sử dụng các công nghệ Trí tuệ nhân tạo và/hoặc các mô hình ngôn ngữ do bên thứ ba cung cấp, chẳng hạn như Apple Intelligence ("Các tính năng AI").
-(a) Kết quả do Các tính năng AI tạo ra được sản xuất theo thuật toán và có thể không chính xác, không đúng hoặc không phù hợp.
-(b) Trách nhiệm duy nhất trong việc xác minh độ chính xác của thông tin và việc sử dụng thông tin đó thuộc về bạn. Không dựa vào kết quả AI để thay thế cho lời khuyên chuyên nghiệp hoặc xác minh học thuật độc lập.
-(c) Doanh nghiệp sẽ không chịu trách nhiệm cho bất kỳ thiệt hại trực tiếp hoặc gián tiếp nào do dựa vào kết quả AI.
+2.3. Các tính năng Trí tuệ Nhân tạo (Apple Intelligence)
+Ứng dụng sử dụng các công nghệ Trí tuệ Nhân tạo và/hoặc các mô hình ngôn ngữ được cung cấp bởi bên thứ ba, chẳng hạn như Apple Intelligence ("Tính năng AI").
+(a) Tính khả dụng về kỹ thuật: Các Tính năng AI chỉ khả dụng trên các thiết bị, kiểu máy, phiên bản hệ điều hành và ngôn ngữ được Apple Intelligence hỗ trợ chính thức. Doanh nghiệp không đảm bảo rằng các tính năng này sẽ hoạt động trên mọi thiết bị hoặc bằng mọi ngôn ngữ. Trách nhiệm xác minh sự hỗ trợ của thiết bị của bạn đối với công nghệ này hoàn toàn thuộc về bạn trước khi tải xuống Ứng dụng hoặc thực hiện mua hàng.
+(b) Các đầu ra do Tính năng AI tạo ra được sản xuất theo thuật toán và có thể không chính xác, sai lệch hoặc không phù hợp.
+(c) Không dựa vào đầu ra của AI thay thế cho lời khuyên chuyên nghiệp hoặc xác minh học thuật độc lập.
+(d) Doanh nghiệp sẽ không chịu trách nhiệm về bất kỳ thiệt hại trực tiếp hoặc gián tiếp nào do dựa vào đầu ra của AI hoặc do sự không khả dụng của chúng trên thiết bị của bạn.
 
 3. Giấy phép hạn chế
 

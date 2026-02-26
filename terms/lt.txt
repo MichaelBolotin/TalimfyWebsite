@@ -7,9 +7,11 @@ SVARBUS TEISINIS PRANEŠIMAS:
 
 1. Įvadas ir apibrėžimai
 
-1.1. Sveiki atvykę į „Talmify“ (toliau – „Programėlė“). Programėlę valdo ir administruoja Michael Yefet, Atleistas prekybininkas (Osek Patur) Nr. 314887050 (toliau – „Verslas“ arba „Mes“).
+1.1. Sveiki atvykę į „Talmify“. Šios sąlygos taikomos naudojantis programėle „Talmify“ ir lydinčia svetaine (toliau kartu: „Programėlė“ arba „Paslauga“). Paslaugą valdo Michael Yefet, Atleistas prekybininkas Nr. 314887050 (toliau: „Verslas“).
 
-1.2. Šis dokumentas (toliau – „Sąlygos“) reglamentuoja teisinius santykius tarp jūsų (toliau – „Vartotojas“) ir Verslo. Programėlės atsisiuntimas, įdiegimas ar naudojimas reiškia jūsų visišką ir besąlygišką sutikimą su šiomis Sąlygomis ir Privatumo politika. Jei nesutinkate su kuria nors iš šių sąlygų, privalote nutraukti bet kokį Programėlės naudojimą ir nedelsdami ją pašalinti.
+1.2. Šis dokumentas (toliau: „Sąlygos“) reglamentuoja teisinius santykius tarp jūsų ir Verslo. Naršymas svetainėje, Programėlės atsisiuntimas ar bet koks jų naudojimas reiškia jūsų visišką sutikimą su šiomis Sąlygomis ir Privatumo politika.
+
+1.3. Svetainėje pateikta informacija skirta tik rinkodaros ir informaciniais tikslais. Esant bet kokiam neatitikimui tarp svetainės turinio ir faktinio Programėlės funkcionalumo App Store, viršenybę turi Programėlė.
 
 2. Paslauga
 
@@ -17,11 +19,12 @@ SVARBUS TEISINIS PRANEŠIMAS:
 
 2.2. Paslauga teikiama „tokia, kokia yra“ ir „kaip prieinama“, be jokių pareiškimų ar garantijų, išreikštų ar numanomų, dėl jos funkcionalumo, tikslumo, prieinamumo ar tinkamumo konkrečiam tikslui.
 
-2.3. Dirbtinio intelekto („Apple Intelligence“) funkcijos:
-Programėlė naudoja Dirbtinio intelekto technologijas ir/arba kalbos modelius, kuriuos teikia trečiosios šalys, tokios kaip „Apple Intelligence“ („DI funkcijos“).
-(a) DI funkcijų generuojami rezultatai yra sukuriami algoritmiškai ir gali būti neteisingi, netikslūs ar netinkami.
-(b) Vienintelė atsakomybė už informacijos tikslumo ir jos naudojimo patikrinimą tenka jums. Nepasikliaukite DI rezultatais kaip profesionalių patarimų ar nepriklausomo akademinio patikrinimo pakaitalu.
-(c) Verslas nebus atsakingas už jokią tiesioginę ar netiesioginę žalą, atsiradusią dėl pasikliavimo DI rezultatais.
+2.3. Dirbtinio intelekto (Apple Intelligence) funkcijos
+Programėlė naudoja trečiųjų šalių, tokių kaip „Apple Intelligence“, teikiamas dirbtinio intelekto technologijas ir / arba kalbos modelius („DI funkcijos“).
+(a) Techninis prieinamumas: DI funkcijos prieinamos tik įrenginiuose, modeliuose, operacinės sistemos versijose ir kalbomis, kurias oficialiai palaiko „Apple Intelligence“. Verslas negarantuoja, kad šios funkcijos veiks kiekviename įrenginyje ar kiekviena kalba. Atsakomybė už jūsų įrenginio palaikymo šiai technologijai patikrinimą tenka tik jums prieš atsisiunčiant Programėlę ar atliekant pirkimą.
+(b) DI funkcijų sugeneruoti rezultatai yra sukuriami algoritmiškai ir gali būti neteisingi, netikslūs ar netinkami.
+(c) Nepasikliaukite DI rezultatais kaip profesionalių patarimų ar nepriklausomo akademinio patikrinimo pakaitalu.
+(d) Verslas neatsako už jokią tiesioginę ar netiesioginę žalą, atsiradusią dėl pasikliavimo DI rezultatais arba dėl jų neprieinamumo jūsų įrenginyje.
 
 3. Ribota licencija
 

@@ -7,9 +7,11 @@ Este documento ha sido [[traducido del hebreo]] solo para fines de conveniencia.
 
 1. Introducción y Definiciones
 
-1.1. Bienvenido a "Talmify" (en adelante: la "Aplicación"). La Aplicación es operada y administrada por Michael Yefet, Distribuidor Exento (Osek Patur) No. 314887050 (en adelante: el "Negocio" o "Nosotros").
+1.1. Bienvenido a "Talmify". Estos términos se aplican al uso de la aplicación "Talmify", así como al sitio web que la acompaña (en adelante, colectivamente: la "Aplicación" o el "Servicio"). El Servicio es operado por Michael Yefet, Distribuidor Exento N.º 314887050 (en adelante: el "Negocio").
 
-1.2. Este documento (en adelante: los "Términos") rige la relación legal entre usted (en adelante: el "Usuario") y el Negocio. Descargar, instalar o usar la Aplicación constituye su acuerdo total y sin reservas a estos Términos y la Política de Privacidad. Si no está de acuerdo con alguno de estos términos, debe cesar todo uso de la Aplicación y desinstalarla inmediatamente.
+1.2. Este documento (en adelante: los "Términos") regula la relación legal entre usted y el Negocio. La navegación por el sitio web, la descarga de la Aplicación o cualquier uso de los mismos constituye su total conformidad con estos Términos y la Política de Privacidad.
+
+1.3. La información presentada en el sitio web es únicamente para fines de marketing e informativos. En cualquier caso de discrepancia entre el contenido del sitio web y la funcionalidad real de la Aplicación en la App Store, prevalecerá la Aplicación.
 
 2. El Servicio
 
@@ -17,11 +19,12 @@ Este documento ha sido [[traducido del hebreo]] solo para fines de conveniencia.
 
 2.2. El Servicio se proporciona "Tal como es" y "Según disponibilidad", sin ninguna representación o garantía, expresa o implícita, con respecto a su funcionalidad, precisión, disponibilidad o idoneidad para un propósito particular.
 
-2.3. Funciones de Inteligencia Artificial (Apple Intelligence):
+2.3. Funciones de Inteligencia Artificial (Apple Intelligence)
 La Aplicación utiliza tecnologías de Inteligencia Artificial y/o modelos de lenguaje proporcionados por terceros, como Apple Intelligence ("Funciones de IA").
-(a) Los resultados generados por las Funciones de IA se producen algorítmicamente y pueden ser incorrectos, inexactos o inapropiados.
-(b) La responsabilidad exclusiva de verificar la precisión de la información y su uso recae en usted. No confíe en los resultados de la IA como sustituto de asesoramiento profesional o verificación académica independiente.
-(c) El Negocio no será responsable de ningún daño directo o indirecto causado por la confianza en los resultados de la IA.
+(a) Disponibilidad Técnica: Las Funciones de IA están disponibles exclusivamente en dispositivos, modelos, versiones del sistema operativo e idiomas oficialmente compatibles con Apple Intelligence. El Negocio no garantiza que estas funciones operen en todos los dispositivos o en todos los idiomas. La responsabilidad de verificar la compatibilidad de su dispositivo con esta tecnología recae únicamente en usted antes de descargar la Aplicación o realizar una compra.
+(b) Los resultados generados por las Funciones de IA se producen algorítmicamente y pueden ser incorrectos, inexactos o inapropiados.
+(c) No confíe en los resultados de la IA como sustituto de asesoramiento profesional o verificación académica independiente.
+(d) El Negocio no será responsable de ningún daño directo o indirecto causado por la confianza en los resultados de la IA o debido a su falta de disponibilidad en su dispositivo.
 
 3. Licencia Limitada
 

@@ -5,11 +5,13 @@ Senast uppdaterad: Februari 2026
 VIKTIGT JURIDISKT MEDDELANDE:
 Detta dokument har [[översatts från hebreiska]] endast för bekvämlighetens skull. Den bindande och juridiskt giltiga versionen är uteslutande den hebreiska texten. I händelse av någon motsägelse, avvikelse eller inkonsekvens mellan denna översättning och den hebreiska versionen, ska den hebreiska versionen ha företräde och ersätta denna översättning i alla avseenden, inklusive i eventuella rättsliga förfaranden.
 
-1. Introduktion och definitioner
+1. Introduktion och Definitioner
 
-1.1. Välkommen till "Talmify" (hädanefter: "Appen"). Appen drivs och förvaltas av Michael Yefet, Befriad handlare (Osek Patur) nr 314887050 (hädanefter: "Företaget" eller "Vi").
+1.1. Välkommen till "Talmify". Dessa villkor gäller för användningen av appen "Talmify" samt den tillhörande webbplatsen (hädanefter gemensamt: "Appen" eller "Tjänsten"). Tjänsten drivs av Michael Yefet, Undantagen Handlare nr 314887050 (hädanefter: "Företaget").
 
-1.2. Detta dokument (hädanefter: "Villkoren") reglerar det juridiska förhållandet mellan dig (hädanefter: "Användaren") och Företaget. Nedladdning, installation eller användning av Appen utgör ditt fullständiga och förbehållslösa godkännande av dessa Villkor och Integritetspolicyn. Om du inte godkänner något av dessa villkor måste du upphöra med all användning av Appen och avinstallera den omedelbart.
+1.2. Detta dokument (hädanefter: "Villkoren") reglerar det juridiska förhållandet mellan dig och Företaget. Att surfa på webbplatsen, ladda ner Appen eller någon användning därav utgör ditt fullständiga godkännande av dessa Villkor och Integritetspolicyn.
+
+1.3. Information som presenteras på webbplatsen är endast för marknadsförings- och informationsändamål. I händelse av bristande överensstämmelse mellan webbplatsens innehåll och Appens faktiska funktionalitet i App Store, ska Appen ha företräde.
 
 2. Tjänsten
 
@@ -17,11 +19,12 @@ Detta dokument har [[översatts från hebreiska]] endast för bekvämlighetens s
 
 2.2. Tjänsten tillhandahålls "i befintligt skick" och "i mån av tillgång", utan någon representation eller garanti, uttrycklig eller underförstådd, gällande dess funktionalitet, noggrannhet, tillgänglighet eller lämplighet för ett visst ändamål.
 
-2.3. Funktioner för artificiell intelligens (Apple Intelligence):
-Appen använder teknologier för artificiell intelligens och/eller språkmodeller som tillhandahålls av tredje part, såsom Apple Intelligence ("AI-funktioner").
-(a) Utdata som genereras av AI-funktioner produceras algoritmiskt och kan vara felaktiga, felaktiga eller olämpliga.
-(b) Det enda ansvaret för att verifiera informationens noggrannhet och dess användning ligger hos dig. Lita inte på AI-utdata som ett substitut för professionell rådgivning eller oberoende akademisk verifiering.
-(c) Företaget ska inte hållas ansvarigt för någon direkt eller indirekt skada som orsakats av tillit till AI-utdata.
+2.3. Artificiell Intelligens (Apple Intelligence) Funktioner
+Appen använder teknik för artificiell intelligens och/eller språkmodeller som tillhandahålls av tredje part, såsom Apple Intelligence ("AI-funktioner").
+(a) Teknisk tillgänglighet: AI-funktioner är tillgängliga uteslutande på enheter, modeller, operativsystemversioner och språk som officiellt stöds av Apple Intelligence. Företaget garanterar inte att dessa funktioner kommer att fungera på varje enhet eller på varje språk. Ansvaret för att verifiera din enhets stöd för denna teknik ligger uteslutande på dig innan du laddar ner Appen eller gör ett köp.
+(b) Utdata som genereras av AI-funktioner produceras algoritmiskt och kan vara felaktiga, felaktiga eller olämpliga.
+(c) Lita inte på AI-utdata som ersättning för professionell rådgivning eller oberoende akademisk verifiering.
+(d) Företaget ska inte hållas ansvarigt för någon direkt eller indirekt skada som orsakas av förlitan på AI-utdata eller på grund av deras otillgänglighet på din enhet.
 
 3. Begränsad licens
 
