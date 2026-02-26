@@ -5,11 +5,13 @@ Zadnja posodobitev: Februar 2026
 POMEMBNO PRAVNO OBVESTILO:
 [[Ta dokument je bil preveden iz hebrejščine samo za udobje. Zavezujoča in pravno veljavna različica je izključno hebrejsko besedilo. V primeru kakršnega koli protislovja, neskladja ali nedoslednosti med tem prevodom in hebrejsko različico, hebrejska različica prevlada in nadomesti ta prevod v vseh pogledih, vključno z vsemi pravnimi postopki.]]
 
-1. Uvod in opredelitve
+1. Uvod in definicije
 
-1.1. Dobrodošli v "Talmify" (v nadaljevanju: "Aplikacija"). Aplikacijo upravlja in vodi Michael Yefet, Oproščeni trgovec (Osek Patur) št. 314887050 (v nadaljevanju: "Podjetje" ali "Mi").
+1.1. Dobrodošli v "Talmify". Ti pogoji veljajo za uporabo aplikacije "Talmify" in spremljajočega spletnega mesta (v nadaljevanju skupaj: "Aplikacija" ali "Storitev"). Storitev upravlja Michael Yefet, Oproščeni trgovec št. 314887050 (v nadaljevanju: "Podjetje").
 
-1.2. Ta dokument (v nadaljevanju: "Pogoji") ureja pravno razmerje med vami (v nadaljevanju: "Uporabnik") in Podjetjem. Prenos, namestitev ali uporaba Aplikacije pomeni vaše popolno in brezpogojno strinjanje s temi Pogoji in Politiko zasebnosti. Če se ne strinjate s katerim koli od teh pogojev, morate prenehati z vsako uporabo Aplikacije in jo takoj odstraniti.
+1.2. Ta dokument (v nadaljevanju: "Pogoji") ureja pravno razmerje med vami in Podjetjem. Brskanje po spletnem mestu, prenos Aplikacije ali kakršna koli njihova uporaba pomeni vaše popolno strinjanje s temi Pogoji in Politiko zasebnosti.
+
+1.3. Informacije, predstavljene na spletnem mestu, so namenjene samo trženju in informiranju. V primeru kakršnega koli neskladja med vsebino spletnega mesta in dejansko funkcionalnostjo Aplikacije v App Store, prevlada Aplikacija.
 
 2. Storitev
 
@@ -17,11 +19,12 @@ POMEMBNO PRAVNO OBVESTILO:
 
 2.2. Storitev je na voljo "takšna, kot je" in "kot je na voljo", brez kakršnega koli zastopanja ali jamstva, izrecnega ali implicitnega, glede njene funkcionalnosti, točnosti, razpoložljivosti ali primernosti za določen namen.
 
-2.3. Funkcije umetne inteligence (Apple Intelligence):
+2.3. Funkcije umetne inteligence (Apple Intelligence)
 Aplikacija uporablja tehnologije umetne inteligence in/ali jezikovne modele, ki jih zagotavljajo tretje osebe, kot je Apple Intelligence ("AI funkcije").
-(a) Izhodi, ki jih ustvarijo AI funkcije, so proizvedeni algoritmično in so lahko napačni, netočni ali neprimerni.
-(b) Izključna odgovornost za preverjanje točnosti informacij in njihove uporabe je na vas. Ne zanašajte se na AI izhode kot nadomestilo za strokovni nasvet ali neodvisno akademsko preverjanje.
-(c) Podjetje ne odgovarja za nobeno neposredno ali posredno škodo, povzročeno z zanašanjem na AI izhode.
+(a) Tehnična razpoložljivost: AI funkcije so na voljo izključno na napravah, modelih, različicah operacijskega sistema in jezikih, ki jih uradno podpira Apple Intelligence. Podjetje ne jamči, da bodo te funkcije delovale na vsaki napravi ali v vskem jeziku. Odgovornost za preverjanje podpore vaše naprave za to tehnologijo je izključno vaša pred prenosom Aplikacije ali opravljanjem nakupa.
+(b) Izhodi, ki jih ustvarijo AI funkcije, so proizvedeni algoritmčino in so lahko napačni, netočni ali neprimerni.
+(c) Ne zanašajte se na AI izhode kot nadomestilo za strokovni nasvet ali neodvisno akademsko preverjanje.
+(d) Podjetje ne odgovarja za nobeno neposredno ali posredno škodo, povzročeno zaradi zanašanja na AI izhode ali zaradi njihove nerazpoložljivosti na vaši napravi.
 
 3. Omejena licenca
 

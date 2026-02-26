@@ -5,11 +5,13 @@ Ostatnia aktualizacja: Luty 2026
 WAŻNA INFORMACJA PRAWNA:
 Niniejszy dokument został [[przetłumaczony z języka hebrajskiego]] wyłącznie dla wygody. Wiążącą i prawnie ważną wersją jest wyłącznie tekst hebrajski. W przypadku jakiejkolwiek sprzeczności, rozbieżności lub niespójności między niniejszym tłumaczeniem a wersją hebrajską, wersja hebrajska ma pierwszeństwo i zastępuje niniejsze tłumaczenie we wszystkich aspektach, w tym w jakichkolwiek postępowaniach prawnych.
 
-1. Wprowadzenie i definicje
+1. Wstęp i Definicje
 
-1.1. Witamy w "Talmify" (dalej: "Aplikacja"). Aplikacja jest obsługiwana i zarządzana przez Michaela Yefeta, Zwolnionego Dealera (Osek Patur) nr 314887050 (dalej: "Firma" lub "My").
+1.1. Witamy w "Talmify". Niniejsze warunki dotyczą korzystania z aplikacji "Talmify" oraz towarzyszącej jej strony internetowej (dalej łącznie: "Aplikacja" lub "Usługa"). Usługa jest obsługiwana przez Michaela Yefeta, Zwolnionego Dealera nr 314887050 (dalej: "Firma").
 
-1.2. Niniejszy dokument (dalej: "Warunki") reguluje stosunek prawny między Tobą (dalej: "Użytkownik") a Firmą. Pobranie, instalacja lub korzystanie z Aplikacji stanowi Twoją pełną i bezwarunkową zgodę na niniejsze Warunki i Politykę Prywatności. Jeśli nie zgadzasz się z którymkolwiek z tych warunków, musisz zaprzestać wszelkiego korzystania z Aplikacji i natychmiast ją odinstalować.
+1.2. Niniejszy dokument (dalej: "Warunki") reguluje stosunki prawne między Tobą a Firmą. Przeglądanie strony internetowej, pobieranie Aplikacji lub jakiekolwiek korzystanie z nich stanowi pełną zgodę na niniejsze Warunki i Politykę Prywatności.
+
+1.3. Informacje przedstawione na stronie internetowej służą wyłącznie celom marketingowym i informacyjnym. W przypadku jakiejkolwiek rozbieżności między treścią strony internetowej a rzeczywistą funkcjonalnością Aplikacji w App Store, Aplikacja ma pierwszeństwo.
 
 2. Usługa
 
@@ -17,11 +19,12 @@ Niniejszy dokument został [[przetłumaczony z języka hebrajskiego]] wyłączni
 
 2.2. Usługa jest świadczona "taka, jaka jest" i "w miarę dostępności", bez żadnych oświadczeń ani gwarancji, wyraźnych lub dorozumianych, dotyczących jej funkcjonalności, dokładności, dostępności lub przydatności do określonego celu.
 
-2.3. Funkcje Sztucznej Inteligencji (Apple Intelligence):
-Aplikacja wykorzystuje technologie Sztucznej Inteligencji i/lub modele językowe dostarczane przez strony trzecie, takie jak Apple Intelligence ("Funkcje AI").
-(a) Dane wyjściowe generowane przez Funkcje AI są wytwarzane algorytmicznie i mogą być nieprawidłowe, niedokładne lub nieodpowiednie.
-(b) Wyłączna odpowiedzialność za weryfikację dokładności informacji i ich wykorzystania spoczywa na Tobie. Nie polegaj na wynikach AI jako substytucie profesjonalnej porady lub niezależnej weryfikacji akademickiej.
-(c) Firma nie ponosi odpowiedzialności za jakiekolwiek bezpośrednie lub pośrednie szkody spowodowane poleganiem na wynikach AI.
+2.3. Funkcje Sztucznej Inteligencji (Apple Intelligence)
+Aplikacja wykorzystuje technologie sztucznej inteligencji i/lub modele językowe dostarczane przez strony trzecie, takie jak Apple Intelligence ("Funkcje AI").
+(a) Dostępność techniczna: Funkcje AI są dostępne wyłącznie na urządzeniach, modelach, wersjach systemu operacyjnego i w językach oficjalnie obsługiwanych przez Apple Intelligence. Firma nie gwarantuje, że te funkcje będą działać na każdym urządzeniu lub w każdym języku. Odpowiedzialność za weryfikację obsługi tej technologii przez Twoje urządzenie spoczywa wyłącznie na Tobie przed pobraniem Aplikacji lub dokonaniem zakupu.
+(b) Dane wyjściowe generowane przez Funkcje AI są tworzone algorytmicznie i mogą być nieprawidłowe, niedokładne lub nieodpowiednie.
+(c) Nie polegaj na danych wyjściowych AI jako substytucie profesjonalnej porady lub niezależnej weryfikacji akademickiej.
+(d) Firma nie ponosi odpowiedzialności za jakiekolwiek bezpośrednie lub pośrednie szkody spowodowane poleganiem na danych wyjściowych AI lub z powodu ich niedostępności na Twoim urządzeniu.
 
 3. Ograniczona licencja
 

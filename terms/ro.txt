@@ -5,11 +5,13 @@ Ultima actualizare: Februarie 2026
 NOTIFICARE LEGALĂ IMPORTANTĂ:
 Acest document a fost [[tradus din ebraică]] doar în scopuri de comoditate. Versiunea obligatorie și valabilă din punct de vedere legal este exclusiv textul în ebraică. În orice caz de contradicție, discrepanță sau neconcordanță între această traducere și versiunea ebraică, versiunea ebraică va prevala și va înlocui această traducere în toate privințele, inclusiv în orice proceduri legale.
 
-1. Introducere și Definiții
+1. Introducere și definiții
 
-1.1. Bine ați venit la „Talmify” (în continuare: „Aplicația”). Aplicația este operată și gestionată de Michael Yefet, Comerciant Scutit (Osek Patur) Nr. 314887050 (în continuare: „Afacerea” sau „Noi”).
+1.1. Bine ați venit la "Talmify". Acești termeni se aplică utilizării aplicației "Talmify", precum și site-ului web însoțitor (denumite în continuare colectiv: "Aplicația" sau "Serviciul"). Serviciul este operat de Michael Yefet, Comerciant Scutit Nr. 314887050 (denumit în continuare: "Afacerea").
 
-1.2. Acest document (în continuare: „Termenii”) guvernează relația juridică dintre dumneavoastră (în continuare: „Utilizatorul”) și Afacere. Descărcarea, instalarea sau utilizarea Aplicației constituie acordul dumneavoastră deplin și necondiționat cu acești Termeni și cu Politica de Confidențialitate. Dacă nu sunteți de acord cu oricare dintre acești termeni, trebuie să încetați orice utilizare a Aplicației și să o dezinstalați imediat.
+1.2. Acest document (denumit în continuare: "Termenii") reglementează relația juridică dintre dvs. și Afacere. Navigarea pe site-ul web, descărcarea Aplicației sau orice utilizare a acestora constituie acordul dvs. deplin cu acești Termeni și cu Politica de confidențialitate.
+
+1.3. Informațiile prezentate pe site-ul web sunt doar în scopuri de marketing și informare. În orice caz de discrepanță între conținutul site-ului web și funcționalitatea reală a Aplicației în App Store, Aplicația va prevala.
 
 2. Serviciul
 
@@ -17,11 +19,12 @@ Acest document a fost [[tradus din ebraică]] doar în scopuri de comoditate. Ve
 
 2.2. Serviciul este furnizat „Ca atare” și „Așa cum este disponibil”, fără nicio reprezentare sau garanție, expresă sau implicită, cu privire la funcționalitatea, acuratețea, disponibilitatea sau adecvarea sa pentru un anumit scop.
 
-2.3. Funcționalități de Inteligență Artificială (Apple Intelligence):
-Aplicația utilizează tehnologii de Inteligență Artificială și/sau modele lingvistice furnizate de terți, cum ar fi Apple Intelligence („Funcționalități AI”).
-(a) Rezultatele generate de Funcționalitățile AI sunt produse algoritmic și pot fi incorecte, inexacte sau nepotrivite.
-(b) Responsabilitatea exclusivă pentru verificarea acurateței informațiilor și utilizarea acestora vă revine dumneavoastră. Nu vă bazați pe rezultatele AI ca substitut pentru sfaturi profesionale sau verificare academică independentă.
-(c) Afacerea nu va fi răspunzătoare pentru nicio daună directă sau indirectă cauzată de încrederea în rezultatele AI.
+2.3. Funcții de Inteligență Artificială (Apple Intelligence)
+Aplicația utilizează tehnologii de Inteligență Artificială și/sau modele lingvistice furnizate de terți, cum ar fi Apple Intelligence ("Funcții AI").
+(a) Disponibilitate tehnică: Funcțiile AI sunt disponibile exclusiv pe dispozitive, modele, versiuni de sistem de operare și limbi acceptate oficial de Apple Intelligence. Afacerea nu garantează că aceste funcții vor funcționa pe fiecare dispozitiv sau în fiecare limbă. Responsabilitatea de a verifica suportul dispozitivului dvs. pentru această tehnologie vă revine exclusiv înainte de a descărca Aplicația sau de a face o achiziție.
+(b) Rezultatele generate de Funcțiile AI sunt produse algoritmic și pot fi incorecte, inexacte sau neadecvate.
+(c) Nu vă bazați pe rezultatele AI ca substitut pentru sfaturi profesionale sau verificare academică independentă.
+(d) Afacerea nu va fi răspunzătoare pentru nicio daună directă sau indirectă cauzată de încrederea în rezultatele AI sau din cauza indisponibilității acestora pe dispozitivul dvs.
 
 3. Licență Limitată
 

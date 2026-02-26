@@ -5,11 +5,13 @@ Zuletzt aktualisiert: Februar 2026
 WICHTIGER RECHTLICHER HINWEIS:
 Dieses Dokument wurde nur zu Komfortzwecken [[aus dem Hebräischen übersetzt]]. Die verbindliche und rechtlich gültige Version ist allein der hebräische Text. Im Falle von Widersprüchen, Unstimmigkeiten oder Inkonsistenzen zwischen dieser Übersetzung und der hebräischen Version hat die hebräische Version Vorrang und ersetzt diese Übersetzung in jeder Hinsicht, auch in jeglichen Gerichtsverfahren.
 
-1. Einleitung und Definitionen
+1. Einführung und Definitionen
 
-1.1. Willkommen bei "Talmify" (im Folgenden: die "App"). Die App wird betrieben und verwaltet von Michael Yefet, Befreiter Händler (Osek Patur) Nr. 314887050 (im Folgenden: das "Unternehmen" oder "Wir").
+1.1. Willkommen bei "Talmify". Diese Bedingungen gelten für die Nutzung der "Talmify"-App sowie der begleitenden Website (im Folgenden gemeinsam: die "App" oder der "Dienst"). Der Dienst wird betrieben von Michael Yefet, steuerbefreiter Unternehmer Nr. 314887050 (im Folgenden: das "Unternehmen").
 
-1.2. Dieses Dokument (im Folgenden: die "Bedingungen") regelt das Rechtsverhältnis zwischen Ihnen (im Folgenden: der "Nutzer") und dem Unternehmen. Das Herunterladen, Installieren oder Nutzen der App stellt Ihre volle und vorbehaltlose Zustimmung zu diesen Bedingungen und der Datenschutzrichtlinie dar. Wenn Sie einer dieser Bedingungen nicht zustimmen, müssen Sie jegliche Nutzung der App einstellen und sie sofort deinstallieren.
+1.2. Dieses Dokument (im Folgenden: die "Bedingungen") regelt das Rechtsverhältnis zwischen Ihnen und dem Unternehmen. Das Surfen auf der Website, das Herunterladen der App oder jede Nutzung derselben stellt Ihre volle Zustimmung zu diesen Bedingungen und der Datenschutzrichtlinie dar.
+
+1.3. Die auf der Website präsentierten Informationen dienen nur zu Marketing- und Informationszwecken. Im Falle von Abweichungen zwischen dem Inhalt der Website und der tatsächlichen Funktionalität der App im App Store hat die App Vorrang.
 
 2. Der Dienst
 
@@ -17,11 +19,12 @@ Dieses Dokument wurde nur zu Komfortzwecken [[aus dem Hebräischen übersetzt]].
 
 2.2. Der Dienst wird "wie besehen" und "wie verfügbar" bereitgestellt, ohne jegliche Zusicherung oder Gewährleistung, ausdrücklich oder stillschweigend, hinsichtlich seiner Funktionalität, Genauigkeit, Verfügbarkeit oder Eignung für einen bestimmten Zweck.
 
-2.3. Funktionen der Künstlichen Intelligenz (Apple Intelligence):
-Die App nutzt Technologien der Künstlichen Intelligenz und/oder Sprachmodelle, die von Dritten bereitgestellt werden, wie z. B. Apple Intelligence ("KI-Funktionen").
-(a) Ausgaben, die von KI-Funktionen generiert werden, werden algorithmisch erstellt und können falsch, ungenau oder unangemessen sein.
-(b) Die alleinige Verantwortung für die Überprüfung der Genauigkeit der Informationen und deren Nutzung liegt bei Ihnen. Verlassen Sie sich nicht auf KI-Ausgaben als Ersatz für professionelle Beratung oder unabhängige akademische Überprüfung.
-(c) Das Unternehmen haftet nicht für direkte oder indirekte Schäden, die durch das Vertrauen auf KI-Ausgaben verursacht werden.
+2.3. Funktionen der Künstlichen Intelligenz (Apple Intelligence)
+Die App nutzt Technologien der Künstlichen Intelligenz und/oder Sprachmodelle, die von Dritten bereitgestellt werden, wie z.B. Apple Intelligence ("KI-Funktionen").
+(a) Technische Verfügbarkeit: KI-Funktionen sind ausschließlich auf Geräten, Modellen, Betriebssystemversionen und Sprachen verfügbar, die offiziell von Apple Intelligence unterstützt werden. Das Unternehmen garantiert nicht, dass diese Funktionen auf jedem Gerät oder in jeder Sprache funktionieren. Die Verantwortung, die Unterstützung Ihres Geräts für diese Technologie zu überprüfen, liegt allein bei Ihnen vor dem Herunterladen der App oder dem Tätigen eines Kaufs.
+(b) Die von KI-Funktionen generierten Ausgaben werden algorithmisch erzeugt und können falsch, ungenau oder unangemessen sein.
+(c) Verlassen Sie sich nicht auf KI-Ausgaben als Ersatz für professionelle Beratung oder unabhängige akademische Überprüfung.
+(d) Das Unternehmen haftet nicht für direkte oder indirekte Schäden, die durch das Vertrauen auf KI-Ausgaben oder aufgrund deren Nichtverfügbarkeit auf Ihrem Gerät entstehen.
 
 3. Eingeschränkte Lizenz
 

@@ -5,11 +5,13 @@ Viimeksi päivitetty: Helmikuu 2026
 TÄRKEÄ OIKEUDELLINEN ILMOITUS:
 Tämä asiakirja on [[käännetty hepreasta]] vain mukavuussyistä. Sitova ja oikeudellisesti pätevä versio on ainoastaan hepreankielinen teksti. Mikäli tämän käännöksen ja hepreankielisen version välillä on ristiriitaa, eroavuutta tai epäjohdonmukaisuutta, hepreankielinen versio on ensisijainen ja korvaa tämän käännöksen kaikilta osin, mukaan lukien kaikissa oikeudenkäynneissä.
 
-1. Johdanto ja määritelmät
+1. Johdanto ja Määritelmät
 
-1.1. Tervetuloa "Talmify"-palveluun (jäljempänä: "Sovellus"). Sovellusta ylläpitää ja hallinnoi Michael Yefet, vapautettu elinkeinonharjoittaja (Osek Patur) nro 314887050 (jäljempänä: "Yritys" tai "Me").
+1.1. Tervetuloa "Talmify"-sovellukseen. Nämä ehdot koskevat "Talmify"-sovelluksen sekä siihen liittyvän verkkosivuston käyttöä (jäljempänä yhdessä: "Sovellus" tai "Palvelu"). Palvelua ylläpitää Michael Yefet, vapautettu kauppias nro 314887050 (jäljempänä: "Yritys").
 
-1.2. Tämä asiakirja (jäljempänä: "Ehdot") säätelee sinun (jäljempänä: "Käyttäjä") ja Yrityksen välistä oikeussuhdetta. Sovelluksen lataaminen, asentaminen tai käyttäminen merkitsee näiden Ehtojen ja Tietosuojakäytännön täydellistä ja varauksetonta hyväksymistä. Jos et hyväksy jotakin näistä ehdoista, sinun on lopetettava kaikki Sovelluksen käyttö ja poistettava se välittömästi.
+1.2. Tämä asiakirja (jäljempänä: "Ehdot") säätelee sinun ja Yrityksen välistä oikeussuhdetta. Verkkosivuston selaaminen, Sovelluksen lataaminen tai mikä tahansa sen käyttö merkitsee täyttä suostumustasi näihin Ehtoihin ja Tietosuojakäytäntöön.
+
+1.3. Verkkosivustolla esitetyt tiedot ovat vain markkinointi- ja tiedotustarkoituksiin. Jos verkkosivuston sisällön ja App Storen Sovelluksen todellisen toiminnallisuuden välillä on ristiriitaa, Sovellus on ensisijainen.
 
 2. Palvelu
 
@@ -17,11 +19,12 @@ Tämä asiakirja on [[käännetty hepreasta]] vain mukavuussyistä. Sitova ja oi
 
 2.2. Palvelu tarjotaan "sellaisena kuin se on" ja "saatavuuden mukaan", ilman minkäänlaista nimenomaista tai hiljaista vakuutusta tai takuuta sen toimivuudesta, tarkkuudesta, saatavuudesta tai soveltuvuudesta tiettyyn tarkoitukseen.
 
-2.3. Tekoälyominaisuudet (Apple Intelligence):
+2.3. Tekoäly (Apple Intelligence) -ominaisuudet
 Sovellus hyödyntää kolmansien osapuolten, kuten Apple Intelligencen, tarjoamia tekoälyteknologioita ja/tai kielimalleja ("AI-ominaisuudet").
-(a) AI-ominaisuuksien tuottamat tulosteet luodaan algoritmisesti, ja ne voivat olla virheellisiä, epätarkkoja tai sopimattomia.
-(b) Yksinomainen vastuu tietojen tarkkuuden tarkistamisesta ja niiden käytöstä on sinulla. Älä luota AI-tulosteisiin ammatillisen neuvonnan tai riippumattoman akateemisen varmistuksen korvikkeena.
-(c) Yritys ei ole vastuussa mistään suorista tai epäsuorista vahingoista, jotka aiheutuvat luottamisesta AI-tulosteisiin.
+(a) Tekninen saatavuus: AI-ominaisuudet ovat saatavilla yksinomaan laitteissa, malleissa, käyttöjärjestelmäversioissa ja kielissä, joita Apple Intelligence virallisesti tukee. Yritys ei takaa, että nämä ominaisuudet toimivat kaikissa laitteissa tai kaikilla kielillä. Vastuu laitteesi tuen varmistamisesta tälle teknologialle on yksinomaan sinulla ennen Sovelluksen lataamista tai oston tekemistä.
+(b) AI-ominaisuuksien tuottamat tulosteet luodaan algoritmisesti ja ne voivat olla virheellisiä, epätarkkoja tai sopimattomia.
+(c) Älä luota AI-tulosteisiin korvaajana ammatilliselle neuvolle tai itsenäiselle akateemiselle varmennukselle.
+(d) Yritys ei ole vastuussa mistään suorista tai epäsuorista vahingoista, jotka aiheutuvat luottamisesta AI-tulosteisiin tai niiden saatavuuden puutteesta laitteellasi.
 
 3. Rajoitettu lisenssi
 

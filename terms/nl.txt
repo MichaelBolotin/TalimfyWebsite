@@ -7,9 +7,11 @@ Dit document is uitsluitend voor het gemak [[vertaald uit het Hebreeuws]]. De bi
 
 1. Inleiding en Definities
 
-1.1. Welkom bij "Talmify" (hierna: de "App"). De App wordt beheerd en geëxploiteerd door Michael Yefet, Vrijgestelde Handelaar (Osek Patur) Nr. 314887050 (hierna: de "Onderneming" of "Wij").
+1.1. Welkom bij "Talmify". Deze voorwaarden zijn van toepassing op het gebruik van de "Talmify" App evenals de bijbehorende website (hierna gezamenlijk: de "App" of de "Dienst"). De Dienst wordt beheerd door Michael Yefet, Vrijgestelde Handelaar Nr. 314887050 (hierna: het "Bedrijf").
 
-1.2. Dit document (hierna: de "Voorwaarden") regelt de juridische relatie tussen u (hierna: de "Gebruiker") en de Onderneming. Het downloaden, installeren of gebruiken van de App vormt uw volledige en onvoorwaardelijke instemming met deze Voorwaarden en het Privacybeleid. Als u niet akkoord gaat met een van deze voorwaarden, moet u elk gebruik van de App staken en deze onmiddellijk verwijderen.
+1.2. Dit document (hierna: de "Voorwaarden") regelt de juridische relatie tussen u en het Bedrijf. Het bezoeken van de website, het downloaden van de App of enig gebruik daarvan vormt uw volledige instemming met deze Voorwaarden en het Privacybeleid.
+
+1.3. Informatie op de website is uitsluitend bedoeld voor marketing- en informatieve doeleinden. In geval van tegenstrijdigheid tussen de inhoud van de website en de daadwerkelijke functionaliteit van de App in de App Store, prevaleert de App.
 
 2. De Dienst
 
@@ -17,11 +19,12 @@ Dit document is uitsluitend voor het gemak [[vertaald uit het Hebreeuws]]. De bi
 
 2.2. De Dienst wordt geleverd "Zoals het is" en "Zoals beschikbaar," zonder enige vertegenwoordiging of garantie, expliciet of impliciet, met betrekking tot de functionaliteit, nauwkeurigheid, beschikbaarheid of geschiktheid voor een bepaald doel.
 
-2.3. Kunstmatige Intelligentie (Apple Intelligence) Functies:
-De App maakt gebruik van Kunstmatige Intelligentie-technologieën en/of taalmodellen die door derden worden geleverd, zoals Apple Intelligence ("AI-functies").
-(a) Output gegenereerd door AI-functies wordt algoritmisch geproduceerd en kan onjuist, onnauwkeurig of ongepast zijn.
-(b) De exclusieve verantwoordelijkheid voor het verifiëren van de nauwkeurigheid van de informatie en het gebruik ervan ligt bij u. Vertrouw niet op AI-output als vervanging voor professioneel advies of onafhankelijke academische verificatie.
-(c) De Onderneming is niet aansprakelijk voor enige directe of indirecte schade veroorzaakt door het vertrouwen op AI-output.
+2.3. Kunstmatige Intelligentie (Apple Intelligence) Functies
+De App maakt gebruik van Kunstmatige Intelligentie technologieën en/of taalmodellen geleverd door derden, zoals Apple Intelligence ("AI Functies").
+(a) Technische Beschikbaarheid: AI Functies zijn uitsluitend beschikbaar op apparaten, modellen, besturingssysteemversies en talen die officieel worden ondersteund door Apple Intelligence. Het Bedrijf garandeert niet dat deze functies op elk apparaat of in elke taal zullen werken. De verantwoordelijkheid om de ondersteuning van uw apparaat voor deze technologie te verifiëren ligt uitsluitend bij u voorafgaand aan het downloaden van de App of het doen van een aankoop.
+(b) Output gegenereerd door AI Functies wordt algoritmisch geproduceerd en kan onjuist, onnauwkeurig of ongepast zijn.
+(c) Vertrouw niet op AI-output als vervanging voor professioneel advies of onafhankelijke academische verificatie.
+(d) Het Bedrijf is niet aansprakelijk voor enige directe of indirecte schade veroorzaakt door vertrouwen op AI-output of door de onbeschikbaarheid ervan op uw apparaat.
 
 3. Beperkte Licentie
 

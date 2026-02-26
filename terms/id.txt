@@ -7,9 +7,11 @@ Dokumen ini telah [[diterjemahkan dari bahasa Ibrani]] untuk tujuan kemudahan sa
 
 1. Pendahuluan dan Definisi
 
-1.1. Selamat datang di "Talmify" (selanjutnya disebut: "Aplikasi"). Aplikasi ini dioperasikan dan dikelola oleh Michael Yefet, Pedagang Bebas Pajak (Osek Patur) No. 314887050 (selanjutnya disebut: "Bisnis" atau "Kami").
+1.1. Selamat datang di "Talmify". Syarat-syarat ini berlaku untuk penggunaan Aplikasi "Talmify" serta situs web yang menyertainya (selanjutnya secara bersama-sama disebut: "Aplikasi" atau "Layanan"). Layanan ini dioperasikan oleh Michael Yefet, Dealer Bebas Pajak No. 314887050 (selanjutnya disebut: "Bisnis").
 
-1.2. Dokumen ini (selanjutnya disebut: "Syarat") mengatur hubungan hukum antara Anda (selanjutnya disebut: "Pengguna") dan Bisnis. Mengunduh, menginstal, atau menggunakan Aplikasi merupakan persetujuan penuh dan tanpa syarat Anda terhadap Syarat ini dan Kebijakan Privasi. Jika Anda tidak menyetujui salah satu dari syarat ini, Anda harus menghentikan semua penggunaan Aplikasi dan segera menghapusnya.
+1.2. Dokumen ini (selanjutnya disebut: "Ketentuan") mengatur hubungan hukum antara Anda dan Bisnis. Menjelajahi situs web, mengunduh Aplikasi, atau penggunaan apa pun darinya merupakan persetujuan penuh Anda terhadap Ketentuan ini dan Kebijakan Privasi.
+
+1.3. Informasi yang disajikan di situs web hanya untuk tujuan pemasaran dan informasi. Dalam hal terjadi perbedaan antara konten situs web dan fungsionalitas aktual Aplikasi di App Store, Aplikasi yang akan berlaku.
 
 2. Layanan
 
@@ -17,11 +19,12 @@ Dokumen ini telah [[diterjemahkan dari bahasa Ibrani]] untuk tujuan kemudahan sa
 
 2.2. Layanan disediakan "Apa Adanya" dan "Sebagaimana Tersedia," tanpa pernyataan atau jaminan apa pun, tersurat maupun tersirat, mengenai fungsionalitas, keakuratan, ketersediaan, atau kesesuaiannya untuk tujuan tertentu.
 
-2.3. Fitur Kecerdasan Buatan (Apple Intelligence):
-Aplikasi menggunakan teknologi Kecerdasan Buatan dan/atau model bahasa yang disediakan oleh pihak ketiga, seperti Apple Intelligence ("Fitur AI").
-(a) Keluaran yang dihasilkan oleh Fitur AI diproduksi secara algoritme dan mungkin salah, tidak akurat, atau tidak pantas.
-(b) Tanggung jawab tunggal untuk memverifikasi keakuratan informasi dan penggunaannya terletak pada Anda. Jangan mengandalkan keluaran AI sebagai pengganti nasihat profesional atau verifikasi akademis independen.
-(c) Bisnis tidak bertanggung jawab atas kerusakan langsung atau tidak langsung yang disebabkan oleh ketergantungan pada keluaran AI.
+2.3. Fitur Kecerdasan Buatan (Apple Intelligence)
+Aplikasi ini menggunakan teknologi Kecerdasan Buatan dan/atau model bahasa yang disediakan oleh pihak ketiga, seperti Apple Intelligence ("Fitur AI").
+(a) Ketersediaan Teknis: Fitur AI tersedia secara eksklusif pada perangkat, model, versi sistem operasi, dan bahasa yang didukung secara resmi oleh Apple Intelligence. Bisnis tidak menjamin bahwa fitur-fitur ini akan berfungsi pada setiap perangkat atau dalam setiap bahasa. Tanggung jawab untuk memverifikasi dukungan perangkat Anda terhadap teknologi ini sepenuhnya berada di tangan Anda sebelum mengunduh Aplikasi atau melakukan pembelian.
+(b) Keluaran yang dihasilkan oleh Fitur AI diproduksi secara algoritmik dan mungkin salah, tidak akurat, atau tidak pantas.
+(c) Jangan mengandalkan keluaran AI sebagai pengganti saran profesional atau verifikasi akademik independen.
+(d) Bisnis tidak bertanggung jawab atas kerusakan langsung atau tidak langsung yang disebabkan oleh ketergantungan pada keluaran AI atau karena ketidaktersediaannya pada perangkat Anda.
 
 3. Lisensi Terbatas
 

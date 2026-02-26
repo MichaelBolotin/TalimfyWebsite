@@ -7,9 +7,11 @@ Dokumen ini telah [[diterjemahkan daripada bahasa Ibrani]] untuk tujuan kemudaha
 
 1. Pengenalan dan Definisi
 
-1.1. Selamat datang ke "Talmify" (selepas ini: "Aplikasi"). Aplikasi ini dikendalikan dan diuruskan oleh Michael Yefet, Peniaga Dikecualikan (Osek Patur) No. 314887050 (selepas ini: "Perniagaan" atau "Kami").
+1.1. Selamat datang ke "Talmify". Syarat-syarat ini terpakai untuk penggunaan Aplikasi "Talmify" serta laman web yang menyertainya (selepas ini secara kolektif: "Aplikasi" atau "Perkhidmatan"). Perkhidmatan ini dikendalikan oleh Michael Yefet, Peniaga Dikecualikan No. 314887050 (selepas ini: "Perniagaan").
 
-1.2. Dokumen ini (selepas ini: "Terma") mengawal hubungan undang-undang antara anda (selepas ini: "Pengguna") dan Perniagaan. Memuat turun, memasang, atau menggunakan Aplikasi merupakan persetujuan penuh dan tanpa syarat anda terhadap Terma ini dan Dasar Privasi. Jika anda tidak bersetuju dengan mana-mana terma ini, anda mesti menghentikan semua penggunaan Aplikasi dan menyahpasangnya dengan segera.
+1.2. Dokumen ini (selepas ini: "Syarat") mengawal hubungan undang-undang antara anda dan Perniagaan. Melayari laman web, memuat turun Aplikasi, atau sebarang penggunaannya merupakan persetujuan penuh anda terhadap Syarat-syarat ini dan Dasar Privasi.
+
+1.3. Maklumat yang dipaparkan di laman web adalah untuk tujuan pemasaran dan maklumat sahaja. Sekiranya terdapat sebarang percanggahan antara kandungan laman web dan fungsi sebenar Aplikasi di App Store, Aplikasi akan diutamakan.
 
 2. Perkhidmatan
 
@@ -17,11 +19,12 @@ Dokumen ini telah [[diterjemahkan daripada bahasa Ibrani]] untuk tujuan kemudaha
 
 2.2. Perkhidmatan disediakan "Sebagaimana Adanya" dan "Sebagaimana Tersedia," tanpa sebarang representasi atau jaminan, nyata atau tersirat, mengenai fungsinya, ketepatannya, ketersediaannya, atau kesesuaiannya untuk tujuan tertentu.
 
-2.3. Ciri-ciri Kecerdasan Buatan (Apple Intelligence):
-Aplikasi menggunakan teknologi Kecerdasan Buatan dan/atau model bahasa yang disediakan oleh pihak ketiga, seperti Apple Intelligence ("Ciri AI").
-(a) Output yang dihasilkan oleh Ciri AI dihasilkan secara algoritma dan mungkin tidak betul, tidak tepat, atau tidak sesuai.
-(b) Tanggungjawab tunggal untuk mengesahkan ketepatan maklumat dan penggunaannya terletak pada anda. Jangan bergantung pada output AI sebagai pengganti nasihat profesional atau pengesahan akademik bebas.
-(c) Perniagaan tidak akan bertanggungjawab atas sebarang kerosakan langsung atau tidak langsung yang disebabkan oleh pergantungan pada output AI.
+2.3. Ciri-ciri Kecerdasan Buatan (Apple Intelligence)
+Aplikasi ini menggunakan teknologi Kecerdasan Buatan dan/atau model bahasa yang disediakan oleh pihak ketiga, seperti Apple Intelligence ("Ciri AI").
+(a) Ketersediaan Teknikal: Ciri AI tersedia secara eksklusif pada peranti, model, versi sistem operasi, dan bahasa yang disokong secara rasmi oleh Apple Intelligence. Perniagaan tidak menjamin bahawa ciri-ciri ini akan berfungsi pada setiap peranti atau dalam setiap bahasa. Tanggungjawab untuk mengesahkan sokongan peranti anda untuk teknologi ini terletak sepenuhnya pada anda sebelum memuat turun Aplikasi atau membuat pembelian.
+(b) Output yang dihasilkan oleh Ciri AI dihasilkan secara algoritma dan mungkin salah, tidak tepat, atau tidak sesuai.
+(c) Jangan bergantung pada output AI sebagai pengganti nasihat profesional atau pengesahan akademik bebas.
+(d) Perniagaan tidak akan bertanggungjawab atas sebarang kerosakan langsung atau tidak langsung yang disebabkan oleh pergantungan pada output AI atau kerana ketidaktersediaannya pada peranti anda.
 
 3. Lesen Terhad
 
