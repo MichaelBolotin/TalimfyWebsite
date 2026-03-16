@@ -25,7 +25,7 @@
                     colors: {
                         brand: {
                             dark: '#0f172a',
-                            primary: '#6366f1',
+                            primary: '#4f46e5',
                             secondary: '#8b5cf6',
                             accent: '#ec4899',
                             logoBlue: '#007AFF',
@@ -163,12 +163,12 @@
                 </div>
                 <!-- Desktop Menu -->
                 <div class="hidden md:flex gap-8 items-center">
-                    <button onclick="scrollToSection('features')" class="text-slate-600 hover:text-brand-primary font-medium transition" data-i18n="nav.features">Features</button>
-                    <button onclick="scrollToSection('integration')" class="text-slate-600 hover:text-brand-primary font-medium transition" data-i18n="nav.integration">iOS & iPadOS Deep Dive</button>
-                    <button onclick="scrollToSection('global')" class="text-slate-600 hover:text-brand-primary font-medium transition" data-i18n="nav.global">Global</button>
+                    <button onclick="scrollToSection('features')" class="text-slate-600 hover:text-indigo-600 font-medium transition" data-i18n="nav.features">Features</button>
+                    <button onclick="scrollToSection('integration')" class="text-slate-600 hover:text-indigo-600 font-medium transition" data-i18n="nav.integration">iOS & iPadOS Deep Dive</button>
+                    <button onclick="scrollToSection('global')" class="text-slate-600 hover:text-indigo-600 font-medium transition" data-i18n="nav.global">Global</button>
 
                     <!-- Contact Us -->
-                    <a href="mailto:support@talmify.com" class="flex items-center gap-2 text-slate-600 hover:text-brand-primary font-medium transition">
+                    <a href="mailto:support@talmify.com" class="flex items-center gap-2 text-slate-600 hover:text-indigo-600 font-medium transition">
                         <i class="fas fa-envelope"></i>
                         <span>Contact Us</span>
                     </a>
@@ -180,7 +180,7 @@
                 </div>
                 <!-- Mobile menu button -->
                 <div class="md:hidden">
-                    <button id="mobile-menu-btn" class="text-slate-600 hover:text-black focus:outline-none">
+                    <button id="mobile-menu-btn" class="text-slate-600 hover:text-black focus:outline-none" aria-label="Toggle mobile menu">
                         <i class="fas fa-bars text-2xl"></i>
                     </button>
                 </div>
@@ -213,7 +213,7 @@
                 <!-- Hero Content -->
                 <div class="space-y-8 text-center lg:text-start z-10 order-2 lg:order-1">
                     <!-- Reverted Badge Color to Primary Purple -->
-                    <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white border border-slate-200 shadow-sm text-sm font-semibold text-brand-primary mb-2">
+                    <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white border border-slate-200 shadow-sm text-sm font-semibold text-indigo-600 mb-2">
                         <span class="relative flex h-3 w-3">
                           <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-primary opacity-75"></span>
                           <span class="relative inline-flex rounded-full h-3 w-3 bg-brand-primary"></span>
@@ -231,7 +231,7 @@
                         <button onclick="scrollToDownload()" class="bg-black text-white px-8 py-4 rounded-2xl font-bold hover:bg-slate-800 transition transform hover:scale-105 shadow-xl flex items-center justify-center gap-3">
                             <i class="fa-brands fa-apple text-3xl"></i>
                             <div class="text-start leading-tight">
-                                <div class="text-xs font-medium text-slate-300" data-i18n="hero.download_sub">Download on the</div>
+                                <div class="text-xs font-medium text-slate-400" data-i18n="hero.download_sub">Download on the</div>
                                 <div class="text-xl">App Store</div>
                             </div>
                         </button>
@@ -294,7 +294,7 @@
     <section id="features" class="py-24 bg-white relative scroll-mt-24">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-16">
-                <span class="text-brand-primary font-bold tracking-wider uppercase text-sm" data-i18n="features.badge">Features</span>
+                <span class="text-indigo-600 font-bold tracking-wider uppercase text-sm" data-i18n="features.badge">Features</span>
                 <h2 class="text-4xl font-bold text-slate-900 mt-2 mb-4" data-i18n="features.title">Everything a student needs.</h2>
                 <p class="text-xl text-slate-500" data-i18n="features.subtitle">Powerful tools wrapped in a beautiful interface.</p>
             </div>
@@ -362,7 +362,7 @@
                                 <div>
                                     <div class="flex justify-between items-baseline w-full">
                                         <p class="text-xs font-bold text-slate-900 uppercase">Talmify</p>
-                                        <p class="text-[10px] text-slate-400" data-i18n="features.demo.time">now</p>
+                                        <p class="text-[10px] text-slate-500" data-i18n="features.demo.time">now</p>
                                     </div>
                                     <p class="text-sm text-slate-700 mt-1" data-i18n="features.demo.text">Yo! 📚 History essay is due tomorrow. Don't pull an all-nighter again!</p>
                                 </div>
@@ -386,7 +386,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
             <div class="grid md:grid-cols-2 gap-12 items-center mb-16">
                 <div>
-                    <span class="text-brand-primary font-bold tracking-wider uppercase text-sm" data-i18n="integration.badge">Apple Exclusive</span>
+                    <span class="text-indigo-400 font-bold tracking-wider uppercase text-sm" data-i18n="integration.badge">Apple Exclusive</span>
                     <h2 class="text-3xl md:text-5xl font-bold mt-2 leading-tight">
                         <span data-i18n="integration.title_line1">Deeply Integrated</span> <br>
                         <span data-i18n="integration.title_line2">with iOS & iPadOS.</span>
@@ -405,7 +405,7 @@
                         <i class="fas fa-layer-group"></i>
                     </div>
                     <h3 class="text-xl font-bold mb-3" data-i18n="integration.widgets.title">Interactive Widgets</h3>
-                    <p class="text-slate-300 text-sm leading-relaxed" data-i18n="integration.widgets.desc">Check your schedule, mark tasks complete, and view grades right from your Home Screen without opening the app.</p>
+                    <p class="text-slate-500 text-sm leading-relaxed" data-i18n="integration.widgets.desc">Check your schedule, mark tasks complete, and view grades right from your Home Screen without opening the app.</p>
                 </div>
 
                 <!-- Siri & Shortcuts (Standard Glass) -->
@@ -414,7 +414,7 @@
                         <i class="fas fa-microphone-lines"></i>
                     </div>
                     <h3 class="text-xl font-bold mb-3" data-i18n="integration.siri.title">Siri & Shortcuts</h3>
-                    <p class="text-slate-400 text-sm leading-relaxed" data-i18n="integration.siri.desc">"Hey Siri, what's my homework?" Build custom automations and control your study flow with voice.</p>
+                    <p class="text-slate-500 text-sm leading-relaxed" data-i18n="integration.siri.desc">"Hey Siri, what's my homework?" Build custom automations and control your study flow with voice.</p>
                 </div>
 
                 <!-- iCloud (Updated: iCloud Color) -->
@@ -423,7 +423,7 @@
                         <i class="fas fa-cloud"></i>
                     </div>
                     <h3 class="text-xl font-bold mb-3" data-i18n="integration.icloud.title">Secure iCloud Backup</h3>
-                    <p class="text-slate-300 text-sm leading-relaxed" data-i18n="integration.icloud.desc">Your data stays yours. Fast, encrypted syncing across all your Apple devices via your private iCloud account.</p>
+                    <p class="text-slate-500 text-sm leading-relaxed" data-i18n="integration.icloud.desc">Your data stays yours. Fast, encrypted syncing across all your Apple devices via your private iCloud account.</p>
                 </div>
             </div>
         </div>
@@ -444,7 +444,7 @@
             <!-- Row 1 -->
             <div class="flex whitespace-nowrap animate-scroll gap-8 mb-8">
                 <!-- Content duplicated for seamless loop -->
-                <div class="flex gap-8 items-center text-4xl font-bold text-slate-300 select-none">
+                <div class="flex gap-8 items-center text-4xl font-bold text-slate-500 select-none">
                     <span>English</span> <span>•</span> <span>Español</span> <span>•</span> <span>Français</span> <span>•</span> <span>Deutsch</span> <span>•</span> 
                     <span>Italiano</span> <span>•</span> <span>Português</span> <span>•</span> <span>Русский</span> <span>•</span> <span>中文</span> <span>•</span> 
                     <span>日本語</span> <span>•</span> <span>한국어</span> <span>•</span> <span>العربية</span> <span>•</span> <span>हिन्दी</span> <span>•</span> 
@@ -493,7 +493,7 @@
                     <div class="text-3xl">App Store</div>
                 </div>
             </button>
-            <p class="mt-8 text-sm text-slate-400 font-medium tracking-wide uppercase" data-i18n="cta.exclusive">Available exclusively for iOS & iPadOS</p>
+            <p class="mt-8 text-sm text-slate-500 font-medium tracking-wide uppercase" data-i18n="cta.exclusive">Available exclusively for iOS & iPadOS</p>
         </div>
     </section>
 
@@ -503,9 +503,9 @@
             <p class="text-slate-500 text-sm" data-i18n="footer.copyright">© 2025 Talmify. All rights reserved.</p>
             <!-- New Legal Links -->
             <div class="flex flex-wrap justify-center gap-6 text-sm font-medium text-slate-500">
-                <a href="terms.html" class="hover:text-brand-primary transition" data-i18n="footer.terms">Terms of Service</a>
-                <a href="privacy.html" class="hover:text-brand-primary transition" data-i18n="footer.privacy">Privacy Policy</a>
-                <a href="accessibility.html" class="hover:text-brand-primary transition" data-i18n="footer.accessibility">Accessibility Statement</a>
+                <a href="terms.html" class="hover:text-indigo-600 transition" data-i18n="footer.terms">Terms of Service</a>
+                <a href="privacy.html" class="hover:text-indigo-600 transition" data-i18n="footer.privacy">Privacy Policy</a>
+                <a href="accessibility.html" class="hover:text-indigo-600 transition" data-i18n="footer.accessibility">Accessibility Statement</a>
             </div>
         </div>
     </footer>
