@@ -176,10 +176,10 @@
                         <span>Contact Us</span>
                     </a>
 
-                    <button onclick="scrollToDownload()" class="bg-black text-white px-6 py-2.5 rounded-full font-medium hover:bg-slate-800 transition transform hover:scale-105 shadow-lg flex items-center gap-2">
+                    <a href="https://apps.apple.com/app/apple-store/id6759294010?pt=128095405&ct=MySite&mt=8" class="bg-black text-white px-6 py-2.5 rounded-full font-medium hover:bg-slate-800 transition transform hover:scale-105 shadow-lg flex items-center gap-2">
                         <i class="fa-brands fa-apple text-lg"></i>
                         <span data-i18n="nav.download">Download</span>
-                    </button>
+                    </a>
                 </div>
                 <!-- Mobile menu button -->
                 <div class="md:hidden">
@@ -231,13 +231,13 @@
                         Manage courses, sync calendars, and chat with your personal AI assistant to stay ahead. Designed exclusively for students on iOS and iPadOS.
                     </p>
                     <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-4">
-                        <button onclick="scrollToDownload()" class="bg-black text-white px-8 py-4 rounded-2xl font-bold hover:bg-slate-800 transition transform hover:scale-105 shadow-xl flex items-center justify-center gap-3">
+                        <a href="https://apps.apple.com/app/apple-store/id6759294010?pt=128095405&ct=MySite&mt=8" class="bg-black text-white px-8 py-4 rounded-2xl font-bold hover:bg-slate-800 transition transform hover:scale-105 shadow-xl flex items-center justify-center gap-3">
                             <i class="fa-brands fa-apple text-3xl"></i>
                             <div class="text-start leading-tight">
                                 <div class="text-xs font-medium text-slate-400" data-i18n="hero.download_sub">Download on the</div>
                                 <div class="text-xl">App Store</div>
                             </div>
-                        </button>
+                        </a>
                     </div>
                 </div>
 
@@ -495,13 +495,13 @@
             <h2 class="text-4xl md:text-6xl font-bold text-slate-900 mb-8" data-i18n="cta.title">Ready to ace your semester?</h2>
             <p class="text-xl text-slate-600 mb-12 max-w-2xl mx-auto" data-i18n="cta.subtitle">Join thousands of students organizing their academic life with Talmify.</p>
             
-            <button class="bg-black text-white px-12 py-6 rounded-2xl font-bold hover:bg-slate-800 transition transform hover:scale-105 shadow-2xl flex items-center justify-center gap-4 mx-auto group">
+            <a href="https://apps.apple.com/app/apple-store/id6759294010?pt=128095405&ct=MySite&mt=8" class="bg-black text-white px-12 py-6 rounded-2xl font-bold hover:bg-slate-800 transition transform hover:scale-105 shadow-2xl flex items-center justify-center gap-4 mx-auto group w-max">
                 <i class="fa-brands fa-apple text-4xl group-hover:rotate-12 transition duration-300"></i>
                 <div class="text-start leading-tight">
                     <div class="text-base font-medium text-slate-300" data-i18n="cta.download_sub">Download on the</div>
                     <div class="text-3xl">App Store</div>
                 </div>
-            </button>
+            </a>
             <p class="mt-8 text-sm text-slate-500 font-medium tracking-wide uppercase" data-i18n="cta.exclusive">Available exclusively for iOS & iPadOS</p>
         </div>
     </section>
@@ -535,13 +535,6 @@
 
         function scrollToSection(id) {
             const element = document.getElementById(id);
-            if (element) {
-                element.scrollIntoView({ behavior: 'smooth' });
-            }
-        }
-
-        function scrollToDownload() {
-            const element = document.getElementById('download');
             if (element) {
                 element.scrollIntoView({ behavior: 'smooth' });
             }
