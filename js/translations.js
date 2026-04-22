@@ -181,7 +181,7 @@ const LOCALIZATION_DATA = {
     },
     "global.subtitle": {
         description: "Subtitle for the Global section",
-        translations: { en: "Breaking language barriers in 47 languages.", he: "שוברים מחסומי שפה ב-47 שפות." }
+        translations: { en: "Breaking language barriers in 45+ languages.", he: "שוברים מחסומי שפה ב-45+ שפות." }
     },
 
     // CTA Section
