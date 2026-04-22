@@ -58,20 +58,26 @@ All intellectual property rights in the App (including code, design, logos, and 
 
 The App allows data backup to Apple's iCloud service. This service is external and operated by a third party. The Business is not responsible for the integrity, storage, or restoration of the backup. The User is solely responsible for backing up their data.
 
-8. Limitation of Liability
+8. Third-Party Services and Software Components
 
-8.1. In no event shall the Business, its employees, or anyone on its behalf be liable for any direct, indirect, consequential, special, or punitive damages (including loss of data, loss of profits, mental anguish, etc.) arising from the use or inability to use the App.
+8.1. The App may include or rely on software components, interfaces, or services provided by third parties (such as payment processing, data analytics, marketing, or cloud services).
+8.2. These services are subject to the terms of use of those respective third parties. The Business does not develop, maintain, or control these components, and makes no representations regarding their proper functioning, security, or continuity of operation.
+8.3. The Business shall not bear any liability for any direct or indirect damage caused to you as a result of the use, crash, bug, or security failure originating from third-party components integrated into the App.
 
-8.2. Without derogating from the above, the Business's maximum and aggregate liability towards the User, for any cause whatsoever, shall be limited to the amount actually paid by the User to the Business in the three months preceding the event causing the damage, or 50 NIS, whichever is lower.
+9. Limitation of Liability
 
-9. Indemnification
+9.1. In no event shall the Business, its employees, or anyone on its behalf be liable for any direct, indirect, consequential, special, or punitive damages (including loss of data, loss of profits, mental anguish, etc.) arising from the use or inability to use the App.
+
+9.2. Without derogating from the above, the Business's maximum and aggregate liability towards the User, for any cause whatsoever, shall be limited to the amount actually paid by the User to the Business in the three months preceding the event causing the damage, or 50 NIS, whichever is lower.
+
+10. Indemnification
 
 You agree to indemnify the Business for any damage, loss, or expense (including legal fees) caused to it due to your violation of these Terms or due to harm caused to a third party.
 
-10. Jurisdiction and Governing Law
+11. Jurisdiction and Governing Law
 
 These Terms shall be governed solely by the laws of the State of Israel. Exclusive jurisdiction in any dispute is vested in the competent courts in the Tel Aviv-Yafo District, Israel.
 
-11. Contact Us
+12. Contact Us
 
 For legal inquiries: legal@talmify.com
