@@ -58,20 +58,26 @@ Az Alkalmazásban található minden szellemi tulajdonjog (beleértve a kódot, 
 
 Az Alkalmazás lehetővé teszi az adatmentést az Apple iCloud szolgáltatásába. Ez a szolgáltatás külső, és harmadik fél üzemelteti. A Vállalkozás nem felelős a biztonsági mentés integritásáért, tárolásáért vagy visszaállításáért. A Felhasználó kizárólagosan felelős adatai biztonsági mentéséért.
 
-8. Felelősség korlátozása
+8. Harmadik féltől származó szolgáltatások és szoftverkomponensek
 
-8.1. Semmilyen esetben sem felelős a Vállalkozás, alkalmazottai vagy bárki a nevében semmilyen közvetlen, közvetett, következményes, különleges vagy büntető jellegű kárért (beleértve az adatvesztést, elmaradt hasznot, lelki gyötrelmet stb.), amely az Alkalmazás használatából vagy használatának képtelenségéből ered.
+8.1.Az Alkalmazás tartalmazhat vagy támaszkodhat harmadik felek által biztosított szoftverkomponensekre, interfészekre vagy szolgáltatásokra (például fizetési feldolgozásra, adatelemzésre, marketingre vagy felhőszolgáltatásokra).
+8.2.Ezekre a szolgáltatásokra az adott harmadik felek használati feltételei vonatkoznak.A Vállalkozás nem fejleszti, tartja karban és nem ellenőrzi ezeket az összetevőket, és nem vállal felelősséget azok megfelelő működésével, biztonságával vagy a működés folyamatosságával kapcsolatban.
+8.3.A Vállalkozás nem vállal felelősséget a használatból, összeomlásból, programhibából vagy az Alkalmazásba integrált harmadik féltől származó biztonsági hibákból eredő közvetlen vagy közvetett károkért.
 
-8.2. A fentiek csorbítása nélkül, a Vállalkozás maximális és összesített felelőssége a Felhasználó felé, bármilyen okból, a kárt okozó eseményt megelőző három hónapban a Felhasználó által a Vállalkozásnak ténylegesen fizetett összegre, vagy 50 NIS-re korlátozódik, attól függően, hogy melyik az alacsonyabb.
+9. Felelősség korlátozása
 
-9. Kártalanítás
+9.1. Semmilyen esetben sem felelős a Vállalkozás, alkalmazottai vagy bárki a nevében semmilyen közvetlen, közvetett, következményes, különleges vagy büntető jellegű kárért (beleértve az adatvesztést, elmaradt hasznot, lelki gyötrelmet stb.), amely az Alkalmazás használatából vagy használatának képtelenségéből ered.
+
+9.2. A fentiek csorbítása nélkül, a Vállalkozás maximális és összesített felelőssége a Felhasználó felé, bármilyen okból, a kárt okozó eseményt megelőző három hónapban a Felhasználó által a Vállalkozásnak ténylegesen fizetett összegre, vagy 50 NIS-re korlátozódik, attól függően, hogy melyik az alacsonyabb.
+
+10. Kártalanítás
 
 Ön beleegyezik abba, hogy kártalanítja a Vállalkozást minden kár, veszteség vagy költség (beleértve a jogi költségeket is) tekintetében, amely ezen Feltételek megsértése miatt vagy harmadik félnek okozott kár miatt éri.
 
-10. Joghatóság és irányadó jog
+11. Joghatóság és irányadó jog
 
 Ezeket a Feltételeket kizárólag Izrael Állam törvényei szabályozzák. Bármely vita esetén a kizárólagos joghatóság a Tel Aviv-Yafo körzetben, Izraelben illetékes bíróságokat illeti meg.
 
-11. Lépjen kapcsolatba velünk
+12. Lépjen kapcsolatba velünk
 
 Jogi kérdések esetén: legal@talmify.com

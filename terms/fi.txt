@@ -58,20 +58,26 @@ Kaikki Sovelluksen immateriaalioikeudet (mukaan lukien koodi, suunnittelu, logot
 
 Sovellus mahdollistaa tietojen varmuuskopioinnin Applen iCloud-palveluun. Tämä palvelu on ulkoinen ja kolmannen osapuolen ylläpitämä. Yritys ei ole vastuussa varmuuskopion eheydestä, tallennuksesta tai palauttamisesta. Käyttäjä on yksin vastuussa tietojensa varmuuskopioinnista.
 
-8. Vastuunrajoitus
+8. Kolmannen osapuolen palvelut ja ohjelmistokomponentit
 
-8.1. Yritys, sen työntekijät tai kukaan sen puolesta toimiva ei ole missään tapauksessa vastuussa mistään suorista, epäsuorista, välillisistä, erityisistä tai rangaistusluonteisista vahingoista (mukaan lukien tietojen menetys, voiton menetys, henkinen kärsimys jne.), jotka johtuvat Sovelluksen käytöstä tai käytön estymisestä.
+8.1.Sovellus voi sisältää ohjelmistokomponentteja, rajapintoja tai kolmansien osapuolien tarjoamia palveluita tai luottaa niihin (kuten maksujen käsittelyyn, data-analytiikkaan, markkinointiin tai pilvipalveluihin).
+8.2.Nämä palvelut ovat kyseisten kolmansien osapuolten käyttöehtojen alaisia.Liiketoiminta ei kehitä, ylläpidä tai valvo näitä osia, eikä se takaa niiden asianmukaista toimintaa, turvallisuutta tai toiminnan jatkuvuutta.
+8.3Yritys ei ole vastuussa mistään välittömistä tai epäsuorista vahingoista, jotka ovat aiheutuneet sinulle sovellukseen integroiduista kolmannen osapuolen komponenteista johtuvasta käytöstä, kaatumisesta, bugista tai tietoturvavirheestä.
 
-8.2. Rajoittamatta edellä mainittua, Yrityksen enimmäis- ja kokonaisvastuu Käyttäjää kohtaan, mistä tahansa syystä, rajoittuu määrään, jonka Käyttäjä on tosiasiallisesti maksanut Yritykselle vahingon aiheuttanutta tapahtumaa edeltäneiden kolmen kuukauden aikana, tai 50 NIS:iin, riippuen siitä, kumpi on pienempi.
+9. Vastuunrajoitus
 
-9. Vahingonkorvaus
+9.1. Yritys, sen työntekijät tai kukaan sen puolesta toimiva ei ole missään tapauksessa vastuussa mistään suorista, epäsuorista, välillisistä, erityisistä tai rangaistusluonteisista vahingoista (mukaan lukien tietojen menetys, voiton menetys, henkinen kärsimys jne.), jotka johtuvat Sovelluksen käytöstä tai käytön estymisestä.
+
+9.2. Rajoittamatta edellä mainittua, Yrityksen enimmäis- ja kokonaisvastuu Käyttäjää kohtaan, mistä tahansa syystä, rajoittuu määrään, jonka Käyttäjä on tosiasiallisesti maksanut Yritykselle vahingon aiheuttanutta tapahtumaa edeltäneiden kolmen kuukauden aikana, tai 50 NIS:iin, riippuen siitä, kumpi on pienempi.
+
+10. Vahingonkorvaus
 
 Sitoudut korvaamaan Yritykselle kaikki vahingot, menetykset tai kulut (mukaan lukien oikeudenkäyntikulut), jotka aiheutuvat sille näiden Ehtojen rikkomisesta tai kolmannelle osapuolelle aiheutetusta vahingosta.
 
-10. Tuomiovalta ja sovellettava laki
+11. Tuomiovalta ja sovellettava laki
 
 Näihin Ehtoihin sovelletaan yksinomaan Israelin valtion lakeja. Yksinomainen tuomiovalta kaikissa riidoissa on Tel Aviv-Yafon alueen toimivaltaisilla tuomioistuimilla Israelissa.
 
-11. Ota yhteyttä
+12. Ota yhteyttä
 
 Oikeudelliset tiedustelut: legal@talmify.com

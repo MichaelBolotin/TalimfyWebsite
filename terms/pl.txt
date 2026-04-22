@@ -58,20 +58,26 @@ Wszystkie prawa własności intelektualnej w Aplikacji (w tym kod, projekt, logo
 
 Aplikacja umożliwia tworzenie kopii zapasowych danych w usłudze iCloud firmy Apple. Usługa ta jest zewnętrzna i obsługiwana przez stronę trzecią. Firma nie ponosi odpowiedzialności za integralność, przechowywanie ani przywracanie kopii zapasowej. Użytkownik ponosi wyłączną odpowiedzialność za tworzenie kopii zapasowych swoich danych.
 
-8. Ograniczenie odpowiedzialności
+8. Usługi stron trzecich i składniki oprogramowania
 
-8.1. W żadnym wypadku Firma, jej pracownicy ani nikt działający w jej imieniu nie ponosi odpowiedzialności za jakiekolwiek bezpośrednie, pośrednie, wynikowe, specjalne lub karne szkody (w tym utratę danych, utratę zysków, cierpienie psychiczne itp.) wynikające z korzystania lub niemożności korzystania z Aplikacji.
+8.1.Aplikacja może zawierać komponenty oprogramowania, interfejsy lub usługi dostarczane przez strony trzecie (takie jak przetwarzanie płatności, analiza danych, marketing lub usługi w chmurze) lub na nich polegać.
+8.2.Usługi te podlegają warunkom korzystania odpowiednich stron trzecich.Firma nie opracowuje, nie utrzymuje, nie kontroluje tych komponentów i nie składa żadnych oświadczeń dotyczących ich prawidłowego funkcjonowania, bezpieczeństwa lub ciągłości działania.
+8.3.Firma nie ponosi żadnej odpowiedzialności za jakiekolwiek bezpośrednie lub pośrednie szkody wyrządzone użytkownikowi w wyniku użytkowania, awarii, błędu lub awarii bezpieczeństwa, spowodowanej przez komponenty stron trzecich zintegrowane z Aplikacją.
 
-8.2. Bez uszczerbku dla powyższego, maksymalna i łączna odpowiedzialność Firmy wobec Użytkownika, z jakiejkolwiek przyczyny, będzie ograniczona do kwoty faktycznie zapłaconej przez Użytkownika Firmie w ciągu trzech miesięcy poprzedzających zdarzenie powodujące szkodę, lub 50 NIS, w zależności od tego, która kwota jest niższa.
+9. Ograniczenie odpowiedzialności
 
-9. Odszkodowanie
+9.1. W żadnym wypadku Firma, jej pracownicy ani nikt działający w jej imieniu nie ponosi odpowiedzialności za jakiekolwiek bezpośrednie, pośrednie, wynikowe, specjalne lub karne szkody (w tym utratę danych, utratę zysków, cierpienie psychiczne itp.) wynikające z korzystania lub niemożności korzystania z Aplikacji.
+
+9.2. Bez uszczerbku dla powyższego, maksymalna i łączna odpowiedzialność Firmy wobec Użytkownika, z jakiejkolwiek przyczyny, będzie ograniczona do kwoty faktycznie zapłaconej przez Użytkownika Firmie w ciągu trzech miesięcy poprzedzających zdarzenie powodujące szkodę, lub 50 NIS, w zależności od tego, która kwota jest niższa.
+
+10. Odszkodowanie
 
 Zgadzasz się zwolnić Firmę z odpowiedzialności za wszelkie szkody, straty lub wydatki (w tym opłaty prawne) poniesione przez nią z powodu naruszenia przez Ciebie niniejszych Warunków lub z powodu szkody wyrządzonej osobie trzeciej.
 
-10. Jurysdykcja i prawo właściwe
+11. Jurysdykcja i prawo właściwe
 
 Niniejsze Warunki podlegają wyłącznie prawu Państwa Izrael. Wyłączna jurysdykcja w jakimkolwiek sporze przysługuje właściwym sądom w Dystrykcie Tel Awiw-Jafo, Izrael.
 
-11. Skontaktuj się z nami
+12. Skontaktuj się z nami
 
 W sprawach prawnych: legal@talmify.com

@@ -58,20 +58,26 @@ Všechna práva duševního vlastnictví v Aplikaci (včetně kódu, designu, lo
 
 Aplikace umožňuje zálohování dat do služby iCloud od Apple. Tato služba je externí a provozovaná třetí stranou. Podnik nenese odpovědnost za integritu, uložení nebo obnovu zálohy. Uživatel je výhradně odpovědný za zálohování svých dat.
 
-8. Omezení odpovědnosti
+8. Služby třetích stran a softwarové komponenty
 
-8.1. V žádném případě nebude Podnik, jeho zaměstnanci nebo kdokoli jeho jménem odpovědný za jakékoli přímé, nepřímé, následné, zvláštní nebo represivní škody (včetně ztráty dat, ušlého zisku, duševních útrap atd.) vzniklé z používání nebo nemožnosti používat Aplikaci.
+8.1.Aplikace může zahrnovat softwarové komponenty, rozhraní nebo služby poskytované třetími stranami (jako je zpracování plateb, analýza dat, marketing nebo cloudové služby) nebo se na ně spoléhat.
+8.2.Tyto služby podléhají podmínkám použití příslušných třetích stran.Společnost tyto komponenty nevyvíjí, neudržuje ani nekontroluje a nečiní žádná prohlášení ohledně jejich správného fungování, zabezpečení nebo kontinuity provozu.
+8.3.Společnost nenese žádnou odpovědnost za jakoukoli přímou nebo nepřímou škodu způsobenou vám v důsledku používání, selhání, chyby nebo selhání zabezpečení pocházejících z komponent třetích stran integrovaných do aplikace.
 
-8.2. Bez ohledu na výše uvedené, maximální a celková odpovědnost Podniku vůči Uživateli, z jakéhokoli důvodu, bude omezena na částku skutečně zaplacenou Uživatelem Podniku v třech měsících předcházejících události, která způsobila škodu, nebo 50 NIS, podle toho, co je nižší.
+9. Omezení odpovědnosti
 
-9. Odškodnění
+9.1. V žádném případě nebude Podnik, jeho zaměstnanci nebo kdokoli jeho jménem odpovědný za jakékoli přímé, nepřímé, následné, zvláštní nebo represivní škody (včetně ztráty dat, ušlého zisku, duševních útrap atd.) vzniklé z používání nebo nemožnosti používat Aplikaci.
+
+9.2. Bez ohledu na výše uvedené, maximální a celková odpovědnost Podniku vůči Uživateli, z jakéhokoli důvodu, bude omezena na částku skutečně zaplacenou Uživatelem Podniku v třech měsících předcházejících události, která způsobila škodu, nebo 50 NIS, podle toho, co je nižší.
+
+10. Odškodnění
 
 Souhlasíte s tím, že odškodníte Podnik za jakoukoli škodu, ztrátu nebo výdaj (včetně právních poplatků) způsobený mu v důsledku vašeho porušení těchto Podmínek nebo v důsledku škody způsobené třetí straně.
 
-10. Příslušnost a rozhodné právo
+11. Příslušnost a rozhodné právo
 
 Tyto Podmínky se řídí výhradně zákony Státu Izrael. Výlučná pravomoc v jakémkoli sporu náleží příslušným soudům v okrese Tel Aviv-Yafo, Izrael.
 
-11. Kontaktujte nás
+12. Kontaktujte nás
 
 Pro právní dotazy: legal@talmify.com

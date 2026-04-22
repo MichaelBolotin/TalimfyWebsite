@@ -58,20 +58,26 @@ Sva prava intelektualnog vlasništva u Aplikaciji (uključujući kod, dizajn, lo
 
 Aplikacija omogućuje sigurnosno kopiranje podataka na Appleovu uslugu iCloud. Ova usluga je vanjska i njome upravlja treća strana. Posao nije odgovoran za cjelovitost, pohranu ili vraćanje sigurnosne kopije. Korisnik je isključivo odgovoran za sigurnosno kopiranje svojih podataka.
 
-8. Ograničenje odgovornosti
+8. Usluge trećih strana i softverske komponente
 
-8.1. Ni u kojem slučaju Posao, njegovi zaposlenici ili bilo tko u njegovo ime neće biti odgovoran za bilo kakve izravne, neizravne, posljedične, posebne ili kaznene štete (uključujući gubitak podataka, gubitak dobiti, duševne boli itd.) koje proizlaze iz korištenja ili nemogućnosti korištenja Aplikacije.
+8.1.Aplikacija može uključivati ​​ili se oslanjati na softverske komponente, sučelja ili usluge koje pružaju treće strane (kao što su obrada plaćanja, analiza podataka, marketing ili usluge u oblaku).
+8.2.Ove usluge podliježu uvjetima korištenja tih trećih strana.Tvrtka ne razvija, održava ili kontrolira ove komponente i ne daje nikakve izjave u vezi s njihovim ispravnim funkcioniranjem, sigurnošću ili kontinuitetom rada.
+8.3.Tvrtka neće snositi nikakvu odgovornost za bilo kakvu izravnu ili neizravnu štetu nanesenu vama kao rezultat korištenja, pada, programske pogreške ili sigurnosnog kvara koji potječe od komponenti trećih strana integriranih u Aplikaciju.
 
-8.2. Bez odstupanja od navedenog, maksimalna i ukupna odgovornost Posla prema Korisniku, iz bilo kojeg razloga, bit će ograničena na iznos koji je Korisnik stvarno platio Poslu u tri mjeseca koja su prethodila događaju koji je uzrokovao štetu, ili 50 NIS, što god je manje.
+9. Ograničenje odgovornosti
 
-9. Odšteta
+9.1. Ni u kojem slučaju Posao, njegovi zaposlenici ili bilo tko u njegovo ime neće biti odgovoran za bilo kakve izravne, neizravne, posljedične, posebne ili kaznene štete (uključujući gubitak podataka, gubitak dobiti, duševne boli itd.) koje proizlaze iz korištenja ili nemogućnosti korištenja Aplikacije.
+
+9.2. Bez odstupanja od navedenog, maksimalna i ukupna odgovornost Posla prema Korisniku, iz bilo kojeg razloga, bit će ograničena na iznos koji je Korisnik stvarno platio Poslu u tri mjeseca koja su prethodila događaju koji je uzrokovao štetu, ili 50 NIS, što god je manje.
+
+10. Odšteta
 
 Pristajete obeštetiti Posao za svaku štetu, gubitak ili trošak (uključujući pravne troškove) uzrokovan njemu zbog vašeg kršenja ovih Uvjeta ili zbog štete nanesene trećoj strani.
 
-10. Nadležnost i mjerodavno pravo
+11. Nadležnost i mjerodavno pravo
 
 Ovi Uvjeti bit će regulirani isključivo zakonima Države Izrael. Isključiva nadležnost u bilo kojem sporu dodijeljena je nadležnim sudovima u okrugu Tel Aviv-Yafo, Izrael.
 
-11. Kontaktirajte nas
+12. Kontaktirajte nas
 
 Za pravne upite: legal@talmify.com

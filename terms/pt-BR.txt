@@ -58,20 +58,26 @@ Todos os direitos de propriedade intelectual no Aplicativo (incluindo código, d
 
 O Aplicativo permite backup de dados para o serviço iCloud da Apple. Este serviço é externo e operado por terceiros. O Negócio não é responsável pela integridade, armazenamento ou restauração do backup. O Usuário é o único responsável pelo backup de seus dados.
 
-8. Limitação de Responsabilidade
+8. Serviços de terceiros e componentes de software
 
-8.1. Em nenhuma circunstância o Negócio, seus funcionários ou qualquer pessoa em seu nome será responsável por quaisquer danos diretos, indiretos, consequenciais, especiais ou punitivos (incluindo perda de dados, perda de lucros, angústia mental, etc.) decorrentes do uso ou incapacidade de usar o Aplicativo.
+8.1.O Aplicativo pode incluir ou depender de componentes de software, interfaces ou serviços fornecidos por terceiros (como processamento de pagamentos, análise de dados, marketing ou serviços em nuvem).
+8.2.Esses serviços estão sujeitos aos termos de uso dos respectivos terceiros.A Empresa não desenvolve, mantém ou controla esses componentes e não faz declarações quanto ao seu bom funcionamento, segurança ou continuidade de operação.
+8.3.A Empresa não será responsável por quaisquer danos diretos ou indiretos causados ​​a você como resultado do uso, travamento, bug ou falha de segurança originados de componentes de terceiros integrados ao Aplicativo.
 
-8.2. Sem derrogar o acima exposto, a responsabilidade máxima e agregada do Negócio perante o Usuário, por qualquer causa, será limitada ao valor realmente pago pelo Usuário ao Negócio nos três meses anteriores ao evento que causou o dano, ou 50 NIS, o que for menor.
+9. Limitação de Responsabilidade
 
-9. Indenização
+9.1. Em nenhuma circunstância o Negócio, seus funcionários ou qualquer pessoa em seu nome será responsável por quaisquer danos diretos, indiretos, consequenciais, especiais ou punitivos (incluindo perda de dados, perda de lucros, angústia mental, etc.) decorrentes do uso ou incapacidade de usar o Aplicativo.
+
+9.2. Sem derrogar o acima exposto, a responsabilidade máxima e agregada do Negócio perante o Usuário, por qualquer causa, será limitada ao valor realmente pago pelo Usuário ao Negócio nos três meses anteriores ao evento que causou o dano, ou 50 NIS, o que for menor.
+
+10. Indenização
 
 Você concorda em indenizar o Negócio por qualquer dano, perda ou despesa (incluindo honorários advocatícios) causados a ele devido à sua violação destes Termos ou devido a danos causados a terceiros.
 
-10. Jurisdição e Lei Aplicável
+11. Jurisdição e Lei Aplicável
 
 Estes Termos serão regidos exclusivamente pelas leis do Estado de Israel. A jurisdição exclusiva em qualquer disputa é conferida aos tribunais competentes no Distrito de Tel Aviv-Yafo, Israel.
 
-11. Fale Conosco
+12. Fale Conosco
 
 Para consultas legais: legal@talmify.com

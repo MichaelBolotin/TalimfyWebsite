@@ -58,20 +58,26 @@ Alle Rechte am geistigen Eigentum an der App (einschließlich Code, Design, Logo
 
 Die App ermöglicht die Datensicherung im iCloud-Dienst von Apple. Dieser Dienst ist extern und wird von einem Dritten betrieben. Das Unternehmen ist nicht verantwortlich für die Integrität, Speicherung oder Wiederherstellung der Sicherung. Der Nutzer ist allein für die Sicherung seiner Daten verantwortlich.
 
-8. Haftungsbeschränkung
+8. Dienste und Softwarekomponenten Dritter
 
-8.1. In keinem Fall haftet das Unternehmen, seine Mitarbeiter oder jemand in seinem Namen für direkte, indirekte, Folge-, spezielle oder Strafschäden (einschließlich Datenverlust, entgangenen Gewinns, seelischen Leids usw.), die aus der Nutzung oder der Unfähigkeit zur Nutzung der App entstehen.
+8.1.Die App kann von Dritten bereitgestellte Softwarekomponenten, Schnittstellen oder Dienste (z. B. Zahlungsabwicklung, Datenanalyse, Marketing oder Cloud-Dienste) umfassen oder sich auf diese stützen.
+8.2.Für diese Dienste gelten die Nutzungsbedingungen der jeweiligen Drittanbieter.Das Unternehmen entwickelt, wartet oder kontrolliert diese Komponenten nicht und gibt keine Zusicherungen hinsichtlich ihrer ordnungsgemäßen Funktion, Sicherheit oder Kontinuität des Betriebs.
+8.3.Das Unternehmen übernimmt keine Haftung für direkte oder indirekte Schäden, die Ihnen durch die Nutzung, Abstürze, Fehler oder Sicherheitsmängel entstehen, die durch in die App integrierte Komponenten Dritter verursacht werden.
 
-8.2. Ohne das Vorstehende einzuschränken, ist die maximale und gesamte Haftung des Unternehmens gegenüber dem Nutzer, aus welchem Grund auch immer, auf den Betrag beschränkt, den der Nutzer tatsächlich in den drei Monaten vor dem Ereignis, das den Schaden verursacht hat, an das Unternehmen gezahlt hat, oder 50 NIS, je nachdem, welcher Betrag niedriger ist.
+9. Haftungsbeschränkung
 
-9. Entschädigung
+9.1. In keinem Fall haftet das Unternehmen, seine Mitarbeiter oder jemand in seinem Namen für direkte, indirekte, Folge-, spezielle oder Strafschäden (einschließlich Datenverlust, entgangenen Gewinns, seelischen Leids usw.), die aus der Nutzung oder der Unfähigkeit zur Nutzung der App entstehen.
+
+9.2. Ohne das Vorstehende einzuschränken, ist die maximale und gesamte Haftung des Unternehmens gegenüber dem Nutzer, aus welchem Grund auch immer, auf den Betrag beschränkt, den der Nutzer tatsächlich in den drei Monaten vor dem Ereignis, das den Schaden verursacht hat, an das Unternehmen gezahlt hat, oder 50 NIS, je nachdem, welcher Betrag niedriger ist.
+
+10. Entschädigung
 
 Sie stimmen zu, das Unternehmen für alle Schäden, Verluste oder Kosten (einschließlich Anwaltskosten) zu entschädigen, die ihm aufgrund Ihrer Verletzung dieser Bedingungen oder aufgrund von Schäden, die einem Dritten zugefügt wurden, entstehen.
 
-10. Gerichtsstand und geltendes Recht
+11. Gerichtsstand und geltendes Recht
 
 Diese Bedingungen unterliegen ausschließlich den Gesetzen des Staates Israel. Ausschließlicher Gerichtsstand bei Streitigkeiten sind die zuständigen Gerichte im Bezirk Tel Aviv-Jaffa, Israel.
 
-11. Kontaktieren Sie uns
+12. Kontaktieren Sie uns
 
 Für rechtliche Anfragen: legal@talmify.com

@@ -58,20 +58,26 @@ Alla immateriella rättigheter i Appen (inklusive kod, design, logotyper och var
 
 Appen tillåter säkerhetskopiering av data till Apples iCloud-tjänst. Denna tjänst är extern och drivs av tredje part. Företaget ansvarar inte för integriteten, lagringen eller återställningen av säkerhetskopian. Användaren är ensam ansvarig för att säkerhetskopiera sina data.
 
-8. Ansvarsbegränsning
+8. Tredjepartstjänster och programvarukomponenter
 
-8.1. Under inga omständigheter ska Företaget, dess anställda eller någon som agerar för dess räkning hållas ansvarig för några direkta, indirekta, följdskador, särskilda eller straffskador (inklusive förlust av data, förlust av vinst, psykiskt lidande etc.) som uppstår till följd av användningen eller oförmågan att använda Appen.
+8.1.Appen kan inkludera eller förlita sig på programvarukomponenter, gränssnitt eller tjänster som tillhandahålls av tredje part (såsom betalningshantering, dataanalys, marknadsföring eller molntjänster).
+8.2.Dessa tjänster är föremål för användarvillkoren för respektive tredje part.Verksamheten utvecklar, underhåller eller kontrollerar inte dessa komponenter och gör inga utfästelser om deras korrekta funktion, säkerhet eller kontinuitet i driften.
+8.3.Verksamheten ska inte bära något ansvar för någon direkt eller indirekt skada som orsakats dig till följd av användning, krasch, bugg eller säkerhetsfel som härrör från tredjepartskomponenter integrerade i appen.
 
-8.2. Utan att avvika från ovanstående, ska Företagets maximala och totala ansvar gentemot Användaren, oavsett orsak, begränsas till det belopp som faktiskt betalats av Användaren till Företaget under de tre månader som föregick händelsen som orsakade skadan, eller 50 NIS, vilket som är lägre.
+9. Ansvarsbegränsning
 
-9. Skadeersättning
+9.1. Under inga omständigheter ska Företaget, dess anställda eller någon som agerar för dess räkning hållas ansvarig för några direkta, indirekta, följdskador, särskilda eller straffskador (inklusive förlust av data, förlust av vinst, psykiskt lidande etc.) som uppstår till följd av användningen eller oförmågan att använda Appen.
+
+9.2. Utan att avvika från ovanstående, ska Företagets maximala och totala ansvar gentemot Användaren, oavsett orsak, begränsas till det belopp som faktiskt betalats av Användaren till Företaget under de tre månader som föregick händelsen som orsakade skadan, eller 50 NIS, vilket som är lägre.
+
+10. Skadeersättning
 
 Du samtycker till att ersätta Företaget för all skada, förlust eller kostnad (inklusive juridiska avgifter) som orsakats det på grund av ditt brott mot dessa Villkor eller på grund av skada som orsakats tredje part.
 
-10. Jurisdiktion och tillämplig lag
+11. Jurisdiktion och tillämplig lag
 
 Dessa Villkor ska uteslutande regleras av lagarna i Staten Israel. Exklusiv jurisdiktion i alla tvister tillkommer behöriga domstolar i distriktet Tel Aviv-Yafo, Israel.
 
-11. Kontakta oss
+12. Kontakta oss
 
 För juridiska frågor: legal@talmify.com

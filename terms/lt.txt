@@ -58,20 +58,26 @@ Visi intelektinės nuosavybės teises Programėlėje (įskaitant kodą, dizainą
 
 Programėlė leidžia kurti duomenų atsargines kopijas „Apple“ „iCloud“ paslaugoje. Ši paslauga yra išorinė ir valdoma trečiosios šalies. Verslas nėra atsakingas už atsarginės kopijos vientisumą, saugojimą ar atkūrimą. Vartotojas yra visiškai atsakingas už savo duomenų atsarginės kopijos kūrimą.
 
-8. Atsakomybės apribojimas
+8. Trečiųjų šalių paslaugos ir programinės įrangos komponentai
 
-8.1. Jokiu būdu Verslas, jo darbuotojai ar kas nors jo vardu nebus atsakingas už jokią tiesioginę, netiesioginę, pasekminę, specialią ar baudžiamąją žalą (įskaitant duomenų praradimą, pelno praradimą, psichinę kančią ir t. t.), atsiradusią dėl naudojimo ar negalėjimo naudotis Programėle.
+8.1.Programėlėje gali būti programinės įrangos komponentų, sąsajų arba trečiųjų šalių teikiamų paslaugų (tokių kaip mokėjimų apdorojimas, duomenų analizė, rinkodara ar debesies paslaugos) arba jos gali būti naudojamos.
+8.2.Šioms paslaugoms taikomos tų atitinkamų trečiųjų šalių naudojimo sąlygos.Įmonė nekuria, neprižiūri ir nekontroliuoja šių komponentų ir neteikia jokių pareiškimų dėl tinkamo jų veikimo, saugumo ar veiklos tęstinumo.
+8.3.Įmonė neprisiima jokios atsakomybės už bet kokią tiesioginę ar netiesioginę žalą, padarytą jums dėl naudojimo, gedimo, klaidos ar saugumo gedimo, atsiradusio dėl į Programėlę integruotų trečiųjų šalių komponentų.
 
-8.2. Nenukrypstant nuo aukščiau išdėstytų dalykų, maksimali ir bendra Verslo atsakomybė Vartotojui, dėl bet kokios priežasties, bus apribota suma, kurią Vartotojas faktiškai sumokėjo Verslui per tris mėnesius iki įvykio, sukėlusio žalą, arba 50 NIS, priklausomai nuo to, kuri suma yra mažesnė.
+9. Atsakomybės apribojimas
 
-9. Žalos atlyginimas
+9.1. Jokiu būdu Verslas, jo darbuotojai ar kas nors jo vardu nebus atsakingas už jokią tiesioginę, netiesioginę, pasekminę, specialią ar baudžiamąją žalą (įskaitant duomenų praradimą, pelno praradimą, psichinę kančią ir t. t.), atsiradusią dėl naudojimo ar negalėjimo naudotis Programėle.
+
+9.2. Nenukrypstant nuo aukščiau išdėstytų dalykų, maksimali ir bendra Verslo atsakomybė Vartotojui, dėl bet kokios priežasties, bus apribota suma, kurią Vartotojas faktiškai sumokėjo Verslui per tris mėnesius iki įvykio, sukėlusio žalą, arba 50 NIS, priklausomai nuo to, kuri suma yra mažesnė.
+
+10. Žalos atlyginimas
 
 Jūs sutinkate atlyginti Verslui bet kokią žalą, nuostolius ar išlaidas (įskaitant teisines išlaidas), padarytas jam dėl jūsų šių Sąlygų pažeidimo arba dėl žalos, padarytos trečiajai šaliai.
 
-10. Jurisdikcija ir taikytina teisė
+11. Jurisdikcija ir taikytina teisė
 
 Šias Sąlygas reglamentuos tik Izraelio Valstybės įstatymai. Išimtinė jurisdikcija bet kokiame ginče suteikiama kompetentingiems teismams Tel Avivo-Jafo apygardoje, Izraelyje.
 
-11. Susisiekite su mumis
+12. Susisiekite su mumis
 
 Dėl teisinių užklausų: legal@talmify.com

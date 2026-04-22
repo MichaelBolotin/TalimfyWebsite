@@ -58,20 +58,26 @@ Tất cả các quyền sở hữu trí tuệ trong Ứng dụng (bao gồm mã,
 
 Ứng dụng cho phép sao lưu dữ liệu vào dịch vụ iCloud của Apple. Dịch vụ này là bên ngoài và được vận hành bởi bên thứ ba. Doanh nghiệp không chịu trách nhiệm về tính toàn vẹn, lưu trữ hoặc khôi phục bản sao lưu. Người dùng hoàn toàn chịu trách nhiệm sao lưu dữ liệu của mình.
 
-8. Giới hạn trách nhiệm
+8. Các thành phần phần mềm và dịch vụ của bên thứ ba
 
-8.1. Trong mọi trường hợp, Doanh nghiệp, nhân viên của Doanh nghiệp hoặc bất kỳ ai thay mặt Doanh nghiệp sẽ không chịu trách nhiệm cho bất kỳ thiệt hại trực tiếp, gián tiếp, do hậu quả, đặc biệt hoặc trừng phạt nào (bao gồm mất dữ liệu, mất lợi nhuận, đau khổ về tinh thần, v.v.) phát sinh từ việc sử dụng hoặc không thể sử dụng Ứng dụng.
+8.1.Ứng dụng có thể bao gồm hoặc dựa vào các thành phần, giao diện hoặc dịch vụ phần mềm do bên thứ ba cung cấp (chẳng hạn như xử lý thanh toán, phân tích dữ liệu, tiếp thị hoặc dịch vụ đám mây).
+8.2.Các dịch vụ này phải tuân theo các điều khoản sử dụng của các bên thứ ba tương ứng.Doanh nghiệp không phát triển, duy trì hoặc kiểm soát các thành phần này và không đưa ra tuyên bố nào về chức năng, tính bảo mật hoặc tính liên tục hoạt động đúng đắn của chúng.
+8.3.Doanh nghiệp sẽ không chịu bất kỳ trách nhiệm pháp lý nào đối với mọi thiệt hại trực tiếp hoặc gián tiếp gây ra cho bạn do việc sử dụng, sự cố, lỗi hoặc lỗi bảo mật bắt nguồn từ các thành phần của bên thứ ba được tích hợp vào Ứng dụng.
 
-8.2. Không làm giảm nhẹ những điều trên, trách nhiệm tối đa và tổng hợp của Doanh nghiệp đối với Người dùng, vì bất kỳ nguyên nhân nào, sẽ được giới hạn ở số tiền thực tế mà Người dùng đã trả cho Doanh nghiệp trong ba tháng trước sự kiện gây ra thiệt hại, hoặc 50 NIS, tùy theo mức nào thấp hơn.
+9. Giới hạn trách nhiệm
 
-9. Bồi thường
+9.1. Trong mọi trường hợp, Doanh nghiệp, nhân viên của Doanh nghiệp hoặc bất kỳ ai thay mặt Doanh nghiệp sẽ không chịu trách nhiệm cho bất kỳ thiệt hại trực tiếp, gián tiếp, do hậu quả, đặc biệt hoặc trừng phạt nào (bao gồm mất dữ liệu, mất lợi nhuận, đau khổ về tinh thần, v.v.) phát sinh từ việc sử dụng hoặc không thể sử dụng Ứng dụng.
+
+9.2. Không làm giảm nhẹ những điều trên, trách nhiệm tối đa và tổng hợp của Doanh nghiệp đối với Người dùng, vì bất kỳ nguyên nhân nào, sẽ được giới hạn ở số tiền thực tế mà Người dùng đã trả cho Doanh nghiệp trong ba tháng trước sự kiện gây ra thiệt hại, hoặc 50 NIS, tùy theo mức nào thấp hơn.
+
+10. Bồi thường
 
 Bạn đồng ý bồi thường cho Doanh nghiệp về mọi thiệt hại, mất mát hoặc chi phí (bao gồm phí pháp lý) gây ra cho Doanh nghiệp do bạn vi phạm các Điều khoản này hoặc do tổn hại gây ra cho bên thứ ba.
 
-10. Thẩm quyền và Luật điều chỉnh
+11. Thẩm quyền và Luật điều chỉnh
 
 Các Điều khoản này sẽ được điều chỉnh hoàn toàn bởi luật pháp của Nhà nước Israel. Thẩm quyền độc quyền trong bất kỳ tranh chấp nào được trao cho các tòa án có thẩm quyền tại Quận Tel Aviv-Yafo, Israel.
 
-11. Liên hệ với chúng tôi
+12. Liên hệ với chúng tôi
 
 Đối với các câu hỏi pháp lý: legal@talmify.com
