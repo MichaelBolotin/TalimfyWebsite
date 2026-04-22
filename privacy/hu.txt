@@ -23,6 +23,7 @@ Az Alkalmazás működtetése érdekében információkat osztunk meg külső sz
 * Google Firebase: Adattárolásra, statisztikai elemzésre és adatok fogadására más szolgáltatóktól.
 * Apple Inc.: Fizetésfeldolgozásra, előfizetés-kezelésre, iCloud biztonsági mentésre (ha engedélyezte) és Apple Intelligence szolgáltatások nyújtására.
 * RevenueCat: Platform az előfizetési infrastruktúra kezelésére. Ezt a szolgáltatást a nyugták ellenőrzésére, az előfizetés állapotának kezelésére és a vásárlási adatok elemzési szolgáltatásokkal (Firebase) való szinkronizálására használjuk a felhasználói élmény javítása érdekében.
+* TikTok: A TikTok platformot használjuk marketingkampányaink hatékonyságának mérésére és a telepítések hozzárendelésére. A szolgáltatásnak továbbított információk szigorúan technikai jellegűek (például IP-cím és alapvető eszközadatok az Alkalmazás indításakor). Ezúton tisztázzuk, hogy nem hajtunk végre, nem kérünk engedélyt és nem engedélyezzük a felhasználók követését harmadik felek alkalmazásaiban vagy webhelyein (Alkalmazások közötti követés). Az információkat kizárólag a Vállalkozás belső statisztikai céljaira használják fel, és e harmadik fél általi feldolgozására a TikTok adatvédelmi szabályzata vonatkozik.
 
 3. Mesterséges Intelligencia (AI) Szolgáltatások
 

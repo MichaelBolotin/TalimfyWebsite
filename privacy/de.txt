@@ -23,6 +23,7 @@ Wir teilen Informationen mit externen Dienstleistern für den Betrieb der App:
 * Google Firebase: Zur Datenspeicherung, statistischen Analyse und zum Empfang von Daten von anderen Anbietern.
 * Apple Inc.: Zur Zahlungsabwicklung, Abonnementverwaltung, iCloud-Backup (falls von Ihnen aktiviert) und Bereitstellung von Apple Intelligence-Diensten.
 * RevenueCat: Eine Plattform für das Management der Abonnement-Infrastruktur. Dieser Dienst wird zur Quittungsvalidierung, Verwaltung Ihres Abonnementstatus und Synchronisierung von Kaufdaten mit Analysediensten (Firebase) zur Verbesserung der Benutzererfahrung verwendet.
+* TikTok: Wir nutzen die TikTok-Plattform, um die Wirksamkeit unserer Marketingkampagnen zu messen und Installationen zuzuordnen. Die an diesen Dienst übermittelten Informationen sind rein technischer Natur (z. B. IP-Adresse und grundlegende Gerätedaten beim Start der App). Wir stellen hiermit klar, dass wir kein Tracking von Benutzern über Anwendungen oder Websites Dritter hinweg durchführen, keine Erlaubnis dazu einholen oder zulassen (Cross-App-Tracking). Die Informationen werden ausschließlich für interne statistische Zwecke des Unternehmens verwendet und ihre Verarbeitung durch diesen Dritten unterliegt der Datenschutzrichtlinie von TikTok.
 
 3. Dienste für Künstliche Intelligenz (KI)
 

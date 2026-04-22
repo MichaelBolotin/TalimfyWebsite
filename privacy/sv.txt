@@ -23,6 +23,7 @@ Vi delar information med externa tjänsteleverantörer för driften av Appen:
 * Google Firebase: För datalagring, statistisk analys och mottagande av data från andra leverantörer.
 * Apple Inc.: För betalningsbehandling, prenumerationshantering, iCloud-säkerhetskopiering (om aktiverat av dig) och tillhandahållande av Apple Intelligence-tjänster.
 * RevenueCat: En plattform för hantering av prenumerationsinfrastruktur. Denna tjänst används för kvitto-validering, hantering av din prenumerationsstatus och synkronisering av köpdata med analystjänster (Firebase) för att förbättra användarupplevelsen.
+* TikTok: Vi använder TikTok-plattformen för att mäta effektiviteten av våra marknadsföringskampanjer och för installationstillskrivning. Informationen som överförs till denna tjänst är strikt teknisk (såsom IP-adress och grundläggande enhetsdata när appen startas). Vi klargör härmed att vi inte utför, begär tillstånd för eller tillåter spårning av användare över tredjepartsapplikationer eller webbplatser (spårning över appar). Informationen används enbart för företagets interna statistiska ändamål, och dess behandling av denna tredje part är föremål för TikToks sekretesspolicy.
 
 3. Artificiell intelligens (AI)-tjänster
 
