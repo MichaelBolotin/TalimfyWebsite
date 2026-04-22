@@ -58,20 +58,26 @@ Toate drepturile de proprietate intelectuală din Aplicație (inclusiv codul, de
 
 Aplicația permite copierea de rezervă a datelor în serviciul iCloud al Apple. Acest serviciu este extern și operat de o terță parte. Afacerea nu este responsabilă pentru integritatea, stocarea sau restaurarea copiei de rezervă. Utilizatorul este singurul responsabil pentru copierea de rezervă a datelor sale.
 
-8. Limitarea Răspunderii
+8. Servicii și componente software ale terților
 
-8.1. În niciun caz Afacerea, angajații săi sau oricine acționează în numele său nu va fi răspunzător pentru nicio daună directă, indirectă, consecventă, specială sau punitivă (inclusiv pierderea de date, pierderea de profituri, suferință mentală etc.) care rezultă din utilizarea sau incapacitatea de a utiliza Aplicația.
+8.1.Aplicația poate include sau se poate baza pe componente software, interfețe sau servicii furnizate de terți (cum ar fi procesarea plăților, analiza datelor, marketingul sau serviciile cloud).
+8.2.Aceste servicii sunt supuse termenilor de utilizare ai acelor terțe părți respective.Compania nu dezvoltă, întreține sau controlează aceste componente și nu face nicio declarație cu privire la buna funcționare, securitatea sau continuitatea funcționării acestora.
+8.3.Compania nu își asumă nicio răspundere pentru nicio daune directe sau indirecte cauzate de dvs. ca urmare a utilizării, blocării, erorilor sau erorilor de securitate provenite din componentele terțelor integrate în Aplicație.
 
-8.2. Fără a deroga de la cele de mai sus, răspunderea maximă și totală a Afacerii față de Utilizator, din orice cauză, va fi limitată la suma plătită efectiv de Utilizator către Afacere în cele trei luni premergătoare evenimentului care a cauzat dauna, sau 50 NIS, oricare dintre acestea este mai mică.
+9. Limitarea Răspunderii
 
-9. Despăgubire
+9.1. În niciun caz Afacerea, angajații săi sau oricine acționează în numele său nu va fi răspunzător pentru nicio daună directă, indirectă, consecventă, specială sau punitivă (inclusiv pierderea de date, pierderea de profituri, suferință mentală etc.) care rezultă din utilizarea sau incapacitatea de a utiliza Aplicația.
+
+9.2. Fără a deroga de la cele de mai sus, răspunderea maximă și totală a Afacerii față de Utilizator, din orice cauză, va fi limitată la suma plătită efectiv de Utilizator către Afacere în cele trei luni premergătoare evenimentului care a cauzat dauna, sau 50 NIS, oricare dintre acestea este mai mică.
+
+10. Despăgubire
 
 Sunteți de acord să despăgubiți Afacerea pentru orice daună, pierdere sau cheltuială (inclusiv taxe legale) cauzată acesteia din cauza încălcării de către dumneavoastră a acestor Termeni sau din cauza daunelor cauzate unei terțe părți.
 
-10. Jurisdicție și Legea Guvernantă
+11. Jurisdicție și Legea Guvernantă
 
 Acești Termeni vor fi guvernați exclusiv de legile Statului Israel. Jurisdicția exclusivă în orice dispută este învestită în instanțele competente din Districtul Tel Aviv-Yafo, Israel.
 
-11. Contactați-ne
+12. Contactați-ne
 
 Pentru întrebări legale: legal@talmify.com

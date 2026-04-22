@@ -58,20 +58,26 @@ Alle intellectuele eigendomsrechten in de App (inclusief code, ontwerp, logo's e
 
 De App staat gegevensback-up naar de iCloud-service van Apple toe. Deze service is extern en wordt beheerd door een derde partij. De Onderneming is niet verantwoordelijk voor de integriteit, opslag of het herstel van de back-up. De Gebruiker is als enige verantwoordelijk voor het maken van een back-up van zijn gegevens.
 
-8. Beperking van Aansprakelijkheid
+8. Diensten en softwarecomponenten van derden
 
-8.1. In geen geval zal de Onderneming, haar werknemers of iemand namens haar aansprakelijk zijn voor enige directe, indirecte, gevolg-, speciale of punitieve schade (inclusief verlies van gegevens, winstderving, mentale angst, enz.) die voortvloeit uit het gebruik of het onvermogen om de App te gebruiken.
+8.1.De App kan softwarecomponenten, interfaces of diensten bevatten of hierop vertrouwen die door derden worden geleverd (zoals betalingsverwerking, gegevensanalyse, marketing of clouddiensten).
+8.2.Op deze diensten zijn de gebruiksvoorwaarden van de desbetreffende derde partijen van toepassing.Het Bedrijf ontwikkelt, onderhoudt of controleert deze componenten niet en doet geen uitspraken over de goede werking, veiligheid of continuïteit van de bedrijfsvoering.
+8.3.Het Bedrijf aanvaardt geen enkele aansprakelijkheid voor enige directe of indirecte schade die aan u wordt toegebracht als gevolg van gebruik, crash, bug of beveiligingsfout die voortkomt uit componenten van derden die in de App zijn geïntegreerd.
 
-8.2. Zonder afbreuk te doen aan het bovenstaande, zal de maximale en totale aansprakelijkheid van de Onderneming jegens de Gebruiker, om welke reden dan ook, beperkt zijn tot het bedrag dat daadwerkelijk door de Gebruiker aan de Onderneming is betaald in de drie maanden voorafgaand aan de gebeurtenheid die de schade heeft veroorzaakt, of 50 NIS, wat lager is.
+9. Beperking van Aansprakelijkheid
 
-9. Vrijwaring
+9.1. In geen geval zal de Onderneming, haar werknemers of iemand namens haar aansprakelijk zijn voor enige directe, indirecte, gevolg-, speciale of punitieve schade (inclusief verlies van gegevens, winstderving, mentale angst, enz.) die voortvloeit uit het gebruik of het onvermogen om de App te gebruiken.
+
+9.2. Zonder afbreuk te doen aan het bovenstaande, zal de maximale en totale aansprakelijkheid van de Onderneming jegens de Gebruiker, om welke reden dan ook, beperkt zijn tot het bedrag dat daadwerkelijk door de Gebruiker aan de Onderneming is betaald in de drie maanden voorafgaand aan de gebeurtenheid die de schade heeft veroorzaakt, of 50 NIS, wat lager is.
+
+10. Vrijwaring
 
 U stemt ermee in de Onderneming te vrijwaren voor enige schade, verlies of kosten (inclusief juridische kosten) die aan haar worden veroorzaakt als gevolg van uw schending van deze Voorwaarden of als gevolg van schade toegebracht aan een derde partij.
 
-10. Jurisdictie en Toepasselijk Recht
+11. Jurisdictie en Toepasselijk Recht
 
 Deze Voorwaarden worden uitsluitend beheerst door de wetten van de Staat Israël. Exclusieve jurisdictie in elk geschil is voorbehouden aan de bevoegde rechtbanken in het District Tel Aviv-Yafo, Israël.
 
-11. Neem contact met ons op
+12. Neem contact met ons op
 
 Voor juridische vragen: legal@talmify.com

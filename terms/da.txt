@@ -58,20 +58,26 @@ Alle intellektuelle ejendomsrettigheder i Appen (herunder kode, design, logoer o
 
 Appen tillader backup af data til Apples iCloud-tjeneste. Denne tjeneste er ekstern og drives af en tredjepart. Virksomheden er ikke ansvarlig for integriteten, opbevaringen eller gendannelsen af backuppen. Brugeren er alene ansvarlig for at tage backup af sine data.
 
-8. Begrænsning af ansvar
+8. Tredjepartstjenester og softwarekomponenter
 
-8.1. Under ingen omstændigheder skal Virksomheden, dens ansatte eller nogen på dens vegne være ansvarlig for nogen direkte, indirekte, følgeskader, særlige eller straffende skader (herunder tab af data, tab af fortjeneste, mental angst osv.), der opstår som følge af brugen eller manglende evne til at bruge Appen.
+8.1.Appen kan inkludere eller stole på softwarekomponenter, grænseflader eller tjenester leveret af tredjeparter (såsom betalingsbehandling, dataanalyse, marketing eller cloud-tjenester).
+8.2.Disse tjenester er underlagt de respektive tredjeparters brugsbetingelser.Virksomheden udvikler, vedligeholder eller kontrollerer ikke disse komponenter og giver ingen erklæringer om deres korrekte funktion, sikkerhed eller kontinuitet i driften.
+8.3.Virksomheden påtager sig intet ansvar for nogen direkte eller indirekte skade forårsaget af dig som følge af brug, nedbrud, fejl eller sikkerhedsfejl, der stammer fra tredjepartskomponenter integreret i appen.
 
-8.2. Uden at fravige ovenstående skal Virksomhedens maksimale og samlede ansvar over for Brugeren, uanset årsag, være begrænset til det beløb, der faktisk er betalt af Brugeren til Virksomheden i de tre måneder forud for begivenheden, der forårsagede skaden, eller 50 NIS, hvad end der er lavest.
+9. Begrænsning af ansvar
 
-9. Skadesløsholdelse
+9.1. Under ingen omstændigheder skal Virksomheden, dens ansatte eller nogen på dens vegne være ansvarlig for nogen direkte, indirekte, følgeskader, særlige eller straffende skader (herunder tab af data, tab af fortjeneste, mental angst osv.), der opstår som følge af brugen eller manglende evne til at bruge Appen.
+
+9.2. Uden at fravige ovenstående skal Virksomhedens maksimale og samlede ansvar over for Brugeren, uanset årsag, være begrænset til det beløb, der faktisk er betalt af Brugeren til Virksomheden i de tre måneder forud for begivenheden, der forårsagede skaden, eller 50 NIS, hvad end der er lavest.
+
+10. Skadesløsholdelse
 
 Du accepterer at skadesløsholde Virksomheden for enhver skade, tab eller udgift (herunder juridiske gebyrer), der påføres den som følge af din overtrædelse af disse Vilkår eller som følge af skade forvoldt på en tredjepart.
 
-10. Jurisdiktion og gældende lov
+11. Jurisdiktion og gældende lov
 
 Disse Vilkår er udelukkende underlagt lovgivningen i Staten Israel. Eksklusiv jurisdiktion i enhver tvist er tillagt de kompetente domstole i distriktet Tel Aviv-Yafo, Israel.
 
-11. Kontakt os
+12. Kontakt os
 
 For juridiske henvendelser: legal@talmify.com

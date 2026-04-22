@@ -58,20 +58,26 @@ Tots els drets de propietat intel·lectual de l'App (inclosos codi, disseny, log
 
 L'App permet fer còpies de seguretat de dades al servei iCloud d'Apple. Aquest servei és extern i operat per un tercer. El Negoci no és responsable de la integritat, emmagatzematge o restauració de la còpia de seguretat. L'Usuari és l'únic responsable de fer còpies de seguretat de les seves dades.
 
-8. Limitació de Responsabilitat
+8. Serveis de tercers i Components de programari
 
-8.1. En cap cas el Negoci, els seus empleats o qualsevol persona en nom seu serà responsable de cap dany directe, indirecte, conseqüent, especial o punitiu (inclosos pèrdua de dades, pèrdua de beneficis, angoixa mental, etc.) derivat de l'ús o la incapacitat d'utilitzar l'App.
+8.1.L'aplicació pot incloure o dependre de components de programari, interfícies o serveis proporcionats per tercers (com ara processament de pagaments, anàlisi de dades, màrqueting o serveis al núvol).
+8.2.Aquests serveis estan subjectes a les condicions d'ús d'aquests respectius tercers.L'empresa no desenvolupa, manté ni controla aquests components, i no fa cap representació sobre el seu bon funcionament, seguretat o continuïtat de l'operació.
+8.3.L'Empresa no assumeix cap responsabilitat per cap dany directe o indirecte causat a vostè com a conseqüència de l'ús, bloqueig, error o fallada de seguretat originada en components de tercers integrats a l'App.
 
-8.2. Sense perjudici de l'anterior, la responsabilitat màxima i agregada del Negoci envers l'Usuari, per qualsevol causa, es limitarà a la quantitat realment pagada per l'Usuari al Negoci en els tres mesos anteriors a l'esdeveniment que va causar el dany, o 50 NIS, el que sigui menor.
+9. Limitació de Responsabilitat
 
-9. Indemnització
+9.1. En cap cas el Negoci, els seus empleats o qualsevol persona en nom seu serà responsable de cap dany directe, indirecte, conseqüent, especial o punitiu (inclosos pèrdua de dades, pèrdua de beneficis, angoixa mental, etc.) derivat de l'ús o la incapacitat d'utilitzar l'App.
+
+9.2. Sense perjudici de l'anterior, la responsabilitat màxima i agregada del Negoci envers l'Usuari, per qualsevol causa, es limitarà a la quantitat realment pagada per l'Usuari al Negoci en els tres mesos anteriors a l'esdeveniment que va causar el dany, o 50 NIS, el que sigui menor.
+
+10. Indemnització
 
 Accepteu indemnitzar el Negoci per qualsevol dany, pèrdua o despesa (inclosos honoraris legals) causats a aquest a causa de la vostra violació d'aquests Termes o a causa de danys causats a un tercer.
 
-10. Jurisdicció i Llei Aplicable
+11. Jurisdicció i Llei Aplicable
 
 Aquests Termes es regiran únicament per les lleis de l'Estat d'Israel. La jurisdicció exclusiva en qualsevol disputa es confereix als tribunals competents del Districte de Tel Aviv-Yafo, Israel.
 
-11. Contacteu amb Nosaltres
+12. Contacteu amb Nosaltres
 
 Per a consultes legals: legal@talmify.com

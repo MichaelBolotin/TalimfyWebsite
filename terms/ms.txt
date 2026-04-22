@@ -58,20 +58,26 @@ Semua hak harta intelek dalam Aplikasi (termasuk kod, reka bentuk, logo, dan tan
 
 Aplikasi membenarkan sandaran data ke perkhidmatan iCloud Apple. Perkhidmatan ini adalah luaran dan dikendalikan oleh pihak ketiga. Perniagaan tidak bertanggungjawab atas integriti, penyimpanan, atau pemulihan sandaran. Pengguna bertanggungjawab sepenuhnya untuk menyandarkan data mereka.
 
-8. Had Liabiliti
+8. Perkhidmatan Pihak Ketiga dan Komponen Perisian
 
-8.1. Dalam apa jua keadaan, Perniagaan, pekerjanya, atau sesiapa sahaja bagi pihaknya tidak akan bertanggungjawab atas sebarang kerosakan langsung, tidak langsung, berbangkit, khas, atau punitif (termasuk kehilangan data, kehilangan keuntungan, penderitaan mental, dll.) yang timbul daripada penggunaan atau ketidakupayaan untuk menggunakan Aplikasi.
+8.1.Apl mungkin termasuk atau bergantung pada komponen perisian, antara muka atau perkhidmatan yang disediakan oleh pihak ketiga (seperti pemprosesan pembayaran, analisis data, pemasaran atau perkhidmatan awan).
+8.2.Perkhidmatan ini tertakluk kepada syarat penggunaan pihak ketiga tersebut.Perniagaan tidak membangunkan, menyelenggara, atau mengawal komponen ini, dan tidak membuat pernyataan mengenai fungsi, keselamatan, atau kesinambungan operasi yang betul.
+8.3.Perniagaan tidak akan menanggung sebarang liabiliti untuk sebarang kerosakan langsung atau tidak langsung yang disebabkan oleh anda akibat daripada penggunaan, ranap, pepijat atau kegagalan keselamatan yang berpunca daripada komponen pihak ketiga yang disepadukan ke dalam Apl.
 
-8.2. Tanpa mengurangkan perkara di atas, liabiliti maksimum dan agregat Perniagaan terhadap Pengguna, untuk apa jua sebab, akan dihadkan kepada jumlah yang sebenarnya dibayar oleh Pengguna kepada Perniagaan dalam tiga bulan sebelum kejadian yang menyebabkan kerosakan, atau 50 NIS, mana yang lebih rendah.
+9. Had Liabiliti
 
-9. Ganti Rugi
+9.1. Dalam apa jua keadaan, Perniagaan, pekerjanya, atau sesiapa sahaja bagi pihaknya tidak akan bertanggungjawab atas sebarang kerosakan langsung, tidak langsung, berbangkit, khas, atau punitif (termasuk kehilangan data, kehilangan keuntungan, penderitaan mental, dll.) yang timbul daripada penggunaan atau ketidakupayaan untuk menggunakan Aplikasi.
+
+9.2. Tanpa mengurangkan perkara di atas, liabiliti maksimum dan agregat Perniagaan terhadap Pengguna, untuk apa jua sebab, akan dihadkan kepada jumlah yang sebenarnya dibayar oleh Pengguna kepada Perniagaan dalam tiga bulan sebelum kejadian yang menyebabkan kerosakan, atau 50 NIS, mana yang lebih rendah.
+
+10. Ganti Rugi
 
 Anda bersetuju untuk mengganti rugi Perniagaan atas sebarang kerosakan, kerugian, atau perbelanjaan (termasuk yuran guaman) yang ditanggung olehnya disebabkan oleh pelanggaran anda terhadap Terma ini atau disebabkan oleh kemudaratan yang ditimbulkan kepada pihak ketiga.
 
-10. Bidang Kuasa dan Undang-undang yang Mengawal
+11. Bidang Kuasa dan Undang-undang yang Mengawal
 
 Terma ini akan dikawal semata-mata oleh undang-undang Negara Israel. Bidang kuasa eksklusif dalam sebarang pertikaian diletakkan di mahkamah yang kompeten di Daerah Tel Aviv-Yafo, Israel.
 
-11. Hubungi Kami
+12. Hubungi Kami
 
 Untuk pertanyaan undang-undang: legal@talmify.com

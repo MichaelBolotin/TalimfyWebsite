@@ -58,20 +58,26 @@ Vse pravice intelektualne lastnine v Aplikaciji (vključno s kodo, dizajnom, log
 
 Aplikacija omogoča varnostno kopiranje podatkov v storitev iCloud družbe Apple. Ta storitev je zunanja in jo upravlja tretja oseba. Podjetje ni odgovorno za celovitost, shranjevanje ali obnovitev varnostne kopije. Uporabnik je izključno odgovoren za varnostno kopiranje svojih podatkov.
 
-8. Omejitev odgovornosti
+8. Storitve tretjih oseb in komponente programske opreme
 
-8.1. V nobenem primeru Podjetje, njegovi zaposleni ali kdor koli v njegovem imenu ne odgovarja za kakršno koli neposredno, posredno, posledično, posebno ali kaznovalno škodo (vključno z izgubo podatkov, izgubo dobička, duševnimi bolečinami itd.), ki izhaja iz uporabe ali nezmožnosti uporabe Aplikacije.
+8.1.Aplikacija lahko vključuje ali se zanaša na komponente programske opreme, vmesnike ali storitve, ki jih zagotavljajo tretje osebe (kot so obdelava plačil, analiza podatkov, trženje ali storitve v oblaku).
+8.2.Za te storitve veljajo pogoji uporabe zadevnih tretjih oseb.Podjetje ne razvija, vzdržuje ali nadzira teh komponent in ne daje nobenih zagotovil glede njihovega pravilnega delovanja, varnosti ali neprekinjenega delovanja.
+8.3.Podjetje ne prevzema nikakršne odgovornosti za kakršno koli neposredno ali posredno škodo, ki vam jo povzroči uporaba, zrušitev, napaka ali varnostna napaka, ki izvira iz komponent tretjih oseb, integriranih v aplikacijo.
 
-8.2. Brez odstopanja od zgoraj navedenega je največja in skupna odgovornost Podjetja do Uporabnika, iz katerega koli vzroka, omejena na znesek, ki ga je Uporabnik dejansko plačal Podjetju v treh mesecih pred dogodkom, ki je povzročil škodo, ali 50 NIS, kar je manj.
+9. Omejitev odgovornosti
 
-9. Odškodnina
+9.1. V nobenem primeru Podjetje, njegovi zaposleni ali kdor koli v njegovem imenu ne odgovarja za kakršno koli neposredno, posredno, posledično, posebno ali kaznovalno škodo (vključno z izgubo podatkov, izgubo dobička, duševnimi bolečinami itd.), ki izhaja iz uporabe ali nezmožnosti uporabe Aplikacije.
+
+9.2. Brez odstopanja od zgoraj navedenega je največja in skupna odgovornost Podjetja do Uporabnika, iz katerega koli vzroka, omejena na znesek, ki ga je Uporabnik dejansko plačal Podjetju v treh mesecih pred dogodkom, ki je povzročil škodo, ali 50 NIS, kar je manj.
+
+10. Odškodnina
 
 Strinjate se, da boste Podjetju povrnili kakršno koli škodo, izgubo ali strošek (vključno s pravnimi stroški), ki mu je nastal zaradi vaše kršitve teh Pogojev ali zaradi škode, povzročene tretji osebi.
 
-10. Pristojnost in veljavno pravo
+11. Pristojnost in veljavno pravo
 
 Te Pogoje urejajo izključno zakoni Države Izrael. Izključna pristojnost v vsakem sporu je dodeljena pristojnim sodiščem v okrožju Tel Aviv-Yafo, Izrael.
 
-11. Kontaktirajte nas
+12. Kontaktirajte nas
 
 Za pravna vprašanja: legal@talmify.com

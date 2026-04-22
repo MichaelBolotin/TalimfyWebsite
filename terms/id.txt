@@ -58,20 +58,26 @@ Semua hak kekayaan intelektual dalam Aplikasi (termasuk kode, desain, logo, dan 
 
 Aplikasi memungkinkan pencadangan data ke layanan iCloud Apple. Layanan ini bersifat eksternal dan dioperasikan oleh pihak ketiga. Bisnis tidak bertanggung jawab atas integritas, penyimpanan, atau pemulihan cadangan. Pengguna sepenuhnya bertanggung jawab untuk mencadangkan data mereka.
 
-8. Batasan Tanggung Jawab
+8. Layanan Pihak Ketiga dan Komponen Perangkat Lunak
 
-8.1. Dalam keadaan apa pun Bisnis, karyawannya, atau siapa pun atas namanya tidak akan bertanggung jawab atas kerusakan langsung, tidak langsung, konsekuensial, khusus, atau hukuman (termasuk kehilangan data, kehilangan keuntungan, penderitaan mental, dll.) yang timbul dari penggunaan atau ketidakmampuan untuk menggunakan Aplikasi.
+8.1.Aplikasi dapat menyertakan atau mengandalkan komponen perangkat lunak, antarmuka, atau layanan yang disediakan oleh pihak ketiga (seperti pemrosesan pembayaran, analisis data, pemasaran, atau layanan cloud).
+8.2.Layanan ini tunduk pada ketentuan penggunaan masing-masing pihak ketiga.Bisnis tidak mengembangkan, memelihara, atau mengendalikan komponen-komponen ini, dan tidak membuat pernyataan mengenai fungsi, keamanan, atau kelangsungan operasinya.
+8.3.Bisnis tidak bertanggung jawab atas segala kerusakan langsung atau tidak langsung yang menimpa Anda sebagai akibat dari penggunaan, kerusakan, bug, atau kegagalan keamanan yang berasal dari komponen pihak ketiga yang terintegrasi ke dalam Aplikasi.
 
-8.2. Tanpa mengurangi hal di atas, tanggung jawab maksimum dan agregat Bisnis terhadap Pengguna, karena alasan apa pun, akan terbatas pada jumlah yang sebenarnya dibayarkan oleh Pengguna kepada Bisnis dalam tiga bulan sebelum peristiwa yang menyebabkan kerusakan, atau 50 NIS, mana yang lebih rendah.
+9. Batasan Tanggung Jawab
 
-9. Ganti Rugi
+9.1. Dalam keadaan apa pun Bisnis, karyawannya, atau siapa pun atas namanya tidak akan bertanggung jawab atas kerusakan langsung, tidak langsung, konsekuensial, khusus, atau hukuman (termasuk kehilangan data, kehilangan keuntungan, penderitaan mental, dll.) yang timbul dari penggunaan atau ketidakmampuan untuk menggunakan Aplikasi.
+
+9.2. Tanpa mengurangi hal di atas, tanggung jawab maksimum dan agregat Bisnis terhadap Pengguna, karena alasan apa pun, akan terbatas pada jumlah yang sebenarnya dibayarkan oleh Pengguna kepada Bisnis dalam tiga bulan sebelum peristiwa yang menyebabkan kerusakan, atau 50 NIS, mana yang lebih rendah.
+
+10. Ganti Rugi
 
 Anda setuju untuk mengganti rugi Bisnis atas segala kerusakan, kerugian, atau biaya (termasuk biaya hukum) yang ditimbulkan padanya karena pelanggaran Anda terhadap Syarat ini atau karena kerugian yang ditimbulkan pada pihak ketiga.
 
-10. Yurisdiksi dan Hukum yang Mengatur
+11. Yurisdiksi dan Hukum yang Mengatur
 
 Syarat ini akan diatur sepenuhnya oleh hukum Negara Israel. Yurisdiksi eksklusif dalam sengketa apa pun berada di pengadilan yang kompeten di Distrik Tel Aviv-Yafo, Israel.
 
-11. Hubungi Kami
+12. Hubungi Kami
 
 Untuk pertanyaan hukum: legal@talmify.com

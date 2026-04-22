@@ -58,20 +58,26 @@ Tous les droits de propriété intellectuelle dans l'Application (y compris le c
 
 L'Application permet la sauvegarde des données sur le service iCloud d'Apple. Ce service est externe et exploité par un tiers. L'Entreprise n'est pas responsable de l'intégrité, du stockage ou de la restauration de la sauvegarde. L'Utilisateur est seul responsable de la sauvegarde de ses données.
 
-8. Limitation de Responsabilité
+8. Services tiers et composants logiciels
 
-8.1. En aucun cas l'Entreprise, ses employés ou quiconque agissant en son nom ne sera responsable de tout dommage direct, indirect, consécutif, spécial ou punitif (y compris la perte de données, la perte de profits, la détresse mentale, etc.) découlant de l'utilisation ou de l'incapacité d'utiliser l'Application.
+8.1.L'Application peut inclure ou s'appuyer sur des composants logiciels, des interfaces ou des services fournis par des tiers (tels que le traitement des paiements, l'analyse de données, le marketing ou les services cloud).
+8.2.Ces services sont soumis aux conditions d'utilisation de ces tiers respectifs.L'entreprise ne développe, ne maintient ni ne contrôle ces composants et ne fait aucune déclaration concernant leur bon fonctionnement, leur sécurité ou leur continuité de fonctionnement.
+8.3.L'Entreprise ne pourra être tenue responsable de tout dommage direct ou indirect qui vous serait causé du fait de l'utilisation, d'un crash, d'un bug ou d'une défaillance de sécurité provenant de composants tiers intégrés à l'Application.
 
-8.2. Sans déroger à ce qui précède, la responsabilité maximale et globale de l'Entreprise envers l'Utilisateur, pour quelque cause que ce soit, sera limitée au montant réellement payé par l'Utilisateur à l'Entreprise au cours des trois mois précédant l'événement causant le dommage, ou 50 NIS, selon le montant le plus bas.
+9. Limitation de Responsabilité
 
-9. Indemnisation
+9.1. En aucun cas l'Entreprise, ses employés ou quiconque agissant en son nom ne sera responsable de tout dommage direct, indirect, consécutif, spécial ou punitif (y compris la perte de données, la perte de profits, la détresse mentale, etc.) découlant de l'utilisation ou de l'incapacité d'utiliser l'Application.
+
+9.2. Sans déroger à ce qui précède, la responsabilité maximale et globale de l'Entreprise envers l'Utilisateur, pour quelque cause que ce soit, sera limitée au montant réellement payé par l'Utilisateur à l'Entreprise au cours des trois mois précédant l'événement causant le dommage, ou 50 NIS, selon le montant le plus bas.
+
+10. Indemnisation
 
 Vous acceptez d'indemniser l'Entreprise pour tout dommage, perte ou dépense (y compris les frais juridiques) causés à celle-ci en raison de votre violation de ces Conditions ou en raison d'un préjudice causé à un tiers.
 
-10. Juridiction et Loi Applicable
+11. Juridiction et Loi Applicable
 
 Ces Conditions seront régies uniquement par les lois de l'État d'Israël. La juridiction exclusive pour tout litige est dévolue aux tribunaux compétents du district de Tel Aviv-Yafo, en Israël.
 
-11. Contactez-nous
+12. Contactez-nous
 
 Pour les demandes juridiques : legal@talmify.com

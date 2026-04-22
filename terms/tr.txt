@@ -58,20 +58,26 @@ Uygulamadaki tüm fikri mülkiyet hakları (kod, tasarım, logolar ve ticari mar
 
 Uygulama, Apple'ın iCloud hizmetine veri yedeklemeye izin verir. Bu hizmet haricidir ve üçüncü bir tarafça işletilmektedir. İşletme, yedeğin bütünlüğünden, depolanmasından veya geri yüklenmesinden sorumlu değildir. Verilerini yedeklemekten yalnızca Kullanıcı sorumludur.
 
-8. Sorumluluğun Sınırlandırılması
+8. Üçüncü Taraf Hizmetleri ve Yazılım Bileşenleri
 
-8.1. Hiçbir durumda İşletme, çalışanları veya onun adına hareket eden herhangi biri, Uygulamanın kullanımından veya kullanılamamasından kaynaklanan doğrudan, dolaylı, arızi, özel veya cezai zararlardan (veri kaybı, kar kaybı, zihinsel ıstırap vb. dahil) sorumlu tutulamaz.
+8.1.Uygulama, üçüncü taraflarca sağlanan yazılım bileşenlerini, arayüzleri veya hizmetleri (ödeme işleme, veri analitiği, pazarlama veya bulut hizmetleri gibi) içerebilir veya bunlara dayanabilir.
+8.2.Bu hizmetler ilgili üçüncü tarafların kullanım şartlarına tabidir.İşletme bu bileşenleri geliştirmez, sürdürmez veya kontrol etmez ve bunların düzgün işleyişi, güvenliği veya operasyon sürekliliği hakkında hiçbir beyanda bulunmaz.
+8.3.İşletme, Uygulamaya entegre edilmiş üçüncü taraf bileşenlerden kaynaklanan kullanım, çökme, hata veya güvenlik hatası sonucunda size verilen doğrudan veya dolaylı hiçbir zarardan dolayı hiçbir sorumluluk kabul etmeyecektir.
 
-8.2. Yukarıdakilerden sapmaksızın, İşletmenin Kullanıcıya karşı herhangi bir nedenle maksimum ve toplam sorumluluğu, zarara neden olan olaydan önceki üç ay içinde Kullanıcı tarafından İşletmeye fiilen ödenen tutar veya 50 NIS (hangisi daha düşükse) ile sınırlı olacaktır.
+9. Sorumluluğun Sınırlandırılması
 
-9. Tazminat
+9.1. Hiçbir durumda İşletme, çalışanları veya onun adına hareket eden herhangi biri, Uygulamanın kullanımından veya kullanılamamasından kaynaklanan doğrudan, dolaylı, arızi, özel veya cezai zararlardan (veri kaybı, kar kaybı, zihinsel ıstırap vb. dahil) sorumlu tutulamaz.
+
+9.2. Yukarıdakilerden sapmaksızın, İşletmenin Kullanıcıya karşı herhangi bir nedenle maksimum ve toplam sorumluluğu, zarara neden olan olaydan önceki üç ay içinde Kullanıcı tarafından İşletmeye fiilen ödenen tutar veya 50 NIS (hangisi daha düşükse) ile sınırlı olacaktır.
+
+10. Tazminat
 
 Bu Koşulları ihlal etmeniz veya üçüncü bir tarafa verilen zarar nedeniyle İşletmeye verilen herhangi bir hasar, kayıp veya masrafı (yasal ücretler dahil) tazmin etmeyi kabul edersiniz.
 
-10. Yargı Yetkisi ve Geçerli Hukuk
+11. Yargı Yetkisi ve Geçerli Hukuk
 
 Bu Koşullar yalnızca İsrail Devleti yasalarına tabi olacaktır. Herhangi bir anlaşmazlıkta münhasır yargı yetkisi, İsrail'in Tel Aviv-Yafo Bölgesindeki yetkili mahkemelere aittir.
 
-11. Bize Ulaşın
+12. Bize Ulaşın
 
 Yasal sorular için: legal@talmify.com

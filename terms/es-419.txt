@@ -58,20 +58,26 @@ Todos los derechos de propiedad intelectual en la Aplicación (incluyendo códig
 
 La Aplicación permite realizar copias de seguridad de datos en el servicio iCloud de Apple. Este servicio es externo y operado por un tercero. El Negocio no es responsable de la integridad, almacenamiento o restauración de la copia de seguridad. El Usuario es el único responsable de realizar copias de seguridad de sus datos.
 
-8. Limitación de Responsabilidad
+8. Servicios y componentes de software de terceros
 
-8.1. En ningún caso el Negocio, sus empleados o cualquier persona en su nombre será responsable de ningún daño directo, indirecto, consecuente, especial o punitivo (incluyendo pérdida de datos, pérdida de ganancias, angustia mental, etc.) que surja del uso o la incapacidad de usar la Aplicación.
+8.1.La Aplicación puede incluir o depender de componentes de software, interfaces o servicios proporcionados por terceros (como procesamiento de pagos, análisis de datos, marketing o servicios en la nube).
+8.2.Estos servicios están sujetos a los términos de uso de esos respectivos terceros.La Empresa no desarrolla, mantiene ni controla estos componentes, y no hace ninguna declaración con respecto a su correcto funcionamiento, seguridad o continuidad de operación.
+8.3.La Empresa no asumirá ninguna responsabilidad por ningún daño directo o indirecto que se le cause como resultado del uso, falla, error o falla de seguridad originada por componentes de terceros integrados en la Aplicación.
 
-8.2. Sin perjuicio de lo anterior, la responsabilidad máxima y total del Negocio hacia el Usuario, por cualquier causa, se limitará a la cantidad realmente pagada por el Usuario al Negocio en los tres meses anteriores al evento que causó el daño, o 50 NIS, lo que sea menor.
+9. Limitación de Responsabilidad
 
-9. Indemnización
+9.1. En ningún caso el Negocio, sus empleados o cualquier persona en su nombre será responsable de ningún daño directo, indirecto, consecuente, especial o punitivo (incluyendo pérdida de datos, pérdida de ganancias, angustia mental, etc.) que surja del uso o la incapacidad de usar la Aplicación.
+
+9.2. Sin perjuicio de lo anterior, la responsabilidad máxima y total del Negocio hacia el Usuario, por cualquier causa, se limitará a la cantidad realmente pagada por el Usuario al Negocio en los tres meses anteriores al evento que causó el daño, o 50 NIS, lo que sea menor.
+
+10. Indemnización
 
 Usted acepta indemnizar al Negocio por cualquier daño, pérdida o gasto (incluyendo honorarios legales) causados a este debido a su violación de estos Términos o debido a daños causados a un tercero.
 
-10. Jurisdicción y Ley Aplicable
+11. Jurisdicción y Ley Aplicable
 
 Estos Términos se regirán únicamente por las leyes del Estado de Israel. La jurisdicción exclusiva en cualquier disputa se confiere a los tribunales competentes en el Distrito de Tel Aviv-Yafo, Israel.
 
-11. Contáctenos
+12. Contáctenos
 
 Para consultas legales: legal@talmify.com
