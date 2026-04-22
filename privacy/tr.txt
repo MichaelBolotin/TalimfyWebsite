@@ -23,6 +23,7 @@ Uygulamanın işletimi için bilgileri harici hizmet sağlayıcılarla paylaşı
 * Google Firebase: Veri depolama, istatistiksel analiz ve diğer sağlayıcılardan veri almak için.
 * Apple Inc.: Ödeme işleme, abonelik yönetimi, iCloud yedeklemesi (tarafınızdan etkinleştirildiyse) ve Apple Intelligence hizmetlerinin sağlanması için.
 * RevenueCat: Abonelik altyapı yönetimi için bir platform. Bu hizmet, makbuz doğrulama, abonelik durumunuzu yönetme ve kullanıcı deneyimini iyileştirmek için satın alma verilerini analiz hizmetleriyle (Firebase) senkronize etmek için kullanılır.
+* TikTok: Pazarlama kampanyalarımızın etkinliğini ölçmek ve yükleme ilişkilendirmesi için TikTok platformunu kullanıyoruz. Bu hizmete iletilen bilgiler kesinlikle tekniktir (IP adresi ve Uygulama başlatıldığında temel cihaz verileri gibi). Üçüncü taraf uygulamaları veya web siteleri (Uygulamalar Arası Takip) üzerinden kullanıcıların takibini yapmadığımızı, izin talep etmediğimizi veya buna izin vermediğimizi burada açıklığa kavuştururuz. Bilgiler yalnızca İşletmenin dahili istatistiksel amaçları doğrultusunda kullanılır ve bu üçüncü tarafça işlenmesi TikTok'un Gizlilik Politikasına tabidir.
 
 3. Yapay Zeka (AI) Hizmetleri
 

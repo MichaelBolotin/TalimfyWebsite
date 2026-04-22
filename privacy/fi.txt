@@ -23,6 +23,7 @@ Jaamme tietoja ulkoisten palveluntarjoajien kanssa sovelluksen toimintaa varten:
 * Google Firebase: Tietojen tallentamiseen, tilastolliseen analyysiin ja tietojen vastaanottamiseen muilta palveluntarjoajilta.
 * Apple Inc.: Maksujen käsittelyyn, tilausten hallintaan, iCloud-varmuuskopiointiin (jos olet ottanut sen käyttöön) ja Apple Intelligence -palveluiden tarjoamiseen.
 * RevenueCat: Alusta tilausinfrastruktuurin hallintaan. Tätä palvelua käytetään kuittien vahvistamiseen, tilaustilanteesi hallintaan ja ostotietojen synkronointiin analytiikkapalveluiden (Firebase) kanssa käyttökokemuksen parantamiseksi.
+* TikTok: Käytämme TikTok-alustaa markkinointikampanjoidemme tehokkuuden mittaamiseen ja asennusten attribuutioon. Tähän palveluun välitettävät tiedot ovat täysin teknisiä (kuten IP-osoite ja laitteen perustiedot sovelluksen käynnistyksen yhteydessä). Selvennämme täten, että emme suorita, pyydä lupaa tai salli käyttäjien seurantaa kolmannen osapuolen sovelluksissa tai verkkosivustoissa (sovellusten välinen seuranta). Tietoja käytetään yksinomaan Yrityksen sisäisiin tilastollisiin tarkoituksiin, ja tämä kolmas osapuoli käsittelee niitä TikTokin tietosuojakäytännön mukaisesti.
 
 3. Tekoälypalvelut (AI)
 

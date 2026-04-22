@@ -23,6 +23,7 @@ Sdílíme informace s externími poskytovateli služeb pro provoz aplikace:
 * Google Firebase: Pro ukládání dat, statistickou analýzu a příjem dat od jiných poskytovatelů.
 * Apple Inc.: Pro zpracování plateb, správu předplatného, zálohování na iCloud (pokud jste jej povolili) a poskytování služeb Apple Intelligence.
 * RevenueCat: Platforma pro správu infrastruktury předplatného. Tato služba se používá pro ověřování účtenek, správu stavu vašeho předplatného a synchronizaci údajů o nákupech s analytickými službami (Firebase) pro zlepšení uživatelského zážitku.
+* TikTok: Platformu TikTok využíváme k měření efektivity našich marketingových kampaní a k připisování instalací. Informace přenášené do této služby jsou čistě technické (jako je IP adresa a základní údaje o zařízení při spuštění aplikace). Tímto objasňujeme, že neprovádíme, nepožadujeme povolení ani nepovolujeme sledování uživatelů v aplikacích nebo webových stránkách třetích stran (Cross-App Tracking). Informace se používají výhradně pro interní statistické účely společnosti a jejich zpracování touto třetí stranou podléhá zásadám ochrany osobních údajů společnosti TikTok.
 
 3. Služby umělé inteligence (AI)
 

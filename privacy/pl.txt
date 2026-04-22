@@ -23,6 +23,7 @@ Udostępniamy informacje zewnętrznym dostawcom usług w celu działania Aplikac
 * Google Firebase: Do przechowywania danych, analizy statystycznej i otrzymywania danych od innych dostawców.
 * Apple Inc.: Do przetwarzania płatności, zarządzania subskrypcjami, kopii zapasowych iCloud (jeśli zostały przez Ciebie włączone) i świadczenia usług Apple Intelligence.
 * RevenueCat: Platforma do zarządzania infrastrukturą subskrypcji. Ta usługa służy do walidacji paragonów, zarządzania statusem subskrypcji i synchronizacji danych zakupowych z usługami analitycznymi (Firebase) w celu poprawy doświadczenia użytkownika.
+* TikTok: Wykorzystujemy platformę TikTok do pomiaru skuteczności naszych kampanii marketingowych i przypisywania instalacji. Informacje przesyłane do tej usługi mają charakter ściśle techniczny (takie jak adres IP i podstawowe dane urządzenia po uruchomieniu Aplikacji). Niniejszym wyjaśniamy, że nie prowadzimy, nie prosimy o pozwolenie ani nie zezwalamy na śledzenie użytkowników w aplikacjach lub witrynach internetowych stron trzecich (śledzenie między aplikacjami). Informacje są wykorzystywane wyłącznie do wewnętrznych celów statystycznych Firmy, a ich przetwarzanie przez tę stronę trzecią podlega Polityce Prywatności TikTok.
 
 3. Usługi sztucznej inteligencji (AI)
 

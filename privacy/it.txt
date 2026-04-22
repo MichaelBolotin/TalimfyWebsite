@@ -23,6 +23,7 @@ Condividiamo informazioni con fornitori di servizi esterni per il funzionamento 
 * Google Firebase: Per l'archiviazione dei dati, l'analisi statistica e la ricezione di dati da altri fornitori.
 * Apple Inc.: Per l'elaborazione dei pagamenti, la gestione degli abbonamenti, il backup su iCloud (se abilitato da te) e la fornitura di servizi di Apple Intelligence.
 * RevenueCat: Una piattaforma per la gestione dell'infrastruttura di abbonamento. Questo servizio viene utilizzato per la convalida delle ricevute, la gestione dello stato del tuo abbonamento e la sincronizzazione dei dati di acquisto con i servizi di analisi (Firebase) per migliorare l'esperienza utente.
+* TikTok: utilizziamo la piattaforma TikTok per misurare l'efficacia delle nostre campagne di marketing e per l'attribuzione delle installazioni. Le informazioni trasmesse a questo servizio sono strettamente tecniche (come l'indirizzo IP e i dati di base del dispositivo all'avvio dell'App). Con la presente chiariamo che non conduciamo, richiediamo l'autorizzazione o consentiamo il tracciamento degli utenti attraverso applicazioni o siti Web di terze parti (monitoraggio cross-app). Le informazioni vengono utilizzate esclusivamente per scopi statistici interni dell'Azienda e il loro trattamento da parte di questa terza parte è soggetto all'Informativa sulla privacy di TikTok.
 
 3. Servizi di Intelligenza Artificiale (IA)
 
