@@ -23,7 +23,6 @@ Kami berkongsi maklumat dengan penyedia perkhidmatan luaran untuk operasi Aplika
 * Google Firebase: Untuk penyimpanan data, analisis statistik, dan menerima data daripada penyedia lain.
 * Apple Inc.: Untuk pemprosesan pembayaran, pengurusan langganan, sandaran iCloud (jika diaktifkan oleh anda), dan penyediaan perkhidmatan Apple Intelligence.
 * RevenueCat: Satu platform untuk pengurusan infrastruktur langganan. Perkhidmatan ini digunakan untuk pengesahan resit, mengurus status langganan anda, dan menyegerakkan data pembelian dengan perkhidmatan analitis (Firebase) untuk meningkatkan pengalaman pengguna.
-* TikTok: Kami menggunakan platform TikTok untuk mengukur keberkesanan kempen pemasaran kami dan untuk pemasangan atribusi. Maklumat yang dihantar kepada perkhidmatan ini adalah teknikal sepenuhnya (seperti alamat IP dan data peranti asas semasa melancarkan Apl). Kami dengan ini menjelaskan bahawa kami tidak menjalankan, meminta kebenaran atau membenarkan penjejakan pengguna merentas aplikasi atau tapak web pihak ketiga (Penjejakan Merentas Apl). Maklumat ini digunakan semata-mata untuk tujuan statistik dalaman Perniagaan, dan pemprosesannya oleh pihak ketiga ini tertakluk pada Dasar Privasi TikTok.
 
 3. Perkhidmatan Kecerdasan Buatan (AI)
 

@@ -23,7 +23,6 @@ Partajăm informații cu furnizori de servicii externi pentru funcționarea Apli
 * Google Firebase: Pentru stocarea datelor, analiză statistică și primirea datelor de la alți furnizori.
 * Apple Inc.: Pentru procesarea plăților, gestionarea abonamentelor, backup iCloud (dacă este activat de dvs.) și furnizarea de servicii Apple Intelligence.
 * RevenueCat: O platformă pentru gestionarea infrastructurii de abonament. Acest serviciu este utilizat pentru validarea chitanțelor, gestionarea stării abonamentului dvs. și sincronizarea datelor de achiziție cu servicii de analiză (Firebase) pentru a îmbunătăți experiența utilizatorului.
-* TikTok: Utilizăm platforma TikTok pentru a măsura eficacitatea campaniilor noastre de marketing și pentru atribuirea instalărilor. Informațiile transmise acestui serviciu sunt strict tehnice (cum ar fi adresa IP și datele de bază ale dispozitivului la lansarea aplicației). Prin prezenta, clarificăm că nu efectuăm, nu solicităm permisiunea sau nu permitem urmărirea utilizatorilor prin aplicații sau site-uri web terță parte (Cross-App Tracking). Informațiile sunt utilizate exclusiv în scopuri statistice interne ale Afacerii, iar prelucrarea lor de către această terță parte este supusă Politicii de confidențialitate a TikTok.
 
 3. Servicii de Inteligență Artificială (AI)
 

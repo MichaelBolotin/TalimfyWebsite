@@ -23,7 +23,6 @@ Compartim informació amb proveïdors de serveis externs per al funcionament de 
 * Google Firebase: Per a l'emmagatzematge de dades, anàlisi estadística i recepció de dades d'altres proveïdors.
 * Apple Inc.: Per al processament de pagaments, gestió de subscripcions, còpia de seguretat d'iCloud (si l'activeu) i provisió de serveis d'Apple Intelligence.
 * RevenueCat: Una plataforma per a la gestió d'infraestructures de subscripció. Aquest servei s'utilitza per a la validació de rebuts, gestió del vostre estat de subscripció i sincronització de dades de compra amb serveis d'analítica (Firebase) per millorar l'experiència de l'usuari.
-* TikTok: fem servir la plataforma TikTok per mesurar l'eficàcia de les nostres campanyes de màrqueting i per a l'atribució d'instal·lacions. La informació que es transmet a aquest servei és estrictament tècnica (com ara l'adreça IP i les dades bàsiques del dispositiu en iniciar l'App). Per la present aclarim que no realitzem, sol·licitem permís ni permetem el seguiment dels usuaris a través d'aplicacions o llocs web de tercers (seguiment entre aplicacions). La informació s'utilitza únicament amb finalitats estadístiques internes de l'empresa, i el seu tractament per part d'aquest tercer està subjecte a la Política de privadesa de TikTok.
 
 3. Serveis d'Intel·ligència Artificial (IA)
 
