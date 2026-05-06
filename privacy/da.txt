@@ -23,7 +23,6 @@ Vi deler oplysninger med eksterne tjenesteudbydere til driften af Appen:
 * Google Firebase: Til datalagring, statistisk analyse og modtagelse af data fra andre udbydere.
 * Apple Inc.: Til betalingsbehandling, abonnementsstyring, iCloud-backup (hvis aktiveret af dig) og levering af Apple Intelligence-tjenester.
 * RevenueCat: En platform til styring af abonnementsinfrastruktur. Denne tjeneste bruges til kvitteringsvalidering, styring af din abonnementsstatus og synkronisering af købsdata med analysetjenester (Firebase) for at forbedre brugeroplevelsen.
-* TikTok: Vi bruger TikTok-platformen til at måle effektiviteten af ​​vores marketingkampagner og til installationstilskrivning. De oplysninger, der sendes til denne tjeneste, er strengt tekniske (såsom IP-adresse og grundlæggende enhedsdata ved lancering af appen). Vi præciserer hermed, at vi ikke udfører, anmoder om tilladelse til eller tillader sporing af brugere på tværs af tredjepartsapplikationer eller -websteder (Cross-App Tracking). Oplysningerne bruges udelukkende til virksomhedens interne statistiske formål, og dens behandling af denne tredjepart er underlagt TikToks privatlivspolitik.
 
 3. Kunstig Intelligens (AI) Tjenester
 

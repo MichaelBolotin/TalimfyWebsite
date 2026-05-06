@@ -23,7 +23,6 @@ Chúng tôi chia sẻ thông tin với các nhà cung cấp dịch vụ bên ngo
 * Google Firebase: Để lưu trữ dữ liệu, phân tích thống kê và nhận dữ liệu từ các nhà cung cấp khác.
 * Apple Inc.: Để xử lý thanh toán, quản lý đăng ký, sao lưu iCloud (nếu bạn bật) và cung cấp các dịch vụ Apple Intelligence.
 * RevenueCat: Một nền tảng để quản lý cơ sở hạ tầng đăng ký. Dịch vụ này được sử dụng để xác thực biên lai, quản lý trạng thái đăng ký của bạn và đồng bộ hóa dữ liệu mua hàng với các dịch vụ phân tích (Firebase) để cải thiện trải nghiệm người dùng.
-* TikTok: Chúng tôi sử dụng nền tảng TikTok để đo lường hiệu quả của các chiến dịch tiếp thị và phân bổ lượt cài đặt. Thông tin được truyền đến dịch vụ này hoàn toàn mang tính kỹ thuật (chẳng hạn như địa chỉ IP và dữ liệu cơ bản của thiết bị khi khởi chạy Ứng dụng). Chúng tôi xin làm rõ rằng chúng tôi không tiến hành, yêu cầu cấp phép hoặc cho phép theo dõi người dùng trên các ứng dụng hoặc trang web của bên thứ ba (Theo dõi ứng dụng chéo). Thông tin chỉ được sử dụng cho mục đích thống kê nội bộ của Doanh nghiệp và việc bên thứ ba này xử lý thông tin này phải tuân theo Chính sách quyền riêng tư của TikTok.
 
 3. Dịch vụ Trí tuệ Nhân tạo (AI)
 

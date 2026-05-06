@@ -23,7 +23,6 @@ Mes dalijamės informacija su išoriniais paslaugų teikėjais programėlės vei
 * „Google Firebase“: duomenų saugojimui, statistinei analizei ir duomenų gavimui iš kitų teikėjų.
 * „Apple Inc.“: mokėjimų apdorojimui, prenumeratų valdymui, „iCloud“ atsarginėms kopijoms (jei įjungėte) ir „Apple Intelligence“ paslaugų teikimui.
 * „RevenueCat“: prenumeratų infrastruktūros valdymo platforma. Ši paslauga naudojama kvitų patvirtinimui, jūsų prenumeratos būsenos valdymui ir pirkimo duomenų sinchronizavimui su analizės paslaugomis („Firebase“), siekiant pagerinti vartotojo patirtį.
-* TikTok: Mes naudojame TikTok platformą rinkodaros kampanijų efektyvumui įvertinti ir diegimo priskyrimui. Šiai paslaugai perduodama informacija yra griežtai techninė (pvz., IP adresas ir pagrindiniai įrenginio duomenys paleidžiant Programėlę). Paaiškiname, kad nevykdome, neprašome leidimo ir neleidžiame sekti naudotojų trečiųjų šalių programose ar svetainėse (kryžminis stebėjimas). Informacija naudojama tik Įmonės vidaus statistikos tikslais, o šios trečiosios šalies atliekamam jos apdorojimui taikoma TikTok privatumo politika.
 
 3. Dirbtinio intelekto (DI) paslaugos
 
